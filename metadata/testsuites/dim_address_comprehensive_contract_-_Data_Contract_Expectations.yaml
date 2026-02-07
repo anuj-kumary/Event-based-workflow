@@ -1,0 +1,65 @@
+name: dim_address_comprehensive_contract - Data Contract Expectations
+displayName: dim_address_comprehensive_contract - Data Contract Expectations
+fullyQualifiedName: dim_address_comprehensive_contract - Data Contract Expectations
+description: "Logical test suite for Data Contract: dim_address_comprehensive_contract"
+tests:
+  - id: 7621545c-ad2b-4ab4-a359-ff98eb56efd4
+    type: testCase
+    name: column_values_to_be_between
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between
+    description: test the number of column in table is between x and y
+    displayName: column_values_to_be_between
+    deleted: false
+  - id: 37708fa9-0a30-413d-a8b6-b92fa2a84c15
+    type: testCase
+    name: column_values_to_be_between_with_sample_rows
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between_with_sample_rows
+    description: example of failing test with sample rows
+    displayName: column_values_to_be_between_with_sample_rows
+    deleted: false
+  - id: 6e861fd2-6509-45d6-91a2-a10a18d9d430
+    type: testCase
+    name: table_column_count_equals
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.table_column_count_equals
+    description: test the number of column in table
+    displayName: table_column_count_equals
+    deleted: false
+pipelines:
+  - id: 7d504db6-dcbb-443f-b6cb-f6e28e4e52fa
+    type: ingestionPipeline
+    name: b8773b3a-72b0-44b7-8fd0-cc3f1c2e8b1b
+    fullyQualifiedName: dim_address_comprehensive_contract - Data Contract Expectations.b8773b3a-72b0-44b7-8fd0-cc3f1c2e8b1b
+    displayName: dim_address_comprehensive_contract - Data Contract Expectations
+    deleted: false
+serviceType: TestSuite
+owners: []
+basic: false
+dataContract:
+  id: 609b2deb-08e2-4bb1-ad3c-d74e606b4cff
+  type: dataContract
+summary:
+  success: 1
+  failed: 1
+  aborted: 1
+  queued: 0
+  total: 3
+  columnTestSummary:
+    - success: 0
+      failed: 1
+      aborted: 1
+      queued: 0
+      total: 2
+      entityLink: <#E::table::sample_data.ecommerce_db.shopify.dim_address::columns::zip>
+testCaseResultSummary:
+  - testCaseName: sample_data.ecommerce_db.shopify.dim_address.table_column_count_equals
+    status: Success
+    timestamp: 1764077305151
+  - testCaseName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between
+    status: Aborted
+    timestamp: 1764077355722
+  - testCaseName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between_with_sample_rows
+    status: Failed
+    timestamp: 1764077367604
+tags: []
+inherited: false
+reviewers: []
