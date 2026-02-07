@@ -1,0 +1,358 @@
+name: chirag
+fullyQualifiedName: chirag
+displayName: Chirag Madlani DS
+email: chirag@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+authenticationMechanism: {}
+profile:
+  images:
+    image: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s96-c
+    image24: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s24-c
+    image32: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s32-c
+    image48: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s48-c
+    image72: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s72-c
+    image192: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s192-c
+    image512: https://lh3.googleusercontent.com/a/ACg8ocKpAngkq1GUH5Y4-mtDXPpvaI0Beos6i5b6IrK9-A-07Q=s512-c
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+    href: https://sandbox-beta.open-metadata.org/api/v1/teams/9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+personas:
+  - id: 0fe6c565-1705-42cf-a2e6-89d340d30039
+    type: persona
+    name: Data Engineer
+    fullyQualifiedName: Data Engineer
+    description: <p>Data Steward</p>
+    displayName: Data Steward
+  - id: d8ac9ead-c9d7-4f0f-a250-7b5482c551c8
+    type: persona
+    name: Data Engineers
+    fullyQualifiedName: Data Engineers
+    displayName: Data Engineers
+  - id: db3628b1-0482-42a8-90e0-e073a6c93e22
+    type: persona
+    name: Data Scientist
+    fullyQualifiedName: Data Scientist
+    description: Data Scientist Persona
+    displayName: Data Scientists
+  - id: 77a98d9b-d90c-4ba1-807d-1d530ad4c2b5
+    type: persona
+    name: Legal Team
+    fullyQualifiedName: Legal Team
+    displayName: Legal Team
+  - id: 2dc6ccb1-bf50-4352-a9e3-106272c7407e
+    type: persona
+    name: MyDataPersona
+    fullyQualifiedName: MyDataPersona
+    displayName: MyDataPersona
+  - id: 34613d43-abfe-4b40-b850-c01761a8b84b
+    type: persona
+    name: New-data
+    fullyQualifiedName: New-data
+    displayName: New-data
+  - id: 76ade560-e24e-44c4-9250-2a86ab13bfd7
+    type: persona
+    name: Test
+    fullyQualifiedName: Test
+    description: Test has bare minimum functionality
+    displayName: Testing
+  - id: 37c7f87c-b82d-4e0f-8237-0722ae9be482
+    type: persona
+    name: dsfv
+    fullyQualifiedName: dsfv
+    description: ""
+    displayName: dsfv
+  - id: 6c989487-080c-419c-b476-a17b07839644
+    type: persona
+    name: new persona chirag
+    fullyQualifiedName: new persona chirag
+    description: "<h2>What is Lorem Ipsum?</h2><p><strong>Lorem Ipsum</strong> is\
+      \ simply dummy text of the printing and typesetting industry. Lorem Ipsum has\
+      \ been the industry's standard dummy text ever since the 1500s, when an unknown\
+      \ printer took a galley of type and scrambled it to make a type specimen book.\
+      \ It has survived not only five centuries, but also the leap into electronic\
+      \ typesetting, remaining essentially unchanged. It was popularised in the 1960s\
+      \ with the release of Letraset sheets containing Lorem Ipsum passages, and more\
+      \ recently with desktop publishing software like Aldus PageMaker including versions\
+      \ of Lorem Ipsum.</p><h2>Why do we use it?</h2><p>It is a long established fact\
+      \ that a reader will be distracted by the readable content of a page when looking\
+      \ at its layout. The point of using Lorem Ipsum is that it has a more-or-less\
+      \ normal distribution of letters, as opposed to using 'Content here, content\
+      \ here', making it look like readable English. Many desktop publishing packages\
+      \ and web page editors now use Lorem Ipsum as their default model text, and\
+      \ a search for 'lorem ipsum' will uncover many web sites still in their infancy.\
+      \ Various versions have evolved over the years, sometimes by accident, sometimes\
+      \ on purpose (injected humour and the like).</p><p><br></p><h2>Where does it\
+      \ come from?</h2><p>Contrary to popular belief, Lorem Ipsum is not simply random\
+      \ text. It has roots in a piece of classical Latin literature from 45 BC, making\
+      \ it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney\
+      \ College in Virginia, looked up one of the more obscure Latin words, consectetur,\
+      \ from a Lorem Ipsum passage, and going through the cites of the word in classical\
+      \ literature, discovered the undoubtable source. Lorem Ipsum comes from sections\
+      \ 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of\
+      \ Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the\
+      \ theory of ethics, very popular during the Renaissance. The first line of Lorem\
+      \ Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><p>The\
+      \ standard chunk of Lorem Ipsum used since the 1500s is reproduced below for\
+      \ those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et\
+      \ Malorum\" by Cicero are also reproduced in their exact original form, accompanied\
+      \ by English versions from the 1914 translation by H. Rackham.</p><h2>Where\
+      \ can I get some?</h2><p>There are many variations of passages of Lorem Ipsum\
+      \ available, but the majority have suffered alteration in some form, by injected\
+      \ humour, or randomised words which don't look even slightly believable. If\
+      \ you are going to use a passage of Lorem Ipsum, you need to be sure there isn't\
+      \ anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators\
+      \ on the Internet tend to repeat predefined chunks as necessary, making this\
+      \ the first true generator on the Internet. It uses a dictionary of over 200\
+      \ Latin words, combined with a handful of model sentence structures, to generate\
+      \ Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore\
+      \ always free from repetition, injected humour, or non-characteristic words\
+      \ etc.</p>"
+    displayName: Data Quality Analyst
+owns:
+  - id: 32808fd8-6132-4ad1-bc93-1d8a12778249
+    type: page
+    name: Article_bWDCnoFa
+    fullyQualifiedName: Article_bWDCnoFa
+    description: "<table class=\"om-table\" data-om-table=\"om-table\" style=\"minWidth:\
+      \ 75px\"><colgroup><col><col><col></colgroup><tbody><tr class=\"om-table-row\"\
+      \ data-om-table-row=\"om-table-row\"><th class=\"om-table-header\" data-om-table-header=\"\
+      om-table-header\" colspan=\"1\" rowspan=\"1\"><p>Name</p></th><th class=\"om-table-header\"\
+      \ data-om-table-header=\"om-table-header\" colspan=\"1\" rowspan=\"1\"><p>email</p></th><th\
+      \ class=\"om-table-header\" data-om-table-header=\"om-table-header\" colspan=\"\
+      1\" rowspan=\"1\"><p>phone</p></th></tr><tr class=\"om-table-row\" data-om-table-row=\"\
+      om-table-row\"><td class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\"\
+      \ colspan=\"1\" rowspan=\"1\"><p>Chirag</p></td><td class=\"om-table-cell\"\
+      \ data-om-table-cell=\"om-table-cell\" colspan=\"1\" rowspan=\"1\"><p>chirag@getcollate.io</p></td><td\
+      \ class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\" colspan=\"1\"\
+      \ rowspan=\"1\"><p>09876545321</p></td></tr><tr class=\"om-table-row\" data-om-table-row=\"\
+      om-table-row\"><td class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\"\
+      \ colspan=\"1\" rowspan=\"1\"><p>Mohit</p></td><td class=\"om-table-cell\" data-om-table-cell=\"\
+      om-table-cell\" colspan=\"1\" rowspan=\"1\"><p>mohit@getcollate.io</p></td><td\
+      \ class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\" colspan=\"1\"\
+      \ rowspan=\"1\"><p>09875643214</p></td></tr><tr class=\"om-table-row\" data-om-table-row=\"\
+      om-table-row\"><td class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\"\
+      \ colspan=\"1\" rowspan=\"1\"><p>Karan</p></td><td class=\"om-table-cell\" data-om-table-cell=\"\
+      om-table-cell\" colspan=\"1\" rowspan=\"1\"><p>karan@getcollate.io</p></td><td\
+      \ class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\" colspan=\"1\"\
+      \ rowspan=\"1\"><p>12345678909</p></td></tr><tr class=\"om-table-row\" data-om-table-row=\"\
+      om-table-row\"><td class=\"om-table-cell\" data-om-table-cell=\"om-table-cell\"\
+      \ colspan=\"1\" rowspan=\"1\"><p></p></td><td class=\"om-table-cell\" data-om-table-cell=\"\
+      om-table-cell\" colspan=\"1\" rowspan=\"1\"><p></p></td><td class=\"om-table-cell\"\
+      \ data-om-table-cell=\"om-table-cell\" colspan=\"1\" rowspan=\"1\"><p></p></td></tr></tbody></table><pre><code>select\
+      \ * from dim_address;</code></pre><blockquote><p>Hello I am a note</p><p>mm</p><ul\
+      \ class=\"om-list-disc\"><li class=\"om-leading-normal\"><p>asdas</p></li><li\
+      \ class=\"om-leading-normal\"><p>asd</p></li><li class=\"om-leading-normal\"\
+      ><p>asdas</p></li><li class=\"om-leading-normal\"><p>d</p></li></ul></blockquote><div\
+      \ callouttype=\"note\" data-type=\"callout\" data-callouttype=\"note\"><p>great\
+      \ work</p></div><p></p>"
+    displayName: Test Chiragm
+  - id: 5cd26047-0e2f-44f8-9612-c43b7e0c1fdb
+    type: glossaryTerm
+    name: Bug.Testing%done
+    fullyQualifiedName: '"Bug.Test"."Bug.Testing%done"'
+    description: Bug.Testing%done
+    displayName: Bug.Testing%done
+    deleted: false
+  - id: 156f70e0-4c35-4b18-beda-560b9ddac9a8
+    type: glossary
+    name: PW%747f0b7b.Zany3b07d0dc
+    fullyQualifiedName: '"PW%747f0b7b.Zany3b07d0dc"'
+    description: asd
+    displayName: PW 747f0b7b
+    deleted: false
+  - id: 8e449548-16d3-46a1-82f1-5c5de3b21b94
+    type: glossaryTerm
+    name: PW.42df2f78%Dolphin032eb2de
+    fullyQualifiedName: '"PW%747f0b7b.Zany3b07d0dc"."PW.42df2f78%Dolphin032eb2de"'
+    description: aasd
+    displayName: PW.42df2f78%Dolphin032eb2de
+    deleted: false
+  - id: 46f66cf5-ee24-46c9-81ca-b417bc51ba3d
+    type: page
+    name: QuickLink_UbdC2g7B
+    fullyQualifiedName: QuickLink_UbdC2g7B
+    description: ""
+    displayName: testing link pathName
+  - id: 3f2e7129-8666-4863-9a58-1c02b9562366
+    type: dataInsightDashboard
+    name: "Sales dashboard #1"
+    fullyQualifiedName: "Sales dashboard #1"
+    description: Sales dashboard
+    displayName: "Sales dashboard #1"
+    deleted: false
+  - id: 04d31161-1c9f-43f7-9fb4-ac90a05ee95a
+    type: glossary
+    name: TestNewGlossary
+    fullyQualifiedName: TestNewGlossary
+    description: TestNewGlossary
+    displayName: TestNewGlossary
+    deleted: false
+  - id: 4c0714e7-6d5a-4102-baa9-2cd7e6a7df7a
+    type: tag
+    name: classificaion-tag-1
+    fullyQualifiedName: classificaion.classificaion-tag-1
+    description: classificaion-tag-1
+    displayName: classificaion-tag-1
+    deleted: false
+  - id: 7f2bbf69-0928-438e-aa14-2799a246d08b
+    type: apiEndpoint
+    name: createTable
+    fullyQualifiedName: ometa_api_service.tables.createTable
+    description: Create a new table under an existing database
+    displayName: Create a table
+    deleted: false
+  - id: 55babf20-7657-4053-be24-93b4a1ca7c47
+    type: dataInsightDashboard
+    name: db-1231
+    fullyQualifiedName: db-1231
+    description: asd
+    displayName: db-1231
+    deleted: false
+  - id: c5b8caf5-5244-4963-9775-c9c71d082a48
+    type: dataInsightDashboard
+    name: demo-redshift
+    fullyQualifiedName: demo-redshift
+    description: 'demo '
+    displayName: demo-redshift
+    deleted: false
+  - id: 7d54ef9e-b1dd-4cf6-9aa8-a51183c98b46
+    type: testSuite
+    name: mysql_matrix
+    fullyQualifiedName: mysql_matrix
+    description: a
+    displayName: mysql_matrix
+    deleted: false
+  - id: 599c7ccb-814f-44c7-b03f-c25f4d0c1a79
+    type: glossaryTerm
+    name: nested term 2
+    fullyQualifiedName: '"Bug.Test"."Bug.Testing%done".nested term 2'
+    description: asd
+    displayName: nested term
+    deleted: false
+  - id: ae0591a3-0421-4962-997f-601f5c72f7ee
+    type: table
+    name: sales
+    fullyQualifiedName: athena_prod.default.testdatalake_db.sales
+    displayName: sales
+    deleted: false
+  - id: f7a43e98-a11c-4721-b322-212eb677625f
+    type: table
+    name: sales
+    fullyQualifiedName: athena_prod.default.newschema.sales
+    description: ""
+    displayName: sales
+    deleted: false
+  - id: 3196d544-b563-49a4-a31b-c15175a2e6c0
+    type: glossaryTerm
+    name: test-nested-term
+    fullyQualifiedName: '"Bug.Test"."Bug.Testing%done".term.test-nested-term'
+    description: enst
+    displayName: NEsted term
+    deleted: false
+  - id: 1535f53c-4e31-45a1-a42c-16e662891846
+    type: databaseService
+    name: test-service
+    fullyQualifiedName: test-service
+    description: service tour
+    displayName: test-service
+    deleted: false
+  - id: 86fec57c-2d3e-4f19-9930-e116947cf73d
+    type: testSuite
+    name: testing / test suite do not use it
+    fullyQualifiedName: testing / test suite do not use it
+    description: testing / test suite do not use it
+    displayName: testing / test suite do not use it
+    deleted: false
+follows:
+  - id: 597e5d8e-84bc-414d-aff3-fa23b9d12a4b
+    type: page
+    name: Article_02HAZfrC
+    fullyQualifiedName: Article_02HAZfrC
+    description: "<p>The fact table captures the value of products sold or returned,\
+      \ as well as the values of other charges such as taxes and shipping costs. The\
+      \ sales table contains one row per order line item, one row per returned line\
+      \ item, and one row per shipping charge. Use this table when you need financial\
+      \ metrics. test</p><p></p><div data-type=\"file-attachment\" data-url=\"https://cdn.pixabay.com/photo/2022/09/27/19/46/ai-generated-7483596_960_720.jpg\"\
+      \ data-filename=\"image\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+      0\" data-is-image=\"true\"></div><p></p><div data-type=\"file-attachment\" data-url=\"\
+      http://sandbox-beta.open-metadata.org/api/v1/attachments/199d9211-0e06-4cd1-ac3b-23dbd274d930/download?direct=true\"\
+      \ data-filename=\"SCR-20250624-pnbz.png\" data-filesize=\"122057\" data-mimetype=\"\
+      image/png\" data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"\
+      true\" data-alt=\"SCR-20250624-pnbz.png\"></div><p></p><p></p><p></p><p><a target=\"\
+      _blank\" rel=\"noopener noreferrer nofollow\" href=\"https://sandbox-beta.open-metadata.org/users/dhruv.p\"\
+      \ data-id=\"84c3b0ae-c426-4d03-b3dd-2a56c5d49b38\" data-label=\"Dhruv\" data-entitytype=\"\
+      user\" data-fqn=\"&quot;dhruv.p&quot;\" data-type=\"mention\"><#E::user::\"\
+      dhruv.p\"|[@Dhruv](https://sandbox-beta.open-metadata.org/users/dhruv.p)></a></p>"
+    displayName: knowledge center article
+  - id: 40db3eef-56e6-4205-acf8-2b5d9aeb68f2
+    type: page
+    name: Article_02VxXRNt
+    fullyQualifiedName: Article_02VxXRNt
+    description: "<p></p><p></p><p><a target=\"_blank\" rel=\"noopener noreferrer\
+      \ nofollow\" href=\"https://sandbox-beta.open-metadata.org/knowledge-center/Article_02VxXRNt\"\
+      \ data-id=\"40db3eef-56e6-4205-acf8-2b5d9aeb68f2\" data-label=\"Article_02VxXRNt\"\
+      \ data-entitytype=\"page\" data-fqn=\"Article_02VxXRNt\" data-type=\"hashtag\"\
+      ><#E::page::Article_02VxXRNt|[#Article_02VxXRNt](https://sandbox-beta.open-metadata.org/knowledge-center/Article_02VxXRNt)></a></p><p></p><p>test\
+      \ test test <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\
+      https://sandbox-beta.open-metadata.org/glossary/Testing%20Glossary.Test.test\"\
+      \ data-id=\"99230350-d3fd-4363-a4c2-b24a183e019f\" data-label=\"test\" data-entitytype=\"\
+      glossaryTerm\" data-fqn=\"Testing Glossary.Test.test\" data-type=\"hashtag\"\
+      ><#E::glossaryTerm::Testing Glossary.Test.test|[#test](https://sandbox-beta.open-metadata.org/glossary/Testing%20Glossary.Test.test)></a></p><p></p><p></p>"
+    displayName: Article_02VxXRNt
+  - id: bb830a5b-7598-48cb-9ed1-7440436cca04
+    type: table
+    name: DBT_OUTPUT_UPPER_9_JULY
+    fullyQualifiedName: ingest_dbt_test.HK_DB.HK_SCHEMA.DBT_OUTPUT_UPPER_9_JULY
+    displayName: DBT_OUTPUT_UPPER_9_JULY
+    deleted: false
+  - id: 05b59ee1-f1c7-4f6e-ba3e-124cce6404fa
+    type: dashboardDataModel
+    name: d7535bed-62fd-40a9-a69d-b10107ba0ae9
+    fullyQualifiedName: test_pbi.model.d7535bed-62fd-40a9-a69d-b10107ba0ae9
+    displayName: Supplier Quality Analysis Sample
+    deleted: false
+  - id: a11898ae-fef4-4805-8e67-8e4f736c5990
+    type: table
+    name: dim_address_clean
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean
+    description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+      \ system tables) to find the most recently created table whose name or schema\
+      \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+      \ to fetch the data1.</p><p></p>"
+    displayName: dim_address_clean
+    deleted: false
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 12.1
+roles: []
+inheritedRoles: []
+isEmailVerified: true
+domains: []
+personaPreferences:
+  - personaId: 2eaa7092-d961-4d07-87e0-9ad4ac6a00c3
+    personaName: asfd
+    landingPageSettings:
+      headerColor: "#6938EF"
