@@ -1,0 +1,91 @@
+name: tableDiff_customers_automation
+fullyQualifiedName: red-test-dc.dev.dbt_jaffle.customers.tableDiff_customers_automation
+testDefinition:
+  id: 941be371-61ba-46ec-99e8-f2fc617b89a8
+  type: testDefinition
+  name: tableDiff
+  fullyQualifiedName: tableDiff
+  description: Test if 2 tables have less that <threshold> diff rows.
+  displayName: Compare 2 tables for differences
+  deleted: false
+entityLink: <#E::table::red-test-dc.dev.dbt_jaffle.customers>
+entityFQN: red-test-dc.dev.dbt_jaffle.customers
+testSuite:
+  id: 37c17bce-cbc1-4752-909c-3ac07ec94b55
+  type: testSuite
+  name: red-test-dc.dev.dbt_jaffle.customers.testSuite
+  fullyQualifiedName: red-test-dc.dev.dbt_jaffle.customers.testSuite
+  displayName: red-test-dc.dev.dbt_jaffle.customers.testSuite
+  deleted: false
+testSuites:
+  - id: 37c17bce-cbc1-4752-909c-3ac07ec94b55
+    name: red-test-dc.dev.dbt_jaffle.customers.testSuite
+    fullyQualifiedName: red-test-dc.dev.dbt_jaffle.customers.testSuite
+    serviceType: TestSuite
+    owners:
+      - id: 64236ffb-0fa6-41c8-a94a-bdd2208c8dd1
+        type: user
+        name: nikhilctest
+        fullyQualifiedName: nikhilctest
+        description: ""
+        displayName: Nikhil Test
+        deleted: false
+        inherited: true
+    version: 0.1
+    updatedAt: 1754291590223
+    updatedBy: ingestion-bot
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: a3ccd006-0945-4a41-934a-72cc4561c4ea
+      type: table
+      name: customers
+      fullyQualifiedName: red-test-dc.dev.dbt_jaffle.customers
+    testCaseResultSummary: []
+    domains:
+      - id: ef10e521-d8c5-4d84-b039-549e8d1d8aaf
+        type: domain
+        name: Customer Domain
+        fullyQualifiedName: Customer Domain
+        description: <p>Customer Domain</p>
+        displayName: Customer
+        inherited: true
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues:
+  - name: keyColumns
+    value: "[\"customer_id\"]"
+  - name: table2
+    value: red-test-dc.dev.dbt_jaffle.stg_customers
+  - name: table2.keyColumns
+    value: "[\"customer_id\"]"
+  - name: threshold
+  - name: useColumns
+    value: "[\"\"]"
+  - name: where
+  - name: caseSensitiveColumns
+owners:
+  - id: 64236ffb-0fa6-41c8-a94a-bdd2208c8dd1
+    type: user
+    name: nikhilctest
+    fullyQualifiedName: nikhilctest
+    description: ""
+    displayName: Nikhil Test
+    deleted: false
+    inherited: true
+createdBy: automatorapplicationbot
+computePassedFailedRowCount: false
+domains:
+  - id: ef10e521-d8c5-4d84-b039-549e8d1d8aaf
+    type: domain
+    name: Customer Domain
+    fullyQualifiedName: Customer Domain
+    description: <p>Customer Domain</p>
+    displayName: Customer
+    inherited: true
+useDynamicAssertion: false
+tags: []
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
