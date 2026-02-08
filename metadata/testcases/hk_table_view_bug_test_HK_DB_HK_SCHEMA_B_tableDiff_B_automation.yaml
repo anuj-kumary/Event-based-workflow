@@ -47,11 +47,11 @@ testSuites:
     reviewers: []
 parameterValues:
   - name: keyColumns
-    value: "[\"NAME\"]"
+    value: "[\"name\"]"
   - name: table2
     value: hk_table_view_bug_test.HK_DB.HK_SCHEMA.A
   - name: table2.keyColumns
-    value: "[\"NAME\"]"
+    value: "[\"name\"]"
   - name: threshold
   - name: useColumns
     value: "[\"\"]"
