@@ -1,0 +1,75 @@
+name: tableDiff_B_automation
+fullyQualifiedName: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.tableDiff_B_automation
+testDefinition:
+  id: 941be371-61ba-46ec-99e8-f2fc617b89a8
+  type: testDefinition
+  name: tableDiff
+  fullyQualifiedName: tableDiff
+  description: Test if 2 tables have less that <threshold> diff rows.
+  displayName: Compare 2 tables for differences
+  deleted: false
+entityLink: <#E::table::hk_table_view_bug_test.HK_DB.HK_SCHEMA.B>
+entityFQN: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B
+testSuite:
+  id: 138ca685-a5d1-46ee-972f-7330bc55cf79
+  type: testSuite
+  name: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.testSuite
+  fullyQualifiedName: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.testSuite
+  displayName: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.testSuite
+  deleted: false
+testSuites:
+  - id: 138ca685-a5d1-46ee-972f-7330bc55cf79
+    name: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.testSuite
+    fullyQualifiedName: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B.testSuite
+    serviceType: TestSuite
+    owners: []
+    version: 0.1
+    updatedAt: 1757057151055
+    updatedBy: collateaiqualityagentapplicationbot
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: 48810c1f-2c4c-4bfd-b789-70786cc721d1
+      type: table
+      name: B
+      fullyQualifiedName: hk_table_view_bug_test.HK_DB.HK_SCHEMA.B
+    testCaseResultSummary: []
+    domains:
+      - id: 060bcc29-d788-4065-bb60-0745526aa6b2
+        type: domain
+        name: hk dom 1
+        fullyQualifiedName: hk dom 1
+        description: <p>hk dom 1</p>
+        displayName: hk dom 1
+        inherited: true
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues:
+  - name: keyColumns
+    value: "[\"NAME\"]"
+  - name: table2
+    value: hk_table_view_bug_test.HK_DB.HK_SCHEMA.A
+  - name: table2.keyColumns
+    value: "[\"NAME\"]"
+  - name: threshold
+  - name: useColumns
+    value: "[\"\"]"
+  - name: where
+  - name: caseSensitiveColumns
+owners: []
+createdBy: automatorapplicationbot
+computePassedFailedRowCount: false
+domains:
+  - id: 060bcc29-d788-4065-bb60-0745526aa6b2
+    type: domain
+    name: hk dom 1
+    fullyQualifiedName: hk dom 1
+    description: <p>hk dom 1</p>
+    displayName: hk dom 1
+    inherited: true
+useDynamicAssertion: false
+tags: []
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
