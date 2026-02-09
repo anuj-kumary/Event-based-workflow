@@ -3,7 +3,9 @@ fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean
 description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
   \ system tables) to find the most recently created table whose name or schema indicates\
   \ it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
-  \ to fetch the data1.</p><p></p>"
+  \ to fetch the data1.</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+  \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+  0\" data-is-image=\"true\"></div><p></p>"
 tableType: View
 columns:
   - name: address_id
@@ -824,52 +826,28 @@ tableProfilerConfig:
   computeColumnMetrics: true
 customMetrics: []
 incrementalChangeDescription:
-  fieldsAdded:
-    - name: columns.address.tags
-      newValue: "[{\"tagFQN\":\"Business Department.Finance\",\"name\":\"Finance\"\
-        ,\"displayName\":\"Finance\",\"description\":\"A finance department is the\
-        \ unit of a business responsible for obtaining and handling any monies on\
-        \ behalf of the organization\",\"style\":{\"color\":\"#a80000\",\"iconURL\"\
-        :\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJUAAACUCAMAAACtIJvYAAAAA1BMVEX/AAAZ4gk3AAAALElEQVR4nO3BMQEAAADCoPVP7WkJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAGVrgAAQdwvSEAAAAASUVORK5CYII=\"\
-        },\"source\":\"Glossary\",\"labelType\":\"Manual\",\"state\":\"Confirmed\"\
-        ,\"appliedBy\":\"harsh.v\"},{\"tagFQN\":\"PII.Sensitive\",\"name\":\"Sensitive\"\
-        ,\"description\":\"PII which if lost, compromised, or disclosed without authorization,\
-        \ could result in substantial harm, embarrassment, inconvenience, or unfairness\
-        \ to an individual.\",\"style\":{\"color\":\"#ff0000\"},\"source\":\"Classification\"\
-        ,\"labelType\":\"Manual\",\"state\":\"Confirmed\",\"appliedAt\":\"2026-01-09T14:36:36.000000Z\"\
-        ,\"appliedBy\":\"harsh.v\"},{\"tagFQN\":\"PersonalData.Personal\",\"name\"\
-        :\"Personal\",\"description\":\"Data that can be used to directly or indirectly\
-        \ identify a person.\",\"source\":\"Classification\",\"labelType\":\"Manual\"\
-        ,\"state\":\"Confirmed\",\"appliedAt\":\"2026-01-09T14:36:36.000000Z\",\"\
-        appliedBy\":\"harsh.v\"},{\"tagFQN\":\"TestPolicyTag.test_policy_tag\",\"\
-        name\":\"test_policy_tag\",\"description\":\"Bigquery Policy Tag\",\"source\"\
-        :\"Classification\",\"labelType\":\"Manual\",\"state\":\"Confirmed\",\"appliedAt\"\
-        :\"2026-01-09T14:36:36.000000Z\",\"appliedBy\":\"harsh.v\"},{\"tagFQN\":\"\
-        color.red\",\"name\":\"red\",\"description\":\"<p>Bigquery Dataset Label What\
-        \ is Lorem Ipsum?</p><p><strong>Lorem Ipsum</strong> is simply dummy text\
-        \ of the printing and typesetting industry. Lorem Ipsum has been the industry's\
-        \ standard dummy text ever since the 1500s, when an unknown printer took a\
-        \ galley of type and scrambled it to make a type specimen book. It has survived\
-        \ not only five centuries, but also the leap into electronic typesetting,\
-        \ remaining essentially unchanged. It was popularised in the 1960s with the\
-        \ release of Letraset sheets containing Lorem Ipsum passages, and more recently\
-        \ with desktop publishing software like Aldus PageMaker including versions\
-        \ of Lorem Ipsum.</p>\",\"style\":{\"color\":\"#d32727\"},\"source\":\"Classification\"\
-        ,\"labelType\":\"Manual\",\"state\":\"Confirmed\",\"appliedAt\":\"2026-01-09T14:36:36.000000Z\"\
-        ,\"appliedBy\":\"harsh.v\"},{\"tagFQN\":\"test.testcheck\",\"name\":\"testcheck\"\
-        ,\"description\":\"Bigquery Dataset Label\",\"source\":\"Classification\"\
-        ,\"labelType\":\"Manual\",\"state\":\"Confirmed\",\"appliedAt\":\"2026-01-09T14:36:36.000000Z\"\
-        ,\"appliedBy\":\"harsh.v\"}]"
-  fieldsUpdated: []
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: description
+      oldValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+        \ system tables) to find the most recently created table whose name or schema\
+        \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+        \ to fetch the data1.</p><p></p>"
+      newValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+        \ system tables) to find the most recently created table whose name or schema\
+        \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+        \ to fetch the data1.</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+        \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+        0\" data-is-image=\"true\"></div><p></p>"
   fieldsDeleted: []
-  previousVersion: 24.7
+  previousVersion: 24.6
   changeSummary:
     owners:
       changedBy: mohit
       changedAt: 1764216182535
     description:
-      changedBy: nikhil.chennam
-      changedAt: 1769670215223
+      changedBy: harsh.v
+      changedAt: 1770624257003
     columns.address.description:
       changedBy: prajwal
       changedAt: 1768559104789
