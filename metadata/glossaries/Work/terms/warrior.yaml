@@ -15,8 +15,13 @@ glossary:
 children: []
 relatedTerms: []
 references: []
-impersonatedBy: governance-bot
 reviewers:
+  - id: b770c3f8-6630-4e35-95ee-dc18947c6642
+    type: user
+    name: ashish.gupta
+    fullyQualifiedName: '"ashish.gupta"'
+    displayName: ashish.gupta
+    deleted: false
   - id: c460f290-444c-45f9-8c1c-1e077882827f
     type: user
     name: ramnarayan.b
@@ -31,6 +36,16 @@ reviewers:
     displayName: Ram Narayan Balaji
     deleted: false
     inherited: true
+  - id: 18ca6cd1-d696-4a22-813f-c7a42fc09dc4
+    type: user
+    name: ashish
+    fullyQualifiedName: ashish
+    description: this is test description. this is test description!this is test description!this
+      is test description!this is test description!this is test description!this is
+      test description!this is test description!this is test description!this is test
+      description!this is test description!
+    displayName: Ashish Gupta
+    deleted: false
   - id: 563197bb-e544-4582-8da4-4c152f931302
     type: user
     name: ramnarayanb3005
@@ -48,15 +63,18 @@ owners:
 usageCount: 0
 tags: []
 incrementalChangeDescription:
-  fieldsAdded: []
-  fieldsUpdated:
-    - name: entityStatus
-      oldValue: Draft
-      newValue: In Review
+  fieldsAdded:
+    - name: reviewers
+      newValue: "[{\"id\":\"18ca6cd1-d696-4a22-813f-c7a42fc09dc4\",\"type\":\"user\"\
+        ,\"name\":\"ashish\",\"fullyQualifiedName\":\"ashish\",\"displayName\":\"\
+        Ashish Gupta\",\"deleted\":false},{\"id\":\"b770c3f8-6630-4e35-95ee-dc18947c6642\"\
+        ,\"type\":\"user\",\"name\":\"ashish.gupta\",\"fullyQualifiedName\":\"\\\"\
+        ashish.gupta\\\"\",\"displayName\":\"ashish.gupta\",\"deleted\":false}]"
+  fieldsUpdated: []
   fieldsDeleted: []
-  previousVersion: 0.1
+  previousVersion: 0.3
   changeSummary: {}
-entityStatus: In Review
+entityStatus: Approved
 mutuallyExclusive: false
 domains: []
 dataProducts: []
