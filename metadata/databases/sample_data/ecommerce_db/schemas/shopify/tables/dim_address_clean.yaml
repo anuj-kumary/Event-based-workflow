@@ -5,9 +5,6 @@ description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TAB
   \ it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
   \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
   \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
-  0\" data-is-image=\"true\"></div><div data-type=\"file-attachment\" data-url=\"\
-  https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
-  \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
   0\" data-is-image=\"true\"></div><p></p>"
 tableType: View
 columns:
@@ -835,16 +832,17 @@ incrementalChangeDescription:
       oldValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
         \ system tables) to find the most recently created table whose name or schema\
         \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
-        \ to fetch the data1.</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+        \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"\
+        https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+        \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+        0\" data-is-image=\"true\"></div><div data-type=\"file-attachment\" data-url=\"\
+        https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
         \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
         0\" data-is-image=\"true\"></div><p></p>"
       newValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
         \ system tables) to find the most recently created table whose name or schema\
         \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
         \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"\
-        https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
-        \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
-        0\" data-is-image=\"true\"></div><div data-type=\"file-attachment\" data-url=\"\
         https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
         \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
         0\" data-is-image=\"true\"></div><p></p>"
@@ -856,7 +854,7 @@ incrementalChangeDescription:
       changedAt: 1764216182535
     description:
       changedBy: harsh.v
-      changedAt: 1770624307459
+      changedAt: 1770624324991
     columns.address.description:
       changedBy: prajwal
       changedAt: 1768559104789
