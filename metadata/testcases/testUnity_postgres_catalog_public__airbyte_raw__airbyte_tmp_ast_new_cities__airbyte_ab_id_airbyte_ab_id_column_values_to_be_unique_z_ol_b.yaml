@@ -1,0 +1,52 @@
+name: airbyte_ab_id_column_values_to_be_unique_z_ol_b
+displayName: airbyte_ab_id_column_values_to_be_unique_z_ol_b
+fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities._airbyte_ab_id.airbyte_ab_id_column_values_to_be_unique_z_ol_b
+testDefinition:
+  id: b30cf693-3fe3-4407-8964-48fb24e6e8b3
+  type: testDefinition
+  name: columnValuesToBeUnique
+  fullyQualifiedName: columnValuesToBeUnique
+  description: 'This schema defines the test ColumnValuesToBeUnique. Test the values
+    in a column to be unique. '
+  displayName: Column Values To Be Unique
+  deleted: false
+entityLink: <#E::table::testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities::columns::_airbyte_ab_id>
+entityFQN: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities._airbyte_ab_id
+testSuite:
+  id: 6a5120ab-1f70-4fc2-b3ee-1eb6a30c8c9e
+  type: testSuite
+  name: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities.testSuite
+  fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities.testSuite
+  displayName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities.testSuite
+  deleted: false
+testSuites:
+  - id: 6a5120ab-1f70-4fc2-b3ee-1eb6a30c8c9e
+    name: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities.testSuite
+    fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities.testSuite
+    serviceType: TestSuite
+    owners: []
+    version: 0.1
+    updatedAt: 1770631643701
+    updatedBy: ingestion-bot
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: 578b58de-0039-4efa-965a-cc8672931ab8
+      type: table
+      name: _airbyte_raw__airbyte_tmp_ast_new_cities
+      fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_tmp_ast_new_cities
+    testCaseResultSummary: []
+    domains: []
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues: []
+owners: []
+createdBy: aniket
+computePassedFailedRowCount: false
+domains: []
+useDynamicAssertion: false
+tags: []
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
