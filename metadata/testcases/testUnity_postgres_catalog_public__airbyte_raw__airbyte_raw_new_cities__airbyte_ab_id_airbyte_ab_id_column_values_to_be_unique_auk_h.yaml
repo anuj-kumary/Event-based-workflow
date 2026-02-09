@@ -1,0 +1,52 @@
+name: airbyte_ab_id_column_values_to_be_unique_auk_h
+displayName: airbyte_ab_id_column_values_to_be_unique_auk_h
+fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities._airbyte_ab_id.airbyte_ab_id_column_values_to_be_unique_auk_h
+testDefinition:
+  id: b30cf693-3fe3-4407-8964-48fb24e6e8b3
+  type: testDefinition
+  name: columnValuesToBeUnique
+  fullyQualifiedName: columnValuesToBeUnique
+  description: 'This schema defines the test ColumnValuesToBeUnique. Test the values
+    in a column to be unique. '
+  displayName: Column Values To Be Unique
+  deleted: false
+entityLink: <#E::table::testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities::columns::_airbyte_ab_id>
+entityFQN: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities._airbyte_ab_id
+testSuite:
+  id: eeafca11-74e5-4747-99dc-d7694a6b34c5
+  type: testSuite
+  name: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities.testSuite
+  fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities.testSuite
+  displayName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities.testSuite
+  deleted: false
+testSuites:
+  - id: eeafca11-74e5-4747-99dc-d7694a6b34c5
+    name: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities.testSuite
+    fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities.testSuite
+    serviceType: TestSuite
+    owners: []
+    version: 0.1
+    updatedAt: 1770632070945
+    updatedBy: ingestion-bot
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: 47ae8b2f-95f5-4780-a275-30eb25fe82a7
+      type: table
+      name: _airbyte_raw__airbyte_raw_new_cities
+      fullyQualifiedName: testUnity.postgres_catalog.public._airbyte_raw__airbyte_raw_new_cities
+    testCaseResultSummary: []
+    domains: []
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues: []
+owners: []
+createdBy: aniket
+computePassedFailedRowCount: false
+domains: []
+useDynamicAssertion: false
+tags: []
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
