@@ -353,19 +353,12 @@ follows:
 incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated: []
-  fieldsDeleted:
-    - name: defaultPersona
-      oldValue: "{\"id\":\"0fe6c565-1705-42cf-a2e6-89d340d30039\",\"type\":\"persona\"\
-        ,\"name\":\"Data Engineer\",\"fullyQualifiedName\":\"Data Engineer\",\"description\"\
-        :\"<p>Data Steward</p>\",\"displayName\":\"Data Steward\"}"
-  previousVersion: 12.2
-  changeSummary: {}
+  fieldsDeleted: []
+  previousVersion: 12.1
 roles: []
 inheritedRoles: []
 isEmailVerified: true
 domains: []
-lastLoginTime: 1770618688899
-lastActivityTime: 1770630477859
 personaPreferences:
   - personaId: 2eaa7092-d961-4d07-87e0-9ad4ac6a00c3
     personaName: asfd
