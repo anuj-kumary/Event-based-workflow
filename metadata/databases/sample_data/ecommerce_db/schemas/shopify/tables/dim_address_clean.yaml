@@ -1,11 +1,8 @@
 name: dim_address_clean
 fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean
-description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
-  \ system tables) to find the most recently created table whose name or schema indicates\
-  \ it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
-  \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
-  \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
-  0\" data-is-image=\"true\"></div><p></p>"
+description: |-
+  <p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or system tables) to find the most recently created table whose name or schema indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement to fetch the data1
+  </p><div data-type="file-attachment" data-url="https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg" data-filename="" data-mimetype="image" data-uploading="false" data-upload-progress="0" data-is-image="true"></div><p></p>
 tableType: View
 columns:
   - name: address_id
@@ -413,9 +410,7 @@ columns:
     dataLength: 500
     dataTypeDisplay: varchar
     description: <p>Clean address Impact &lt; 1K€</p><p>1K€ &lt; Impact &lt; 100K</p><p>€100K€
-      &lt; Impact &lt; 800K€</p><p>Impact &gt; 800K€<br></p><div data-type="file-attachment"
-      data-url="https://media.zigcdn.com/media/model/2025/Nov/zw44_600x400.jpg" data-filename=""
-      data-mimetype="image" data-uploading="false" data-upload-progress="0" data-is-image="true"></div><p></p>
+      &lt; Impact &lt; 800K€</p><p>Impact &gt; 800K€<br></p><p></p>
     fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean.address
     tags:
       - tagFQN: Business Department.test_business_term
@@ -557,7 +552,7 @@ columns:
     dataType: VARCHAR
     dataLength: 100
     dataTypeDisplay: varchar
-    description: "The name of the city. For example, Palo Alto."
+    description: "<p>The name of the city. For example, Palo Alto.</p>"
     fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean.city
     tags: []
     ordinalPosition: 8
@@ -810,7 +805,7 @@ tags:
     appliedAt: 1768343330000
     appliedBy: harsha
 joins:
-  startDate: 2026-01-10
+  startDate: 2026-01-12
   dayCount: 30
   columnJoins:
     - columnName: address_id
@@ -835,26 +830,32 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
-    - name: columns.address.description
-      oldValue: "Clean address Impact < 1K€\r\n\r\n1K€ < Impact < 100K\r\n\r\n€100K€\
-        \ < Impact < 800K€\r\n\r\nImpact > 800K€\r\n\r\n"
-      newValue: <p>Clean address Impact &lt; 1K€</p><p>1K€ &lt; Impact &lt; 100K</p><p>€100K€
-        &lt; Impact &lt; 800K€</p><p>Impact &gt; 800K€<br></p><div data-type="file-attachment"
-        data-url="https://media.zigcdn.com/media/model/2025/Nov/zw44_600x400.jpg"
-        data-filename="" data-mimetype="image" data-uploading="false" data-upload-progress="0"
-        data-is-image="true"></div><p></p>
+    - name: description
+      oldValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+        \ system tables) to find the most recently created table whose name or schema\
+        \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+        \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"\
+        https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+        \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+        0\" data-is-image=\"true\"></div><p></p>"
+      newValue: |-
+        <p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or system tables) to find the most recently created table whose name or schema indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement to fetch the data1
+        </p><div data-type="file-attachment" data-url="https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg" data-filename="" data-mimetype="image" data-uploading="false" data-upload-progress="0" data-is-image="true"></div><p></p>
   fieldsDeleted: []
-  previousVersion: 24.7
+  previousVersion: 24.9
   changeSummary:
     owners:
       changedBy: mohit
       changedAt: 1764216182535
     description:
       changedBy: harsh.v
-      changedAt: 1770626545547
+      changedAt: 1770794279767
+    columns.city.description:
+      changedBy: harsh.v
+      changedAt: 1770631194375
     columns.address.description:
       changedBy: harsh.v
-      changedAt: 1770627068905
+      changedAt: 1770628150406
     columns.shop_id.description:
       changedBy: admin
       changedAt: 1752231141717
