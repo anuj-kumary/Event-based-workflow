@@ -1,0 +1,17 @@
+name: test556
+fullyQualifiedName: test556
+description: <p>dsfg</p>
+style: {}
+owners: []
+experts: []
+reviewers: []
+domains:
+  - id: b5f8edda-07b5-4b61-9fb3-81232a234338
+    type: domain
+    name: Domain.with.dot
+    fullyQualifiedName: '"Domain.with.dot"'
+    description: <p>asd</p>
+    displayName: Domain.with.dot
+lifecycleStage: DEVELOPMENT
+tags: []
+entityStatus: Unprocessed
