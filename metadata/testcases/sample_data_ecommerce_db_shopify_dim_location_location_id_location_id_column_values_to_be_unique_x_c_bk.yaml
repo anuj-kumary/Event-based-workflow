@@ -1,0 +1,128 @@
+name: location_id_column_values_to_be_unique_x_c_bk
+displayName: location_id_column_values_to_be_unique_x_c_bk
+fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_location.location_id.location_id_column_values_to_be_unique_x_c_bk
+testDefinition:
+  id: b30cf693-3fe3-4407-8964-48fb24e6e8b3
+  type: testDefinition
+  name: columnValuesToBeUnique
+  fullyQualifiedName: columnValuesToBeUnique
+  description: 'This schema defines the test ColumnValuesToBeUnique. Test the values
+    in a column to be unique. '
+  displayName: Column Values To Be Unique
+  deleted: false
+entityLink: <#E::table::sample_data.ecommerce_db.shopify.dim_location::columns::location_id>
+entityFQN: sample_data.ecommerce_db.shopify.dim_location.location_id
+testSuite:
+  id: 540ce3f2-b290-4321-8427-74806f184e8a
+  type: testSuite
+  name: sample_data.ecommerce_db.shopify.dim_location.testSuite
+  fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_location.testSuite
+  displayName: sample_data.ecommerce_db.shopify.dim_location.testSuite
+  deleted: false
+testSuites:
+  - id: 540ce3f2-b290-4321-8427-74806f184e8a
+    name: sample_data.ecommerce_db.shopify.dim_location.testSuite
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_location.testSuite
+    serviceType: TestSuite
+    owners:
+      - id: 50bb97a5-cf0c-4273-930e-b3e802b52ee1
+        type: user
+        name: aaron.singh2
+        fullyQualifiedName: '"aaron.singh2"'
+        displayName: Aaron Singh
+        deleted: false
+        inherited: true
+      - id: 1eb7eb26-21da-42d7-b0ed-8812f04f4ca4
+        type: user
+        name: ayush
+        fullyQualifiedName: ayush
+        displayName: Ayush Shah
+        deleted: false
+        inherited: true
+      - id: 32e07f38-faff-45b1-9b51-4e42caa69e3c
+        type: user
+        name: ayush02shah12
+        fullyQualifiedName: ayush02shah12
+        displayName: Ayush Shah
+        deleted: false
+        inherited: true
+    version: 0.1
+    updatedAt: 1770883648755
+    updatedBy: ingestion-bot
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: 9d8182e7-e70e-4686-a875-f46d60b2b11e
+      type: table
+      name: dim_location
+      fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_location
+    testCaseResultSummary: []
+    domains:
+      - id: 2e79f0ec-3e03-45f2-ba5a-93116362eec8
+        type: domain
+        name: TestingD
+        fullyQualifiedName: TestingD
+        description: <p>testing</p>
+        displayName: TestingD
+        inherited: true
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues: []
+owners:
+  - id: 50bb97a5-cf0c-4273-930e-b3e802b52ee1
+    type: user
+    name: aaron.singh2
+    fullyQualifiedName: '"aaron.singh2"'
+    displayName: Aaron Singh
+    deleted: false
+    inherited: true
+  - id: 1eb7eb26-21da-42d7-b0ed-8812f04f4ca4
+    type: user
+    name: ayush
+    fullyQualifiedName: ayush
+    displayName: Ayush Shah
+    deleted: false
+    inherited: true
+  - id: 32e07f38-faff-45b1-9b51-4e42caa69e3c
+    type: user
+    name: ayush02shah12
+    fullyQualifiedName: ayush02shah12
+    displayName: Ayush Shah
+    deleted: false
+    inherited: true
+createdBy: nikhil.chennam
+computePassedFailedRowCount: true
+domains:
+  - id: 2e79f0ec-3e03-45f2-ba5a-93116362eec8
+    type: domain
+    name: TestingD
+    fullyQualifiedName: TestingD
+    description: <p>testing</p>
+    displayName: TestingD
+    inherited: true
+useDynamicAssertion: false
+tags:
+  - tagFQN: General.ABN
+    name: ABN
+    displayName: ""
+    description: The Australian Business Number (ABN) is a unique 11 digit identifier
+      issued to all entities registered in the Australian Business Register (ABR).
+    source: Glossary
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: testexclusive.exclusive
+    name: exclusive
+    displayName: exclusive
+    description: exclusive
+    style: {}
+    source: Classification
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
