@@ -1,0 +1,60 @@
+name: DRIGLOBALS
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.DRIGLOBALS
+storedProcedureCode:
+  language: SQL
+  code: |-
+    package driglobals authid current_user as
+    package body driglobals wrapped
+    a000000
+    1
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    b
+    2c 61
+    3R7WeRRxZmR4b/1mvjHeTnZZNSUwg5m49TOf9b9cuJu/9MNaPpdZcvqu8kc+K7h0iwbAgcfM
+    uL2b9f4Iv8DSvWHJpqaocXS6
+
+    end driglobals;
+dataProducts: []
+storedProcedureType: StoredPackage
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+owners: []
+tags: []
+domains: []
+sourceHash: 2fa32887c39c861460913803b6314f86
+processedLineage: false
+entityStatus: Unprocessed
