@@ -1,0 +1,87 @@
+name: DR$PENDING
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING
+tableType: Regular
+columns:
+  - name: pnd_cid
+    dataType: NUMBER
+    dataLength: 1
+    dataTypeDisplay: number
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING.pnd_cid
+    tags: []
+    children: []
+    customMetrics: []
+  - name: pnd_pid
+    dataType: NUMBER
+    dataLength: 1
+    dataTypeDisplay: number
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING.pnd_pid
+    tags: []
+    children: []
+    customMetrics: []
+  - name: pnd_rowid
+    dataType: VARCHAR
+    dataLength: 1
+    dataTypeDisplay: rowid
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING.pnd_rowid
+    tags: []
+    children: []
+    customMetrics: []
+  - name: pnd_timestamp
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING.pnd_timestamp
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: pnd_lock_failed
+    dataType: CHAR
+    dataLength: 1
+    dataTypeDisplay: char(1)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$PENDING.pnd_lock_failed
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints:
+  - constraintType: PRIMARY_KEY
+    columns:
+      - pnd_cid
+      - pnd_pid
+      - pnd_rowid
+owners: []
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+tags: []
+joins:
+  startDate: 2026-01-13
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: e85c3c53b7e30b5cf86bec91404bf531
+processedLineage: false
+entityStatus: Unprocessed
