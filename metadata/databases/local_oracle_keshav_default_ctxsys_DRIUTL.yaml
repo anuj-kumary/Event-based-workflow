@@ -1,0 +1,835 @@
+name: DRIUTL
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.DRIUTL
+storedProcedureCode:
+  language: SQL
+  code: |-
+    package body driutl wrapped
+    a000000
+    1
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    b
+    ea5f 3e36
+    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
+    mtYUdzpackage driutl
+    as
+    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
+    rylXuMgc
+    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 SUPPLEMENTAL_LOG_DATA(default, NONE);
+    Wekl44LyYYQIce6qQrYWYhQ
+    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
+    tZIg7pIoaw==
+
+    -- These object types are used by max_name_length to determine the maximum
+    -- length of an object.  This list must match the same list that appears in
+    -- dret.h.
+    OBJTYPE_INDEX      constant number := 1; -- Index name
+    OBJTYPE_POLICY     constant number := 2; -- Policy name
+    OBJTYPE_CONSTRAINT constant number := 3; -- Constraint (within internal objs)
+    OBJTYPE_THESAURUS  constant number := 4; -- Thesaurus name
+    OBJTYPE_SECTION    constant number := 5; -- Section name
+    OBJTYPE_PARAM      constant number := 6; -- Parameter
+    OBJTYPE_FEEDBACK   constant number := 7; -- Feedback column
+    OBJTYPE_SQE        constant number := 8; -- SQE name
+    OBJTYPE_LEXER      constant number := 9; -- Lexer name
+    OBJTYPE_TBS        constant number := 10; -- TBS name
+    OBJTYPE_ATTR       constant number := 11; -- Attribute
+    OBJTYPE_IDXSET     constant number := 12; -- Index set name
+    OBJTYPE_FILENAME   constant number := 13; -- File name
+    OBJTYPE_COLUMN     constant number := 14; -- Column name
+    OBJTYPE_LANGUAGE   constant number := 15; -- Language name
+    OBJTYPE_CHARSET    constant number := 16; -- Charset name
+    OBJTYPE_PREFERENCE constant number := 17; -- Preference name
+    OBJTYPE_STOPLIST   constant number := 18; -- Stoplist name
+    OBJTYPE_DICTIONARY constant number := 19; -- Dictionary name
+    OBJTYPE_CLA_NAME   constant number := 20; -- Classifier Name
+
+    /*--------------------------- parse_object_name ----------------------------*/
+    /* parse object name user.name */
+
+    procedure parse_object_name(
+      spec  in     varchar2,
+      uname in out varchar2,
+      oname in out varchar2
+    )
+    accessible by (PACKAGE drvutl, PROCEDURE parse_object_name);
+
+    /*----------------------------- split_list --------------------------------*/
+    /*
+      NAME
+        split_list -
+
+      DESCRIPTION
+        A list can be contiguous or non-contiguous.
+
+        list=1,500,   contiguous=1 is a contig. list
+        list=1,4,5,6  contiguous=0 is a non-contig list
+
+        if we required 20 in the first list, it will be splited into:
+          lower_list=1,20
+          upper_list=21,500
+
+        if we required 2 in the second list, it will be splited into:
+          lower_list=1,4
+          upper_list=5,6
+
+      ARGUMENTS
+       list          (in)  the list
+       contiguous    (in)  1= contig. 0=non-contig
+       size_required (in)  list length
+       lower_list    (out) lower list after splited
+       upper_list    (out) upper list after splited
+
+      NOTES
+       None
+      EXCEPTIONS
+
+      RETURNS
+        none
+    */
+
+    procedure split_list(
+      list in varchar2,
+      contiguous    in number,
+      size_required in number,
+      lower_list    out varchar2,
+      upper_list    out varchar2
+    );
+
+
+    /*-------------------------------- split -----------------------------------*/
+    /*
+      NAME
+        split
+
+      DESCRIPTION
+        Takes a list of values separated by a delimiter and return a
+        array containing the values. a delimiter character preceded
+        by a backslash will be treated as part of the value instead.
+
+      ARGUMENTS
+        vlist      -    list of values
+        delimiter  -    the delimiter, one character only
+        varr       -    array of values
+
+      NOTES
+
+      EXCEPTIONS
+
+      RETURNS
+    */
+    PROCEDURE split(
+      vlist       in      varchar2
+    , delimiter   in      varchar2
+    , varr        in out  dr_def.vc256_tab
+    );
+
+    /*---------------------------------- genid ---------------------------------*/
+    /*
+      NAME
+        genid - generate an TexTile dictionary id number
+      DESCRIPTION
+        TexTile dict. id number is used to assigned to INDEX or PREFERENCE.
+
+      ARGUMENTS
+        None
+      NOTES
+
+      EXCEPTIONS
+
+      RETURNS
+        id number
+    */
+    function genid return number;
+
+
+    /*---------------------------- pkey_toolong ---------------------------------*/
+    /*
+      NAME
+        pkey_toolong - check a length of a given primary key is too long or not
+      DESCRIPTION
+        as pkey can be an encoded composite pkey string, the checking need to be
+        done on the overall length and the individual textkey length
+
+      ARGUMENTS
+        pk -- primary key string
+      NOTES
+
+      EXCEPTIONS
+
+      RETURNS
+        toolong boolean
+    */
+    function pkey_toolong(pk in varchar2) return boolean;
+
+    /*---------------------------- get_user_id ---------------------------*/
+    /*
+      NAME
+        get_user_id - get user# from sys."_BASE_USER"
+    */
+    function get_user_id(p_username in varchar2) return number;
+
+    /*---------------------------- get_user_name ---------------------------*/
+    /* opposite of get_user_id */
+
+    function get_user_name(p_userid in binary_integer) return varchar2;
+
+    /*---------------------------- get_obj_id ---------------------------*/
+    /*
+      NAME
+        get_obj_id - get obj# from sys.obj$
+    */
+    function get_obj_id(p_user_name in varchar2, p_object_name in varchar2,
+                        p_partition_name in varchar2 default NULL)
+    return number;
+
+    /*---------------------------- is_ops ------------------------------*/
+    /*
+      NAME
+        is_ops
+
+      DESCRIPTION
+        returns TRUE when running in parallel server mode, FALSE otherwise
+      ARGUMENTS
+
+      NOTES
+
+      EXCEPTIONS
+    */
+    function is_ops return boolean;
+
+    /*---------------------------- mem_to_number --------------------------*/
+    /*
+      NAME
+        mem_to_number
+
+      DESCRIPTION
+        Converts inputs like 1k, 10G, 12M to their approriate value in bytes
+      ARGUMENTS
+        memstring - Input string, may be a number or one of these formats:
+                    10K, 10M, 10G
+        llimit    - Lower limit to the number that memstring can represent
+        ulimit    - Upper limit to the number that memstring can represent
+        attname   - name of attribute for the memstring (the value)
+      NOTES
+
+      EXCEPTIONS
+        Throw an error if memstring doesn't lie in range (llimit, ulimit)
+    */
+    function mem_to_number(memstring in varchar2,
+                           llimit in number, ulimit in number,
+                           attname in varchar2)
+    return number;
+
+    /*---------------------------- idxmem_to_number --------------------------*/
+    /*
+      NAME
+        idxmem_to_number
+
+      DESCRIPTION
+        a bit more specialized -- this converts an idxmem string to a number.
+        if passed null it will return DEFAULT_INDEX_MEMORY.
+
+      ARGUMENTS
+
+      NOTES
+
+      EXCEPTIONS
+    */
+    function idxmem_to_number(memstring in varchar2) return number;
+
+    /*---------------------------- syncmem_to_number --------------------------*/
+    /*
+      NAME
+        syncmem_to_number
+
+      DESCRIPTION
+        a bit more specialized -- this converts an syncmem string to a number.
+        if passed null it will return idexmem.
+
+      ARGUMENTS
+
+      NOTES
+
+      EXCEPTIONS
+    */
+    function syncmem_to_number(memstring in varchar2,
+                               idxmem    in number)
+    return number;
+
+    /*--------------------------- make_pfx ------------------------------------*/
+    /*
+      NAME
+        make_pfx
+
+      DESCRIPTION
+        create proper index prefix
+
+      ARGUMENTS
+
+      NOTES
+
+      EXCEPTIONS
+    */
+
+    FUNCTION make_pfx (idx_owner in varchar2, idx_name in varchar2,
+                       pfx_type  in varchar2 default '$',
+                       part_id   in number default null,
+                       constraint_pfx in boolean default FALSE,
+                       idx_id    in number default null,
+                       full_length_objs in boolean default null,
+                       thirty_char_names in boolean default null,
+                       use_idx_id in boolean default null)
+    return varchar2;
+
+    /*--------------------------- check_language -----------------------------*/
+    /*
+      NAME
+        check_language
+
+      DESCRIPTION
+        check a string to ensure it is a valid NLS language value
+        returns NLS version of language name and abbreviation
+
+      ARGUMENTS
+
+      NOTES
+
+      EXCEPTIONS
+    */
+
+    FUNCTION check_language (
+      lang     in  varchar2,
+      nls_lang out varchar2,
+      nls_abb  out varchar2,
+      def_ok   in  boolean default TRUE
+    ) return boolean;
+
+    /*--------------------------- lang_to_abbr -----------------------------*/
+    /*
+      NAME
+        lang_to_abbr
+
+      DESCRIPTION
+        given an NLS language name, return the NLS abbreviation
+
+      ARGUMENTS
+
+      NOTES
+        callable from SQL.
+        Must be a valid language, in uppercase.
+        if lang is unknown, then NULL is returned.
+      EXCEPTIONS
+    */
+
+    FUNCTION lang_to_abbr (
+      lang     in  varchar2
+    ) return varchar2;
+    pragma restrict_references (lang_to_abbr, wnds, wnps, rnds, rnps);
+
+    /*---------------------------- file_exists----------------------------------*/
+    /* check if file exists */
+
+    FUNCTION file_exists(
+      path  in varchar2
+    ) return boolean;
+
+    /*---------------------------- is_anlv1_enabled ----------------------------*/
+    /* check if ANL v1 event is enabled */
+
+    FUNCTION is_anlv1_enabled return boolean;
+
+    /*---------------------------- keycomp_ok ----------------------------------*/
+    /* test database, return TRUE if key compressed indexes are enabled */
+
+    FUNCTION keycomp_ok return BOOLEAN;
+
+    /*---------------------- verify_np_index_tables ----------------------------*/
+
+    PROCEDURE verify_np_index_tables (
+      idx_owner in varchar2,
+      idx_name  in varchar2,
+      idx_id    in number,
+      idx_pid   in number
+    );
+
+    /*--------------------------- get_slave_id --------------------------------*/
+
+    PROCEDURE get_slave_id(
+      slaveid     out  varchar2
+    );
+
+    /*--------------------------- get_default_prefname ----------------------*/
+    /* finding the default value by given the name of default preference */
+    FUNCTION get_default_value(
+      defname       in   varchar2
+    ) return varchar2;
+
+    /*---------------------------- bytestr -------------------------------*/
+    /* return a byte amount in readble form */
+
+    function bytestr (a in number) return varchar2;
+
+    /*---------------------------- numstr ---------------------------------*/
+    /* return a large number in readable form */
+
+    function numstr (a in number) return varchar2;
+
+    /*---------------------------- pctstr ---------------------------------*/
+    /* calculate and return a percentage in readable form */
+
+    function pctstr (fig in number, base in number, rnd in number default 2)
+    return varchar2;
+
+    /*---------------------------- NormalizeObjectName --------------------------*/
+    /* Normalize a name by stripping quotes and upper casing. */
+
+    DO_NOT_VALIDATE_SQL_NAME constant number := 0;
+    CHECK_SIMPLE_SQL_NAME constant number := 1;
+
+    function NormalizeObjectName
+    (
+      object_name in varchar2,
+      validation  in number default DO_NOT_VALIDATE_SQL_NAME
+    ) return varchar2;
+
+    /*----------------------- EnquoteCompoundObjectName --------------------------*/
+    /* Enquote a composite name by enquoting dot seperated parts and upper casing */
+    /* unquoted parts */
+    /*
+      scott.emp      -> "SCOTT"."EMP"
+      O--Brian.Emp   -> ORA-44004
+      "O--Brian".Emp -> "O--Brian"."EMP"
+    */
+    function EnquoteCompoundObjectName
+    (
+      object_name in varchar2
+    ) return varchar2;
+
+    procedure lock_index(idxid in number);
+
+    procedure lock_partition(idxid in number, ixpid in number);
+
+    /* ---------------------------- validate_storage ----------------------*/
+    /* Added for bug 7425113.  Validates the supplied storage clause string
+     * and raises errors for suspect values (such as embedded comments) which
+     * could be signs of potential SQL injection.  If there are no errors
+     * then storage_clause is returned unchanged.
+     */
+    function validate_storage(clause_value in varchar2,
+                              clause_name in varchar2)
+      return varchar2;
+
+    /*--------------------------- get_hash_area_size ---------------------------*/
+    function get_hash_area_size return number;
+    procedure set_hash_area_size(hashmem in number);
+
+    /*---------------------------get_max_string_size---------------------------*/
+    function get_max_string_size(p_schema in varchar2 default null)
+    return varchar2;
+
+    /*------------------------- CheckNumLangIndSLXSW --------------------------*/
+    /* This function checks the number of remaining language independent sublexers
+     * and stopwords in the index.
+     */
+    FUNCTION CheckNumLangIndSLXSW(
+      idx_id in number
+    ) return number;
+
+    /*---------------------------- get_ctx_doc_polstem --------------------------*/
+    /* get _ctx_doc_policy_stems parameter for this instance */
+    function get_ctx_doc_polstems
+    return boolean;
+
+    /*------------------------------ is_decimal_value --------------------------*/
+    /* Is this number a decimal value or not ? */
+    function is_decimal_value(value number)
+    return boolean;
+
+    /*---------------------------- is_shadow_index --------------------------*/
+    /* check if index being refered to is a shadow index */
+    function is_shadow_index(idx_name varchar2)
+    return boolean;
+
+    /*---------------------------- parse_shadow_index --------------------------*/
+    /* parse shadow index to get index id and partition id */
+    procedure parse_shadow_index(rio_idx_name in     varchar2,
+                                 idx_id       in out number,
+                                 idx_suffix   in out varchar2
+    );
+
+    /*------------------------ validateXMLJSONSecGrp ----------------------------*/
+    /* validate section group preferences:
+     *  - disallow transactional index with SDATA sections
+     *  - SDATA section has to be optimized_for search
+     *  - allow range_search_enable for SDATA sections only
+     *  - check if xml_enable or json_enable property is set properly
+     */
+    PROCEDURE validateXMLJSONSecGrp(
+      sg_name            in  varchar2,
+      table_owner        in  varchar2,
+      table_name         in  varchar2,
+      column_type_schema in  varchar2,
+      column_type        in  varchar2,
+      column_name        in  varchar2,
+      idx_texttype       in  number default -1,
+      xml_simple_syntax  in  boolean default FALSE);
+
+    /*------------------------ druebrk ------------------------*/
+    PROCEDURE druebrk;
+
+    /*------------------------ DumpPLSQLStack ------------------------*/
+    /* Dump the PL/SQL stack to the trace log file. */
+    PROCEDURE DumpPLSQLStack;
+
+
+    /*------------------------------ max_name_length ----------------------------*/
+    /*
+      NAME
+        max_name_length - Compute and return the maximum length of an object's name
+      DESCRIPTION
+        Returns the maximum length of the object, based on the object type,
+        database compatible settings, and whether full length index names are
+        enabled.
+      NOTES
+        Full length index names are disabled by setting level 4 for event 30580.
+      ARGUMENTS
+        p_obj_type   - One of the OBJTYPE constants defined in the package header
+        p_partition  - If TRUE, return the maximum length assuming the object is
+                       partitioned
+        p_full_length_objs - If TRUE, consider full length objects enabled
+        p_pfx_check  - If TRUE, we are called from make_pfx.  In this case return
+                       the point at which the name needs to be truncated.
+        p_30_char_names - If TRUE, consider the maximum length of a database object
+                       to be 30, even if compatible >= 12.2
+      EXCEPTIONS
+        dr_def.textile_error if p_obj_type is not one of the OBJTYPE constants
+      RETURNS
+        Maximum length for the given object
+    */
+    FUNCTION max_name_length(
+      p_obj_type IN NUMBER,
+      p_partition IN BOOLEAN,
+      p_full_length_objs IN BOOLEAN,
+      p_30_char_names IN BOOLEAN,
+      p_pfx_check IN BOOLEAN DEFAULT FALSE,
+      p_idx_type IN NUMBER DEFAULT -1)
+    RETURN NUMBER;
+
+    /*---------------------------- trim_quotes --------------------------*/
+    /*
+      NAME
+        trim_quotes
+
+      DESCRIPTION
+        Remove surrounding quotes from a string
+      ARGUMENTS
+        str - the string to remove the quotes from
+      NOTES
+
+      EXCEPTIONS
+    */
+
+    function trim_quotes(str in varchar2)
+    return varchar2;
+
+    /*----------------------- is_explicit_app_script ---------------------*/
+    /*
+      NAME
+        is_explicit_app_script
+
+      DESCRIPTION
+        Is explicit application in progress?
+      NOTES
+
+      EXCEPTIONS
+    */
+
+    function is_explicit_app_script
+    return boolean;
+
+    /*--------------------------- getXMLTableOpqFlags ---------------------------*/
+    /* Retrieve optype$.flags for an XMLType object table */
+    function getXMLTableOpqFlags(
+      p_owner   in varchar2,
+      p_tabname in varchar2
+    ) return number;
+
+    /*---------------------------- getXMLColOpqFlags ----------------------------*/
+    /* Retrieve opqtype$.flags for an XMLType column */
+    function getXMLColOpqFlags(
+      p_owner   in varchar2,
+      p_tabname in varchar2,
+      p_colname in varchar2
+    ) return number;
+
+    /*--------------------------- custom_lang_exists ----------------------------*/
+    /* Check if a created lang exists */
+    function custom_lang_exists(
+      p_lang_name  in varchar2,
+      p_owner_id   in number
+    ) return boolean;
+
+    /*------------------------------ validate_vectorizer ------------------------*/
+    procedure validate_vectorizer(
+      vectorizer in varchar2
+    );
+
+    end driutl;
+dataProducts: []
+storedProcedureType: StoredPackage
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+owners: []
+tags: []
+domains: []
+sourceHash: 08c1185a631c95af828b074222787635
+processedLineage: false
+entityStatus: Unprocessed
