@@ -1,0 +1,96 @@
+name: DR$STOPWORD
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD
+tableType: Regular
+columns:
+  - name: spw_spl_id
+    dataType: NUMBER
+    dataLength: 1
+    dataTypeDisplay: number
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_spl_id
+    tags: []
+    children: []
+    customMetrics: []
+  - name: spw_type
+    dataType: NUMBER
+    dataLength: 1
+    dataTypeDisplay: number
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_type
+    tags: []
+    children: []
+    customMetrics: []
+  - name: spw_language
+    dataType: VARCHAR
+    dataLength: 30
+    dataTypeDisplay: varchar2(30)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_language
+    tags: []
+    children: []
+    customMetrics: []
+  - name: spw_word
+    dataType: VARCHAR
+    dataLength: 255
+    dataTypeDisplay: varchar2(255)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_word
+    tags: []
+    children: []
+    customMetrics: []
+  - name: spw_lang_dependent
+    dataType: CHAR
+    dataLength: 1
+    dataTypeDisplay: char(1)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_lang_dependent
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: spw_pattern
+    dataType: VARCHAR
+    dataLength: 512
+    dataTypeDisplay: varchar2(512)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.DR$STOPWORD.spw_pattern
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints:
+  - constraintType: PRIMARY_KEY
+    columns:
+      - spw_spl_id
+      - spw_type
+      - spw_language
+      - spw_word
+owners: []
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+tags: []
+joins:
+  startDate: 2026-01-13
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 331b6d707ca63525f90acecd61c9696f
+processedLineage: false
+entityStatus: Unprocessed
