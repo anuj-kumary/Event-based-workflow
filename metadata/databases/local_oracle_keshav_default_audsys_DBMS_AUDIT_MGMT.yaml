@@ -1,0 +1,1077 @@
+name: DBMS_AUDIT_MGMT
+fullyQualifiedName: local_oracle_keshav.default.audsys.DBMS_AUDIT_MGMT
+storedProcedureCode:
+  language: SQL
+  code: |-
+    PACKAGE        dbms_audit_mgmt AS
+    PACKAGE BODY        dbms_audit_mgmt wrapped
+    a000000
+    1
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    abcd
+    b
+    2d3de 7a38
+    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
+    Hx7ex6VFGN
+    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  -- Constants
+    WGJ4UQ9gO4JKA+rRxghopCrGN
+    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
+    rPmYxV6TwkukVLnmWPCOONtJ3YVe10ca
+    5eSOuYwKZgMYyUM5qXQ62ppnYXIq28nxkxPUW4Hs
+    L5xcrgyOn4whu6yOWU6JMcd84O1qSUFTiOcA7GdM451m1SPAqEkQfyzeUBhsj7f83A359WSH
+    riG5NjNwZcfN03+ojuKyljJL1SIlpr+v1VNajHGjkDPMlHjYxTgn7JEUEvDeI2wcJu8rtavN
+    zV7Xy1TG84NO6uTeSvbbo0ZDIJgd1aFhuW0WyEPe6U3PAMNzeQA+4iZK7f6HBurVLfUPbDfH
+    PNJc8Yv6bpWsymko5zHy0SF/U/DyfeDOh4QTBs7gpADV83m8SqM4i25VMThIHs90MxbgxsEZ
+    ZBISF0OR4S6Kd907p8G4CC74FRZTeHfwxN1T203fjLPIyc3vCJW7EduMcV5jgIpowVR9hvZ4
+    ObwL+UIcnYwC+zDvpc29NOcqDMclRodNuKf1plnvoBU1Ty9JfF33mIk/NQkUMpju+A5MDDkU
+    grzeBpPrY9VhnX1uhYM2GDnvb/nAL+QntcI60e5r6Jb6SwS5Mzg7D8I4MbGbnBQz/Sy2DJon
+    V1HI4FkhoFSbAjiWQsiTfvc2Ec4voyCG371oRGk58bb2YP8F9C82JAgMFjLrfHhmzlgx4193
+    SkAx7wHfGHzaVx8ZLy/UX/H7nuxw471OsUjPJbK6IEMb+NTf+J76Pe7Do/ByNiDe89M4wN82
+    aUa79FmKfhVqey76VhYM2v0hfwe9Ziku1UfQUiF7JChbapAapFLYbKzKvC3dysHW/9pHyHKF
+    fOI1MNoBdeCLcAZr11UN/jMi6kPs663FqhkmLc7c79+JuvYLhn+yp8Rok1TKnODkYtdKswrq
+    ZHd1ktcya3bbEls8vlUOGYw+RGgALuJ4XSpKDwYwDWowIX49hdXmiakMlIKPwDuFqMEVStF4
+    jLyqpdZPadeePZ2M7bWMlAlffkE8u489sT/yEBf3WuKLm/bc1S2hCqHNNEGOCthNuRaKSzH4
+    OPiW7CFFVeXk+19z3VNX3EasALd3q0l/uEJ60OxR8U3PQ8jrXbsINbCqp9s62sDcV40mXGIm
+    r6/XMK28SrDqiKR5MbLL8ZLLqhkvXOCV6EmcxI1pnlOLQu5/RdFbOpnjLHvcFL49MVgaGBOr
+    wb2PIkPG1IMaYt1jWf+pXwkqHLMieu+Lr/JdrsgApHdCEy4lkkjcTitcR0r7dCc0f2yFEovy
+    MGcKan/BpA+Fu4RQSeAEHe11JUjC83CCahn9+s2Rt8gRh1nhwnCoWfH+qIxbUETeMDWLzUAX
+    rpsspsjWbSyprd68B0WEQycJ/ImOn+Rg1ub1lYLwGNQRVDsvuPf60ee4Su/SekR4wzqLsnWF
+    Pi3tz58OFT7vjc3ZF4/4cSKSoQ6yaNL20noIh9ZPHE5d7b7Pf3c77YXtDR9hdiK8/s6EZ387
+    5Mdigk+ymGHV8tFhR9sivZrlmMgjqta39ROCYgRHyxUs9NcRvg97o5J5i+n3136pYcOzzlct
+    31/A74oHh3gkwkj0HZq9wJyva53LCecc00gX7iYUTymAwB9QxuN423L94Epg8m9wyEiF1u2r
+    R3IVHzbZqlLEgd8/67nsZv1TwvBa99qigVVmIhuMP8Gx8xn9uVngKaubZ2/tSnpvLs39svYJ
+    ckAlfR0NhZjKYW380le5WWozmx+w8cFDlhMn3dJZwloAdBg8cxu973pqFELALYQOlL+Mt5k0
+    AjheEJOOf+uLxJgjHiqO5aEEFREHV+wUMktY8tUNd7jLL0Hkhr2eXlbe8ZdGHeTxzM8zapB3
+    COMiDjFOMgfxOszgs5prIKvmgX6jR3jFI2YVLwvelnY5is0T8Vv46AUpnQJY0LJVr0rdEtHE
+    tasx2/sYb8TZ2b2Sa+z3UDZ6LfTrgyignhISwqOuwQv8uc6EKu+VqRqoawsUWETF7B9rPS6D
+    BL/7X8essIZejpJt595BfeXAhlqjTwbpoYrZwcH7PRSb+hbWTUAQz+AjCTdm+whsIzzoWQEs
+    AGwarEDDuseEaF1vTyLX6E70ew30wYp4FA4WAJsBC2m3mY6l2rzq48VpX1TPR5G+IeGbULky
+    E4L0RGK6HUAOxNXK1LHGZTgC8frtGw0ABkHm9F1bkvNx3LyO9LqN76a1idfr2/7OFDoCiHD2
+    uKU5cEW9hiaSY4mhqochFLe/hMJSeJtfFAWdHntr2dqCBINhSl9uI6oZMTExTqh3T8SiTWWR
+    JzogSHIemIfMlq061uwaOBoWKPUag0bAx7IeNerjgbjzg1IFqggONn841lWxsg7214DnZT6P
+    NavxD2DvmlTCsWBMbaSPRxv7sfd0ALLy52sYkvsSQ+cHiU+RgPELPe+VIRF/wNVZx/jU95u2
+    h6j8ghmNQBQ1E6mVuGBBfnK0ACSJ/n+JT0KEQiSZlxu4lOHtp07ZfeqJQIOF+5Mm7hWUDUO3
+    mBMAWM+04d7svI2h0qSy1xEOAK1IXiM6YFXKV0n6iJHyO3W9VL2iCySmfDiYxyOovuV10SNc
+    ji/ToTmYZuJSIW1MavyIr21J7Dw/sGmcHZd+Ju3FROae+G0qRYfk3OBpvaK/elG9CvoDSnol
+    4t3veWIUtAjArCshXKw+tZzIeJNKEoBD4af5vGYJtU2jwjmXqaDNuDVvHRJ75PL3Xjw8EfLZ
+    5+eL6XMvCdZ+GkdrKLMQ37ncLAZtSCaRBgr9aeTKpIP70DUcwiNn2Lv2CSgvqH4dgamml2or
+    KI4QbT6P+jD+EoSF5OL+P12OEu4wNB5Ym4dvv9gVj+r50ghv9G2h7rzkBLxZQR5qVE9sK5do
+    onzfz+BgGkaUSbmxsttMTbP6TfhvbD930/yztCt9BVVQNKA1x42c68n3WPewenEOQV0Sp/xQ
+    mQzQ+g0/xGWYNZLfaXVZrMh5iajP6rnzkfTdTH8kWYIL4QS8pgc/8an04G147ya+LVzJxUMi
+    NiW2P13Q+x1vkSI5d7Cm5cOgHzCHvnpfm+e0J6LJzPTPalG4Ffo4ZyS0oFdxYQ/LZY06x61a
+    BJdqY9Gt4pK4q9V/6gcDaxifvZHqP2oS66D/Noi/cZjHsRi34t9UFtHWG+bwghI00LKWkYEN
+    o6lWXVdDu/U4MiL4I73WfrlraTmHbVmrvrsYGMzXHripiIFi0Xw5xu804xbIpND1SWY202BN
+    4A2K3wKaXt7rz2PxTiKAGL4IDmZF4maD4nZx24HCgcihNfHSVrJkyRYWrIQTcMysgE3gEmuT
+    yKEzuR1zx76Nf2sMcrL7m3BbbAEcU7Aa+0pp9ppf4aJtZauReJd06b9jb4WXtlAcgSMfhQSA
+    kKSnu/cz3UnAmknFmtU/kI1j3UuvNKV2uNtk1bwAa6K82qOg4uiKvDcRUKWWyupU+TRdtgsW
+    kv5U9a33QkvwEdJkytg7iVTiD5vUwPOJH3iYbDOKHOG5PxlymLdP/m1Ax8/QONVJQHkes2+W
+    Pz4vHpsGnNjdkAdv1xoGvLHfu8tzncYVAWZzEOBy6KIJ8lZoYa2v6BSbgWDtADnf5AA8zRLY
+    Be/jMk4XHYejuCSBxMxn2cOpLJdBltN4b3b7VZNYzK/F0g5t2B6wZ2nQGuUKphOYD5dYdr7s
+    YZBG3tYhWUK2f0JJUKGBxxkxxxrkrfEPPMSr6SOa/6f68yJ+rtn8QC2N+hud3HKhRN+2CQ7P
+    HYURHLeHvrNn+Ioh3r/IdC6hBysBWQ78lwJAz76aIhTm4EJwiq7yA1yzpABShPx+7Kk0NBN4
+    D1MRZRChLVF3imu1jDA0wZ8LeC5f3QRAWIOD2H+tK8E1rRr6eMCAIo1XmI4E+uP/TFukY9jP
+    WHGVLw9c8zO1SHx0HKwW9jLymE+mjYAs2MBPKOyRmhNwrx3P64qa6xPUhpUV65FvMFsA+cbX
+    kLx5vG3O/TmmEB8IzUs+TNudElJugNwWZkKNvMgK+V3lnoYJpWBI7pgOFu042z2fFCmYl27C
+    nffSTG5g1bkwjgrDu  -- Audit Trail types
+    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
+    39  --
+    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  AUDIT_TRAIL_AUD_STD           CONSTANT NUMBER := 1;
+    owLZcYf3ZvQR
+    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  AUDIT_TRAIL_FGA_STD           CONSTANT NUMBER := 2;
+    YiIWXlW9okkXcS+hsFkP2C6GeKH
+    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
+      --
+      -- Both AUDIT_TRAIL_AUD_STD and AUDIT_TRAIL_FGA_STD
+      AUDIT_TRAIL_DB_STD            CONSTANT NUMBER := 3;
+      --
+      AUDIT_TRAIL_OS                CONSTANT NUMBER := 4;
+      AUDIT_TRAIL_XML               CONSTANT NUMBER := 8;
+      --
+      -- Both AUDIT_TRAIL_OS and AUDIT_TRAIL_XML
+      AUDIT_TRAIL_FILES             CONSTANT NUMBER := 12;
+      --
+      -- All above audit trail types
+      AUDIT_TRAIL_ALL               CONSTANT NUMBER := 15;
+
+      --
+      -- OS Audit File Configuration parameters
+      OS_FILE_MAX_SIZE              CONSTANT NUMBER := 16;
+      OS_FILE_MAX_AGE               CONSTANT NUMBER := 17;
+
+      --
+      --
+      CLEAN_UP_INTERVAL             CONSTANT NUMBER := 21;
+      DB_AUDIT_TABLEPSACE           CONSTANT NUMBER := 22;
+      DB_DELETE_BATCH_SIZE          CONSTANT NUMBER := 23;
+      TRACE_LEVEL                   CONSTANT NUMBER := 24;
+      -- AUD_TAB_MOVEMENT_FLAG(23) will not be entered in DAM_CONFIG_PARAM$
+      AUD_TAB_MOVEMENT_FLAG         CONSTANT NUMBER := 25;
+      FILE_DELETE_BATCH_SIZE        CONSTANT NUMBER := 26;
+
+      --
+      -- Values for PURGE_JOB_STATUS
+      PURGE_JOB_ENABLE              CONSTANT NUMBER := 31;
+      PURGE_JOB_DISABLE             CONSTANT NUMBER := 32;
+
+      -- Bug 35077584: Remove CLI Write Modes
+      -- NG Audit Trail write mode configuration
+      --AUDIT_TRAIL_WRITE_MODE        CONSTANT NUMBER := 33;
+      -- Values for Write mode
+      --AUDIT_TRAIL_QUEUED_WRITE      CONSTANT NUMBER := 1;
+      --AUDIT_TRAIL_IMMEDIATE_WRITE   CONSTANT NUMBER := 2;
+
+      --
+      -- Values for TRACE_LEVEL
+      TRACE_LEVEL_DEBUG             CONSTANT PLS_INTEGER := 1;
+      TRACE_LEVEL_ERROR             CONSTANT PLS_INTEGER := 2;
+      TRACE_LEVEL_NONE              CONSTANT PLS_INTEGER := 0;
+
+      -- UNIFIED Audit Trail
+      AUDIT_TRAIL_UNIFIED           CONSTANT NUMBER := 51;
+
+      -- Enh 33171070: constants corresponding to new audit trail sources
+      AUDIT_TRAIL_UNIFIED_TABLE     CONSTANT NUMBER := 52;
+      AUDIT_TRAIL_UNIFIED_FILES     CONSTANT NUMBER := 53;
+
+      --
+      -- Values for CONTAINER
+      CONTAINER_CURRENT             CONSTANT PLS_INTEGER := 1;
+      CONTAINER_ALL                 CONSTANT PLS_INTEGER := 2;
+
+      -- Values for AUDSYS.AUD$UNIFIED table's Partition Interval
+      DEFAULT_INTERVAL_NUMBER       CONSTANT PLS_INTEGER := 1;
+      DEFAULT_INTERVAL_FREQUENCY    CONSTANT VARCHAR2(3) := 'DAY';
+
+      -- Bug 32297844: Add FILE_LOAD_BATCH_SIZE
+      DEFAULT_FILE_LOAD_BATCH_SIZE  CONSTANT PLS_INTEGER := 3;
+
+      -- Bug 32483651: Boundary values for PLS_INTEGER arguments
+      MAX_INT_VALUE                 CONSTANT PLS_INTEGER := 2147483647;
+      MAX_SHORT_INT_VALUE           CONSTANT PLS_INTEGER := 32767;
+
+      ----------------------------------------------------------------------------
+      /*
+
+      NOTE: The package can be split into two packages - one intended for use by
+      AV collectors and the one by Audit Admin.
+
+      The first 3 procedures will be mainly used by the Collectors and the rest
+      must be executed by Audit Admins.
+
+      Alternately, wrapper packages can be written to achieve this Seperation of
+      Duty.
+
+      */
+
+      /* APIS REQUIRED BY COLLECTORS */
+      ----------------------------------------------------------------------------
+
+      -- set_last_archive_timestamp - Sets timestamp when last audit records
+      --                              were archived
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which the last audit
+      --                                record timestamp is being set
+      --   last_archive_time          - Timestamp when last audit record was
+      --                                archived
+      --   rac_instance_number        - RAC instance number to which this applies
+      --                                def. value = null(applies to no RAC node)
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+      --   database_id                - Database ID (DBID) of the audit records
+      --                                to cleanup. Default: NULL
+      --   container_guid             - Container GUID of the audit records
+      --                                to cleanup. Default: NULL
+
+      PROCEDURE set_last_archive_timestamp
+                (audit_trail_type           IN PLS_INTEGER,
+                 last_archive_time          IN TIMESTAMP,
+                 rac_instance_number        IN PLS_INTEGER := null,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT,
+                 database_id                IN NUMBER := null,
+                 container_guid             IN VARCHAR2 := null
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_last_archive_timestamp, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- clear_last_archive_timestamp - Deletes the timestamp set by
+      --                                set_last_archive_timestamp
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which the last audit
+      --                                record timestamp was set
+      --   rac_instance_number        - RAC instance number to which this applies
+      --                                def. value = null(applies to no RAC node)
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+      --   database_id                - Database ID (DBID) of the audit records
+      --                                to cleanup. Default: NULL
+      --   container_guid             - Container GUID of the audit records
+      --                                to cleanup. Default: NULL
+
+      PROCEDURE clear_last_archive_timestamp
+                (audit_trail_type           IN PLS_INTEGER,
+                 rac_instance_number        IN PLS_INTEGER := null,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT,
+                 database_id                IN NUMBER := null,
+                 container_guid             IN VARCHAR2 := null
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(clear_last_archive_timestamp, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- get_last_archive_timestamp - Retrieves the timestamp set by
+      --                              set_last_archive_timestamp for the current
+      --                              instance
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which the last audit
+      --                                record timestamp was set
+      --   rac_instance_number        - RAC instance number to which this applies
+      --                                def. value = current rac number.
+      --   database_id                - Database ID (DBID) of the audit records
+      --                                to fetch. Default: NULL
+      --   container_guid             - Container GUID of the audit records
+      --                                to fetch. Default: NULL
+      -- RETURNS
+      --   TIMESTAMP - Last Archive Timestamp in memory
+
+      FUNCTION get_last_archive_timestamp
+               (audit_trail_type           IN PLS_INTEGER,
+                rac_instance_number        IN PLS_INTEGER := null,
+                database_id                IN NUMBER := null,
+                container_guid             IN VARCHAR2 := null)
+      RETURN TIMESTAMP;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(get_last_archive_timestamp, READ_ONLY);
+
+       -----------------------------------------------------------------------------
+
+      -- get_audit_commit_delay - GETs the audit commit delay set in the db.
+      --
+      -- INPUT PARAMETERS
+      --   None
+      -- RETURNS
+      --   PLS_INTEGER - AUD_AUDIT_COMMIT_DELAY
+      --
+
+      FUNCTION get_audit_commit_delay RETURN PLS_INTEGER;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(get_audit_commit_delay, READ_ONLY);
+
+      ----------------------------------------------------------------------------
+
+      -- get_audit_trail_property_value - Retrieves the value of the property set
+      --                                  by set_audit_trail_property
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which the property was set
+      --   audit_trail_property       - Property for which the value is to be
+      --                                fetched
+      -- RETURNS
+      --   NUMBER - Value of the audit trail property in memory
+
+      FUNCTION get_audit_trail_property_value
+               (audit_trail_type           IN PLS_INTEGER,
+                audit_trail_property       IN PLS_INTEGER)
+      RETURN NUMBER;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(get_audit_trail_property_value, READ_ONLY);
+
+      ----------------------------------------------------------------------------
+
+      -- is_cleanup_initialized - Checks if Audit Cleanup is initialized for the
+      --                          audit trail type
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail to check initialization for.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      -- RETURNS
+      --   TRUE  - If audit trail is initialized for clean up.
+      --   FALSE - otherwise.
+      --
+
+      FUNCTION is_cleanup_initialized
+               (audit_trail_type           IN PLS_INTEGER,
+                container                  IN PLS_INTEGER := CONTAINER_CURRENT)
+      RETURN BOOLEAN;
+      pragma deprecate(is_cleanup_initialized,
+                   'DBMS_AUDIT_MGMT.IS_CLEANUP_INITIALIZED is deprecated!');
+      PRAGMA SUPPLEMENTAL_LOG_DATA(is_cleanup_initialized, READ_ONLY);
+
+      -- is_cleanup_initialized2 - Checks if Audit Cleanup is initialized for the
+      --                           audit trail type and returns VARCHAR2 type
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail to check initialization for.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      -- RETURNS
+      --   'TRUE'  - If audit trail is initialized for clean up.
+      --   'FALSE' - otherwise.
+      --
+
+      FUNCTION is_cleanup_initialized2
+               (audit_trail_type           IN     PLS_INTEGER,
+                container                  IN     PLS_INTEGER := CONTAINER_CURRENT)
+      RETURN VARCHAR2;
+      pragma deprecate(is_cleanup_initialized2,
+                   'DBMS_AUDIT_MGMT.IS_CLEANUP_INITIALIZED2 is deprecated!');
+      PRAGMA SUPPLEMENTAL_LOG_DATA(is_cleanup_initialized2, READ_ONLY);
+
+      -- is_cleanup_initialized - Checks if Audit Cleanup is initialized for the
+      --                          audit trail type (CDB version)
+      --                          This function returns all PDB names that are not
+      --                          initialized for cleanup
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail to check initialization for.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      -- OUTPUT PARAMETERS
+      --   uninitialized_pdb          - Array of uninitialized PDB names
+      -- RETURNS
+      --   TRUE  - If audit trail is initialized for clean up.
+      --   FALSE - otherwise.
+      --
+      FUNCTION is_cleanup_initialized
+               (audit_trail_type           IN     PLS_INTEGER,
+                container                  IN     PLS_INTEGER := CONTAINER_CURRENT,
+                uninitialized_pdbs         IN OUT SYS.DBMS_SQL.VARCHAR2S)
+      RETURN BOOLEAN;
+      pragma deprecate(is_cleanup_initialized,
+                   'DBMS_AUDIT_MGMT.IS_CLEANUP_INITIALIZED is deprecated!');
+      PRAGMA SUPPLEMENTAL_LOG_DATA(is_cleanup_initialized, READ_ONLY);
+
+      -- get_cli_part_oranum - GETs the ORACLE NUMBER corresponding to the
+      --                       HIGH_VALUE of CLI Partition.
+      --
+      -- INPUT PARAMETERS
+      -- partname - CLI Partition Name
+      -- RETURNS
+      --   NUMBER - Oracle Number
+      --
+      -- NOTES
+      --   HIGH_VALUE of the partition is stored in LONG type columns inside
+      --   dba_tab_partitions. We this function to convert it to NUMBER.
+
+
+      FUNCTION get_cli_part_oranum
+               (partname IN VARCHAR2)
+      RETURN NUMBER;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(get_cli_part_oranum, READ_ONLY);
+
+      -- is_droppable_partition - IS aud$unified table PARTITION DROPPABLE?
+      --
+      --
+      -- INPUT PARAMETERS
+      -- partname - aud$unified table's Partition Name
+      -- lat      - Last Archive Timestamp mentioned during cleanup
+      -- RETURNS
+      --   NUMBER
+      --     1 - if partition is droppable
+      --     0 - otherwise
+      --
+
+      FUNCTION is_droppable_partition
+               (partname in varchar2, lat in timestamp)
+      RETURN NUMBER;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(is_droppable_partition, READ_ONLY);
+
+      -- get_part_highval_as_char - GETs the aud$unified table PARTition
+      --                            HIGH_VALUE AS varCHAR2.
+      --
+      -- INPUT PARAMETERS
+      -- partname - aud$unified table's Partition Name
+      -- RETURNS
+      --   VARCHAR2
+      --
+      -- NOTES
+      --   HIGH_VALUE of the partition is stored in LONG type columns inside
+      --   dba_tab_partitions. We need this function to convert it to VARCHAR2.
+      --
+
+      FUNCTION get_part_highval_as_char
+               (partname in varchar2)
+      RETURN VARCHAR2;
+      PRAGMA SUPPLEMENTAL_LOG_DATA(get_part_highval_as_char, READ_ONLY);
+
+      ----------------------------------------------------------------------------
+
+      /* APIS NEED TO BE RUN BY AUDIT ADMINS */
+      ----------------------------------------------------------------------------
+
+      -- init_cleanup  - Initialize DBMS_AUDIT_MGMT
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which set-up must done.
+      --   default_cleanup_interval   - Default interval at which clean up is
+      --                                invoked.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+
+      PROCEDURE init_cleanup
+                (audit_trail_type           IN PLS_INTEGER,
+                 default_cleanup_interval   IN PLS_INTEGER,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT
+                );
+      pragma deprecate(init_cleanup,
+                   'DBMS_AUDIT_MGMT.INIT_CLEANUP is deprecated!');
+      PRAGMA SUPPLEMENTAL_LOG_DATA(init_cleanup, UNSUPPORTED_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- set_audit_trail_location - Set destination for an audit trail
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which the location
+      --                                is being set
+      --   audit_trail_location_value - Value of the location
+
+      PROCEDURE set_audit_trail_location
+                (audit_trail_type           IN PLS_INTEGER,
+                 audit_trail_location_value IN VARCHAR2
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_audit_trail_location, UNSUPPORTED_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- deinit_cleanup  - De-Initialize DBMS_AUDIT_MGMT
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which set-up must done.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+
+      PROCEDURE deinit_cleanup
+                (audit_trail_type           IN PLS_INTEGER,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT);
+      pragma deprecate(deinit_cleanup,
+                   'DBMS_AUDIT_MGMT.DEINIT_CLEANUP is deprecated!');
+      PRAGMA SUPPLEMENTAL_LOG_DATA(deinit_cleanup, UNSUPPORTED_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- set_audit_trail_property - Set a property of an audit trail
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail whose parameter must be set
+      --   audit_trail_property       - Property that must be set
+      --   audit_trail_property_value - Value to which the property must set
+
+      PROCEDURE set_audit_trail_property
+                (audit_trail_type           IN PLS_INTEGER,
+                 audit_trail_property       IN PLS_INTEGER,
+                 audit_trail_property_value IN PLS_INTEGER
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_audit_trail_property, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- clear_audit_trail_property - Clears a property of an audit trail
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail whose parameter must be set
+      --   audit_trail_property       - Property that must be cleared
+      --   use_default_values         - Use default values after clearing the
+      --                                property, default value is FALSE.
+
+      PROCEDURE clear_audit_trail_property
+                (audit_trail_type           IN PLS_INTEGER,
+                 audit_trail_property       IN PLS_INTEGER,
+                 use_default_values         IN BOOLEAN := FALSE
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(clear_audit_trail_property, AUTO_WITH_COMMIT);
+
+     ----------------------------------------------------------------------------
+
+      -- clean_audit_trail - Deletes entries in audit trail according to the
+      --                     timestamp set in set_last_archive_timestamp
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail which should be cleared
+      --   use_last_arch_timestamp    - Use Last Archive Timestamp set.
+      --                                default value = TRUE.
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+      --   database_id                - Database ID (DBID) of the audit records
+      --                                to cleanup. Default: NULL
+      --   container_guid             - Container GUID of the audit records
+      --                                to cleanup. Default: NULL
+
+      PROCEDURE clean_audit_trail
+                (audit_trail_type           IN PLS_INTEGER,
+                 use_last_arch_timestamp    IN BOOLEAN := TRUE,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT,
+                 database_id                IN NUMBER := null,
+                 container_guid             IN VARCHAR2 := null
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(clean_audit_trail, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- create_purge_job - Creates a purge job for an audit trail
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_type           - Audit trail for which this job is created
+      --   audit_trail_purge_interval - Interval to determine frequency of
+      --                                purge operation
+      --   audit_trail_interval_unit  - Unit of measurement for
+      --                                audit_trail_purge_interval
+      --   audit_trail_purge_name     - Name to identify this job
+      --   use_last_arch_timestamp    - Use Last Archive Timestamp set.
+      --                                default value = TRUE.
+      --   container                  - Job to manage Current or All PDBs -
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+
+      PROCEDURE create_purge_job
+                (audit_trail_type           IN PLS_INTEGER,
+                 audit_trail_purge_interval IN PLS_INTEGER,
+                 audit_trail_purge_name     IN VARCHAR2,
+                 use_last_arch_timestamp    IN BOOLEAN := TRUE,
+                 container                  IN PLS_INTEGER := CONTAINER_CURRENT
+                );
+
+      PRAGMA SUPPLEMENTAL_LOG_DATA(create_purge_job, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- set_purge_job_status - Set the status of the purge job
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_purge_name     - Name of the purge job created
+      --   audit_trail_status_value   - Value to which the status must set
+
+      PROCEDURE set_purge_job_status
+                (audit_trail_purge_name     IN VARCHAR2,
+                 audit_trail_status_value   IN PLS_INTEGER
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_purge_job_status, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- set_purge_job_interval - Set the interval of the purge job
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_purge_name     - Name of the purge job created
+      --   audit_trail_interval_type  - Type of interval that must be set
+      --   audit_trail_interval_value - Value to which the interval must set
+
+      PROCEDURE set_purge_job_interval
+                (audit_trail_purge_name     IN VARCHAR2,
+                 audit_trail_interval_value IN PLS_INTEGER
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_purge_job_interval, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- drop_purge_job - Drops the purge job for an audit trail
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_purge_name     - Name to identify this job
+
+      PROCEDURE drop_purge_job
+                (audit_trail_purge_name     IN VARCHAR2
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(drop_purge_job, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- move_dbaudit_tables - Moves DB audit tables to specified tablespace
+      --
+      -- INPUT PARAMETERS
+      --   audit_trail_tbs - The table space to which to move the DB audit tables.
+      --                     The default value is the SYSAUX tablespace.
+
+      PROCEDURE move_dbaudit_tables
+                (audit_trail_tbs     IN VARCHAR2  DEFAULT 'SYSAUX'
+                );
+      PRAGMA SUPPLEMENTAL_LOG_DATA(move_dbaudit_tables, UNSUPPORTED_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- set_debug_level - Sets the debug level for tracing
+      --
+      -- INPUT PARAMETERS
+      --   debug_level - Number to identify the trace level
+
+      PROCEDURE set_debug_level(debug_level IN PLS_INTEGER := TRACE_LEVEL_ERROR);
+      PRAGMA SUPPLEMENTAL_LOG_DATA(set_debug_level, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- load_unified_audit_files - Loads spillover audit files to tables
+      --
+      --   Bug 32297844: added load_batch_size as an argument to set the limit to
+      --   the number of spillover audit files to load
+      --   container                  - PDB Container to execute in
+      --                                CONTAINER_CURRENT or CONTAINER_ALL
+      --                                Default : CONTAINER_CURRENT
+      --
+      --   load_batch_size            - Number of spillover files to load
+      --                                Default : DEFAULT_FILE_LOAD_BATCH_SIZE
+      --
+
+      PROCEDURE load_unified_audit_files
+                (container          IN PLS_INTEGER := CONTAINER_CURRENT,
+                 load_batch_size    IN PLS_INTEGER := DEFAULT_FILE_LOAD_BATCH_SIZE);
+      PRAGMA SUPPLEMENTAL_LOG_DATA(load_unified_audit_files, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      --  transfer_unified_audit_records - Procedure to transfer Unified Audit
+      --  records from CLI persistent storage to a relational table,
+      --  AUDSYS.AUD$UNIFIED
+      --  Bug 23038047: This now takes CONTAINER_GUID as an argument to deal with
+      --  multiple CLI_SWP$ tables associated with different GUID.
+      --  When this procedure is called without mentioning the value for GUID,
+      -- we will internally pick up the container's current GUID.
+
+      PROCEDURE transfer_unified_audit_records
+                (container_guid  IN VARCHAR2 := null);
+      PRAGMA SUPPLEMENTAL_LOG_DATA(transfer_unified_audit_records,
+                                   AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- drop_old_unified_audit_tables - Drops the given Old Unified Audit
+      --                                 (CLI based) tables
+      --
+      --   container_guid             - Container GUID of the Unified Audit
+      --                                table
+      --
+
+      PROCEDURE drop_old_unified_audit_tables
+                (container_guid    IN VARCHAR2);
+      PRAGMA SUPPLEMENTAL_LOG_DATA(drop_old_unified_audit_tables, AUTO_WITH_COMMIT);
+
+      ----------------------------------------------------------------------------
+
+      -- alter_partition_interval - Alters the interval of partitioned table
+      --                            AUDSYS.AUD$UNIFIED
+      --
+      --   interval_number        - Number indicating the partition interval
+      --   interval_frequency     - Frequency of the partition interval
+      --                            (YEAR, MONTH, DAY, HOUR, MINUTE, SECOND)
+      --
+
+      PROCEDURE alter_partition_interval
+                (interval_number       IN PLS_INTEGER := DEFAULT_INTERVAL_NUMBER,
+                 interval_frequency    IN VARCHAR2 := DEFAULT_INTERVAL_FREQUENCY);
+      PRAGMA SUPPLEMENTAL_LOG_DATA(alter_partition_interval, AUTO_WITH_COMMIT);
+
+    END;
+dataProducts: []
+storedProcedureType: StoredPackage
+databaseSchema:
+  id: cedff493-5bea-4738-9363-62bea54fb4c5
+  type: databaseSchema
+  name: audsys
+  fullyQualifiedName: local_oracle_keshav.default.audsys
+  displayName: audsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+owners: []
+tags: []
+domains: []
+sourceHash: 0aa1aeeff97da6aa1e2f3f12350e12db
+processedLineage: false
+entityStatus: Unprocessed
