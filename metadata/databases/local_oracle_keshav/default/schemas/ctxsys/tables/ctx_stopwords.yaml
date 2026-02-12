@@ -1,0 +1,104 @@
+name: ctx_stopwords
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords
+tableType: View
+columns:
+  - name: spw_owner
+    dataType: VARCHAR
+    dataLength: 128
+    dataTypeDisplay: varchar2(128)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_owner
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: spw_stoplist
+    dataType: VARCHAR
+    dataLength: 128
+    dataTypeDisplay: varchar2(128)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_stoplist
+    tags: []
+    constraint: NOT_NULL
+    children: []
+    customMetrics: []
+  - name: spw_type
+    dataType: VARCHAR
+    dataLength: 10
+    dataTypeDisplay: varchar2(10)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_type
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: spw_word
+    dataType: VARCHAR
+    dataLength: 255
+    dataTypeDisplay: varchar2(255)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_word
+    tags: []
+    constraint: NOT_NULL
+    children: []
+    customMetrics: []
+  - name: spw_language
+    dataType: VARCHAR
+    dataLength: 30
+    dataTypeDisplay: varchar2(30)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_language
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: spw_lang_dependent
+    dataType: CHAR
+    dataLength: 1
+    dataTypeDisplay: char(1)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_lang_dependent
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: spw_pattern
+    dataType: VARCHAR
+    dataLength: 512
+    dataTypeDisplay: varchar2(512)
+    fullyQualifiedName: local_oracle_keshav.default.ctxsys.ctx_stopwords.spw_pattern
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+schemaDefinition: ""
+tags: []
+joins:
+  startDate: 2026-01-13
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 5d2f6c906321c5f135b806e83b9ece8c
+processedLineage: false
+entityStatus: Unprocessed
