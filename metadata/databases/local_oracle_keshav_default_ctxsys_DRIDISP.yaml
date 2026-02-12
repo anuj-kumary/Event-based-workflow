@@ -1,0 +1,91 @@
+name: DRIDISP
+fullyQualifiedName: local_oracle_keshav.default.ctxsys.DRIDISP
+storedProcedureCode:
+  language: SQL
+  code: "package body dridisp wrapped\na000000\n1\nabcd\nabcd\nabcd\nabcd\nabcd\n\
+    abcd\nabcd\nabcd\nabcd\nabcd\nabcd\nabcd\nabcd\nabcd\nabcd\nb\n207b 556\nIOWCfCPTRdJIsbX3YUzdfhu51twwg81YzCATe47G/kewS+gAGtPl4aHsXWD+rwR4DfJ54jff\n\
+    QubrM0vtLgW8nZ9+dMtwv36DPXeeHGketZpbfMHkSt7HWbkI91GiGhfSCB7B0E+dEDXY549T\nO1c+WI9NiVzMJaAbV9miXDltpmu20du2gLh8V0lfC0LiiJYp95cv9adBNuY7+eNsvmpl357+\n\
+    xb66zMQJtvcJcj1LemC5WA7bhwFDXDyHAYZcSDSXPAqKNJcZCqIMZNOtlPH028X8xJ8huWDu\n7WbR44VykKgL6d6wlMEGoxpGCPyoawneO0n59IAJtmAPXZvUZ/TG8rhjRvKbr23LVDdlR9CN\n\
+    l+rTuORns7qNZLudqs7S34VUZq/wCTrLP3RBVEIH46kmsGWFLTa/oQE3w5vs7kucxlzCy1v0\nkGWsDKjM96JzbtHy+s5SdcEL2r+0vppB2oq+xkgMFWhTO/vatcLROU55ONKKLZq8wLTqP/iD\n\
+    OA/4zf0HEIbEmtKKEWk3C7U88z8exLt2M5CavL+0/j+YJo/5EqOSzfdqHL7NYTy3gomzYo2J\nthg2OMqR5hIHWbhG40lA41WoVntAyn/UItpAFL58kzC0xsQLjJm6UdKKLZpIZgCPXmBCugxA\n\
+    JOyezLgypXhqMLlAx3jkJJg4jGjx8m/IxC/q9C9FuTnBP63+2Q+KnMeYbgVDLHmcOem5Gd5K\ncZ7m6/IJoq6JfSJFESdhOaxpMWm28EVwO/pDwzdeY/ek5WI6K3lpaGTS7lmJJbpxAVCm5VYe\n\
+    6jqOHidFMgBVRVhI7VhIVdzEuei6/us76BhPDTnqUIWDXfakbTC+ceZIWPWky0nShVfjTFE1\nxFYfTOgCTKMC3wLmE5aSElGqTQoHkuDLzAChTU6iT+qSNDzBLn3AmhF5CnLaEBkH1yPd1+u2\n\
+    a76D9hVHsNpNwsM8S8qx5UQDXzzD8hb6046ke43YxQMewysh9/5bd2hB29gO/1gH39ipL1CP\nluFcw7r2rx5R210/zOScr25b7VByxhp6DQpzftfGqmR9zSKXvvfsvqXmvqXjgk6nXFHlX2JK\n\
+    p72YESwedCukBN/G/O0KLMbSfP+nHC5dqvmkEE5i0jtRKXqIf4/+KX9YFDjEDvmMQsuY0clK\nrXiZ3k3+fm7iRodEvODZlh/d9ZY6bXT2/nCrcNZYn06LCRdT7SFTiKdjmy0+8UUxsCxxaIIs\n\
+    BLKDdGrYIF8t6lottCh8gajg5VunUcxwfUPr8u594VRVLMUSQBH5JexrTsd9oCy7VZ0G0ahd\njGloXQOcaQui7dxgayTnPoHTh4iMZoEUfOfEnMJmJDQ6+9LeJBc=\n\
+    package dridisp is\n\nPRAGMA SUPPLEMENTAL_LOG_DATA(default, NONE);\n\n  /*\n \
+    \  * NAME\n   *   EXECTRUST2 - synchronous trust callout command with RefCursor\n\
+    \   *\n   * RETURN\n   *\n   */\n\nprocedure EXECTRUST2(\n  idx_owner  in    \
+    \ varchar2,\n  idx_name   in     varchar2,\n  part_name  in     varchar2,\n  func_code\
+    \  in     number,\n  refCursor  in out SYS_REFCURSOR,\n  arg1       in     varchar2\
+    \ default NULL,\n  arg2       in     varchar2 default NULL,\n  arg3       in \
+    \    varchar2 default NULL,\n  arg4       in     varchar2 default NULL,\n  arg5\
+    \       in     varchar2 default NULL,\n  arg6       in     varchar2 default NULL,\n\
+    \  arg7       in     varchar2 default NULL,\n  arg8       in     varchar2 default\
+    \ NULL,\n  arg9       in     varchar2 default NULL,\n  arg10      in     varchar2\
+    \ default NULL\n);\n\n  /*\n   * NAME\n   *   EXECTRUST - synchronous trust callout\
+    \ command\n   *\n   * RETURN\n   *\n   */\n  procedure EXECTRUST(\n          \
+    \           idx_owner  in     varchar2,\n                     idx_name   in  \
+    \   varchar2,\n                     part_name  in     varchar2,\n            \
+    \         func_code  in     number,\n  \t\t     arg1       in     varchar2 default\
+    \ NULL,\n  \t\t     arg2       in     varchar2 default NULL,\n  \t\t     arg3\
+    \       in     varchar2 default NULL,\n  \t\t     arg4       in     varchar2 default\
+    \ NULL,\n  \t\t     arg5       in     varchar2 default NULL,\n  \t\t     arg6\
+    \       in     varchar2 default NULL,\n  \t\t     arg7       in     varchar2 default\
+    \ NULL,\n  \t\t     arg8       in     varchar2 default NULL,\n  \t\t     arg9\
+    \       in     varchar2 default NULL,\n  \t\t     arg10      in     varchar2 default\
+    \ NULL\n                    );\n\n  /*\n   * NAME\n   *   EXECTRUST_RET - synchronous\
+    \ trust callout command with return\n   *\n   * RETURN\n   *\n   */\n  procedure\
+    \ EXECTRUST_RET(\n                     idx_owner  in     varchar2,\n         \
+    \            idx_name   in     varchar2,\n                     part_name  in \
+    \    varchar2,\n                     func_code  in     number,\n             \
+    \        ret1       out    varchar2,\n                     ret2       out    varchar2,\n\
+    \  \t\t     arg1       in     varchar2 default NULL,\n  \t\t     arg2       in\
+    \     varchar2 default NULL,\n  \t\t     arg3       in     varchar2 default NULL,\n\
+    \  \t\t     arg4       in     varchar2 default NULL,\n  \t\t     arg5       in\
+    \     varchar2 default NULL,\n  \t\t     arg6       in     varchar2 default NULL,\n\
+    \  \t\t     arg7       in     varchar2 default NULL,\n  \t\t     arg8       in\
+    \     varchar2 default NULL,\n  \t\t     arg9       in     varchar2 default NULL,\n\
+    \  \t\t     arg10      in     varchar2 default NULL\n                    );\n\n\
+    \  /*\n   * NAME\n   *   EXECTRUST_RET1 - synchronous trust callout command with\
+    \ 1 return\n   *\n   * RETURN\n   *\n   */\n  function EXECTRUST_RET1(\n     \
+    \                idx_owner  in     varchar2,\n                     idx_name  \
+    \ in     varchar2,\n                     part_name  in     varchar2,\n       \
+    \              func_code  in     number,\n  \t\t     arg1       in     varchar2\
+    \ default NULL,\n  \t\t     arg2       in     varchar2 default NULL,\n  \t\t \
+    \    arg3       in     varchar2 default NULL,\n  \t\t     arg4       in     varchar2\
+    \ default NULL,\n  \t\t     arg5       in     varchar2 default NULL,\n  \t\t \
+    \    arg6       in     varchar2 default NULL,\n  \t\t     arg7       in     varchar2\
+    \ default NULL,\n  \t\t     arg8       in     varchar2 default NULL,\n  \t\t \
+    \    arg9       in     varchar2 default NULL,\n  \t\t     arg10      in     varchar2\
+    \ default NULL\n                    )\n   return varchar2;\n\nend dridisp;"
+dataProducts: []
+storedProcedureType: StoredPackage
+databaseSchema:
+  id: 9c93807b-1325-46a6-ba84-f17ec47afa86
+  type: databaseSchema
+  name: ctxsys
+  fullyQualifiedName: local_oracle_keshav.default.ctxsys
+  displayName: ctxsys
+  deleted: false
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+owners: []
+tags: []
+domains: []
+sourceHash: d5cb108cb0f7ca11a3b203b662f55f01
+processedLineage: false
+entityStatus: Unprocessed
