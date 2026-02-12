@@ -1,0 +1,70 @@
+name: audsys
+fullyQualifiedName: local_oracle_keshav.default.audsys
+dataProducts: []
+owners: []
+service:
+  id: 9f99e604-d130-4dd9-9f61-6fc1f2e49a8d
+  type: databaseService
+  name: local_oracle_keshav
+  fullyQualifiedName: local_oracle_keshav
+  displayName: local_oracle_keshav
+  deleted: false
+serviceType: Oracle
+database:
+  id: 514d5dca-5711-487a-b827-729bc2738341
+  type: database
+  name: default
+  fullyQualifiedName: local_oracle_keshav.default
+  displayName: default
+  deleted: false
+tables:
+  - id: 123baeea-4c13-4042-b342-73b5b5b66331
+    type: table
+    name: AUD$UNIFIED
+    fullyQualifiedName: local_oracle_keshav.default.audsys.AUD$UNIFIED
+    displayName: AUD$UNIFIED
+    deleted: false
+  - id: 4a92e43e-2a99-4db5-915e-4f4c4e75dc95
+    type: table
+    name: cdb_unified_audit_trail
+    fullyQualifiedName: local_oracle_keshav.default.audsys.cdb_unified_audit_trail
+    description: All audit trail entries in all containers
+    displayName: cdb_unified_audit_trail
+    deleted: false
+  - id: 8d52d8b8-6c9b-42d2-92ca-c6f43e3ad243
+    type: table
+    name: cdb_xs_audit_trail
+    fullyQualifiedName: local_oracle_keshav.default.audsys.cdb_xs_audit_trail
+    description: Describes all XS related audit records in all containers
+    displayName: cdb_xs_audit_trail
+    deleted: false
+  - id: 6514dd74-a15f-4bf6-a9ef-f5fd1e2ddda7
+    type: table
+    name: dba_xs_audit_trail
+    fullyQualifiedName: local_oracle_keshav.default.audsys.dba_xs_audit_trail
+    description: Describes all XS related audit records
+    displayName: dba_xs_audit_trail
+    deleted: false
+  - id: 1b0f391b-c5b9-4497-b943-5bbfc1cf6045
+    type: table
+    name: dv$configuration_audit
+    fullyQualifiedName: local_oracle_keshav.default.audsys.dv$configuration_audit
+    displayName: dv$configuration_audit
+    deleted: false
+  - id: e85541ef-ec90-4f29-b7ed-1a91768bc757
+    type: table
+    name: dv$enforcement_audit
+    fullyQualifiedName: local_oracle_keshav.default.audsys.dv$enforcement_audit
+    displayName: dv$enforcement_audit
+    deleted: false
+  - id: 08b9f475-d9e1-480d-aa19-206156612ac7
+    type: table
+    name: unified_audit_trail
+    fullyQualifiedName: local_oracle_keshav.default.audsys.unified_audit_trail
+    description: All audit trail entries
+    displayName: unified_audit_trail
+    deleted: false
+tags: []
+domains: []
+sourceHash: a74465f4dd4e1d5fa2168ab52c39d463
+entityStatus: Unprocessed
