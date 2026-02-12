@@ -4,7 +4,13 @@ description: <p>dsfg</p>
 style: {}
 owners: []
 experts: []
-reviewers: []
+reviewers:
+  - id: 71d900d9-048f-49d2-ac94-8449a5eb0419
+    type: user
+    name: karthick.sharan
+    fullyQualifiedName: '"karthick.sharan"'
+    displayName: karthick.sharan
+    deleted: false
 domains:
   - id: b5f8edda-07b5-4b61-9fb3-81232a234338
     type: domain
@@ -14,4 +20,14 @@ domains:
     displayName: Domain.with.dot
 lifecycleStage: DEVELOPMENT
 tags: []
+incrementalChangeDescription:
+  fieldsAdded:
+    - name: reviewers
+      newValue: "[{\"id\":\"71d900d9-048f-49d2-ac94-8449a5eb0419\",\"type\":\"user\"\
+        ,\"name\":\"karthick.sharan\",\"fullyQualifiedName\":\"\\\"karthick.sharan\\\
+        \"\",\"displayName\":\"karthick.sharan\",\"deleted\":false}]"
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.1
+  changeSummary: {}
 entityStatus: Unprocessed
