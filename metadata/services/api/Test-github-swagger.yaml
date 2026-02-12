@@ -1,0 +1,28 @@
+name: Test-github-swagger
+fullyQualifiedName: Test-github-swagger
+serviceType: Rest
+description: ""
+connection:
+  config:
+    type: Rest
+    openAPISchemaURL: https://weatherflow.github.io/Tempest/api/swagger/swagger.json
+    apiEndpointFilterPattern:
+      excludes: []
+      includes: []
+    apiCollectionFilterPattern:
+      excludes: []
+      includes: []
+    supportsMetadataExtraction: true
+pipelines: []
+tags: []
+owners:
+  - id: 1b72b315-222e-41ec-9763-30125a1fdabc
+    type: user
+    name: suman
+    fullyQualifiedName: suman
+    displayName: suman
+    deleted: false
+dataProducts: []
+ingestionRunner:
+  id: 80a7ac93-1869-4c7e-b220-f19e7c302abd
+  type: ingestionRunner
