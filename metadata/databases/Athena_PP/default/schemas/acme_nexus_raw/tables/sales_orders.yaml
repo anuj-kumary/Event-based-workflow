@@ -1,0 +1,86 @@
+name: sales_orders
+fullyQualifiedName: Athena_PP.default.acme_nexus_raw.sales_orders
+description: Sales orders from e-commerce platform
+tableType: External
+columns:
+  - name: product_id_2
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Foreign key to products
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.sales_orders.product_id_2
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: order_date
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    description: Order placement date
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.sales_orders.order_date
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: quantity
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: int
+    description: Number of units ordered
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.sales_orders.quantity
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: total_amount
+    dataType: DECIMAL
+    dataLength: 1
+    precision: 10
+    scale: 2
+    dataTypeDisplay: "decimal(10,2)"
+    description: Total order amount
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.sales_orders.total_amount
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: f355c9aa-1f9f-487f-a1e8-af2559b2ea02
+  type: databaseSchema
+  name: acme_nexus_raw
+  fullyQualifiedName: Athena_PP.default.acme_nexus_raw
+  description: Raw data layer for Acme Nexus - external tables pointing to S3
+  displayName: acme_nexus_raw
+  deleted: false
+database:
+  id: 1f9e8725-ac02-4b40-b103-6a84ec108c9a
+  type: database
+  name: default
+  fullyQualifiedName: Athena_PP.default
+  displayName: default
+  deleted: false
+service:
+  id: 525e7fc2-e8fa-4f4a-8a34-e69cf0eaf803
+  type: databaseService
+  name: Athena_PP
+  fullyQualifiedName: Athena_PP
+  description: ""
+  displayName: Athena_PP
+  deleted: false
+serviceType: Athena
+locationPath: s3://om-sample-demo/sales
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 7da9cdd3c158b8b06a94996dda73b3b3
+processedLineage: false
+entityStatus: Unprocessed
