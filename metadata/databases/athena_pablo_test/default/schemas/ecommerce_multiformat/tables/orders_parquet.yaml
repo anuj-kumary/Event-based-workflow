@@ -1,0 +1,151 @@
+name: orders_parquet
+fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet
+tableType: External
+columns:
+  - name: order_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.order_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: customer_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.customer_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: order_date
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.order_date
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: order_timestamp
+    dataType: TIMESTAMP
+    dataLength: 1
+    dataTypeDisplay: timestamp
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.order_timestamp
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: status
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.status
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: payment_method
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.payment_method
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: shipping_method
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.shipping_method
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: subtotal
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.subtotal
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: tax_amount
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.tax_amount
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: shipping_amount
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.shipping_amount
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: total_amount
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.total_amount
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: country
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet.country
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: 42ab0804-898c-4c9b-bed5-00d0ed4e52ea
+  type: databaseSchema
+  name: ecommerce_multiformat
+  fullyQualifiedName: athena pablo test.default.ecommerce_multiformat
+  description: Multi-format schema for compatibility testing
+  displayName: ecommerce_multiformat
+  deleted: false
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-athena-654654515160/data/ecommerce/multiformat/parquet/orders
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: e2088a6dc2c137efa85227f6d55e8633
+processedLineage: false
+entityStatus: Unprocessed
