@@ -1,0 +1,257 @@
+name: shop_id_column_value_max_to_be_between_n_epq
+displayName: shop_id_column_value_max_to_be_between_n_epq
+fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.shop_id.shop_id_column_value_max_to_be_between_n_epq
+testDefinition:
+  id: 1c67c543-93ac-4023-8b8f-0f0cfef09bba
+  type: testDefinition
+  name: columnValueMaxToBeBetween
+  fullyQualifiedName: columnValueMaxToBeBetween
+  description: This schema defines the test ColumnValueMaxToBeBetween. Test the maximum
+    value in a col is within a range.
+  displayName: Column Value Max. to be Between
+  deleted: false
+entityLink: <#E::table::sample_data.ecommerce_db.shopify.dim_address::columns::shop_id>
+entityFQN: sample_data.ecommerce_db.shopify.dim_address.shop_id
+testSuite:
+  id: 64bfc565-de66-4252-af98-19b507d55f39
+  type: testSuite
+  name: sample_data.ecommerce_db.shopify.dim_address.testSuite
+  fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.testSuite
+  description: This is an executable test suite linked to an entity
+  displayName: sample_data.ecommerce_db.shopify.dim_address.testSuite
+  deleted: false
+testSuites:
+  - id: 64bfc565-de66-4252-af98-19b507d55f39
+    name: sample_data.ecommerce_db.shopify.dim_address.testSuite
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.testSuite
+    description: This is an executable test suite linked to an entity
+    serviceType: TestSuite
+    owners:
+      - id: b7c8dcaf-1b29-4b57-8ac5-16f48ec4c096
+        type: team
+        name: abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi
+        fullyQualifiedName: '"abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi"'
+        description: ""
+        displayName: abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi
+        deleted: true
+        inherited: true
+    version: 0.6
+    updatedAt: 1764077297721
+    updatedBy: ingestion-bot
+    incrementalChangeDescription:
+      fieldsAdded: []
+      fieldsUpdated:
+        - name: tests
+          oldValue:
+            - id: 4b1e0ddf-ce42-4b55-ba2d-726db3e2432e
+              name: Table Row Count to be Between test
+              type: testCase
+              deleted: false
+              description: <p>This is for testing</p>
+              displayName: Table Row Count to be Between test
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.Table
+                Row Count to be Between test
+            - id: 6a8b086a-68b0-4bbc-8896-d2ecea4164a8
+              name: column_value_max_to_be_between
+              type: testCase
+              deleted: false
+              description: test the value of a column is between x and y
+              displayName: column_value_max_to_be_between
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.shop_id.column_value_max_to_be_between
+            - id: 7621545c-ad2b-4ab4-a359-ff98eb56efd4
+              name: column_values_to_be_between
+              type: testCase
+              deleted: false
+              description: test the number of column in table is between x and y
+              displayName: column_values_to_be_between
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between
+            - id: 37708fa9-0a30-413d-a8b6-b92fa2a84c15
+              name: column_values_to_be_between_with_sample_rows
+              type: testCase
+              deleted: false
+              description: example of failing test with sample rows
+              displayName: column_values_to_be_between_with_sample_rows
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.zip.column_values_to_be_between_with_sample_rows
+            - id: 51a499c5-4fd3-4257-ada1-95a1e6a4e956
+              name: column_values_to_match_regex
+              type: testCase
+              deleted: false
+              description: test value of a column match regex
+              displayName: column_values_to_match_regex
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.last_name.column_values_to_match_regex
+            - id: ba27cf7f-40d5-425c-b39d-e09b2fb483ac
+              name: custom sql test
+              type: testCase
+              deleted: false
+              description: <p>testing</p>
+              displayName: custom sql test
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.custom
+                sql test
+            - id: acf87da4-2e64-4165-bb43-3291d3a56631
+              name: diff_columns
+              type: testCase
+              deleted: false
+              description: compare with a table with different columns
+              displayName: diff_columns
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.diff_columns
+            - id: cd6fda93-269c-40ce-aad4-8b20de2309e7
+              name: diff_with_production
+              type: testCase
+              deleted: false
+              description: compare with production data
+              displayName: diff_with_production
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.diff_with_production
+            - id: 0669a733-6fae-4260-81e3-b37756c6f2c8
+              name: dim_address_table_column_count_to_be_between_vovt
+              type: testCase
+              deleted: false
+              displayName: dim_address_table_column_count_to_be_between_vovt
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.dim_address_table_column_count_to_be_between_vovt
+            - id: e9ce0dbc-1970-4e48-8837-2cddd87d6694
+              name: table_column_count_between
+              type: testCase
+              deleted: false
+              description: test the number of column in table is between x and y
+              displayName: table_column_count_between
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.table_column_count_between
+            - id: 6e861fd2-6509-45d6-91a2-a10a18d9d430
+              name: table_column_count_equals
+              type: testCase
+              deleted: false
+              description: test the number of column in table
+              displayName: table_column_count_equals
+              fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address.table_column_count_equals
+          newValue: []
+      fieldsDeleted: []
+      previousVersion: 0.5
+      changeSummary: {}
+    deleted: false
+    basic: true
+    basicEntityReference:
+      id: d31b12a1-84c6-43f6-8b83-e07ea6dfc2e6
+      type: table
+      name: dim_address
+      fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address
+    testCaseResultSummary: []
+    domains:
+      - id: e3f8138b-8db5-4850-807c-585cc86f4185
+        type: domain
+        name: Domain2
+        fullyQualifiedName: Domain2
+        description: <p>Domain2</p>
+        displayName: Domain2
+        inherited: true
+    tags: []
+    inherited: true
+    reviewers: []
+parameterValues: []
+owners:
+  - id: b7c8dcaf-1b29-4b57-8ac5-16f48ec4c096
+    type: team
+    name: abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi
+    fullyQualifiedName: '"abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi"'
+    description: ""
+    displayName: abc.def.ghiabc.def.ghiabc.def.ghiabc.def.ghi
+    deleted: true
+    inherited: true
+createdBy: rounakpreet.d
+computePassedFailedRowCount: false
+domains:
+  - id: e3f8138b-8db5-4850-807c-585cc86f4185
+    type: domain
+    name: Domain2
+    fullyQualifiedName: Domain2
+    description: <p>Domain2</p>
+    displayName: Domain2
+    inherited: true
+useDynamicAssertion: true
+tags:
+  - tagFQN: AirflowTags.OpenMetadata
+    name: OpenMetadata
+    description: Airflow Tag
+    source: Classification
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: Customer Success.Business Decision Maker
+    name: Business Decision Maker
+    displayName: Business Decision Maker (BDM)
+    description: Business Decision Maker
+    style: {}
+    source: Glossary
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1769066423000
+    appliedBy: anujkumar.yadav
+  - tagFQN: KnowledgeCenter.Article
+    name: Article
+    description: Knowledge Article Description
+    style: {}
+    source: Classification
+    labelType: Derived
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: PII.Sensitive
+    name: Sensitive
+    description: "PII which if lost, compromised, or disclosed without authorization,\
+      \ could result in substantial harm, embarrassment, inconvenience, or unfairness\
+      \ to an individual."
+    style:
+      color: "#ff0000"
+    source: Classification
+    labelType: Derived
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: Person.Address
+    name: Address
+    description: Address of a Person.
+    style:
+      color: "#d54110"
+    source: Glossary
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: PersonalData.Personal
+    name: Personal
+    description: Data that can be used to directly or indirectly identify a person.
+    source: Classification
+    labelType: Derived
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: Tier.Tier1
+    name: Tier1
+    description: |-
+      **Critical Source of Truth business data assets of an organization**
+
+      - Used in critical metrics and dashboards to drive business and product decisions
+
+      - Used in critical compliance reporting to regulators, govt entities, and third party
+
+      - Used in brand or revenue impacting online user-facing experiences (search results, advertisement, promotions, and experimentation)
+
+      - Other high impact use, such as ML models and fraud detection
+
+      - Source used to derive other critical Tier-1 datasets
+    style:
+      color: "#ec1313"
+    source: Classification
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1767969396000
+    appliedBy: admin
+  - tagFQN: my_tag2nd.2nd_two
+    name: 2nd_two
+    description: SNOWFLAKE TAG VALUE
+    source: Classification
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1769066423000
+    appliedBy: anujkumar.yadav
+dimensionColumns: []
+entityStatus: Unprocessed
+reviewers: []
