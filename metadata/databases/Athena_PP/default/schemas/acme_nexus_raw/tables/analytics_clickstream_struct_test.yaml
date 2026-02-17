@@ -1,0 +1,146 @@
+name: analytics_clickstream_struct_test
+fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test
+tableType: External
+columns:
+  - name: event_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.event_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: session_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.session_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: customer_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.customer_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: event_type
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.event_type
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: page_url
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.page_url
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: product_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.product_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: event_timestamp
+    dataType: TIMESTAMP
+    dataLength: 1
+    dataTypeDisplay: timestamp
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.event_timestamp
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: device_type
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.device_type
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: __source_metadata
+    dataType: STRUCT
+    dataTypeDisplay: "struct<file_modification_time:timestamp,file_name:string,file_path:string,file_size:bigint>"
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.__source_metadata
+    tags: []
+    children:
+      - name: file_modification_time
+        dataType: TIMESTAMP
+        dataTypeDisplay: timestamp
+        fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.__source_metadata.file_modification_time
+        tags: []
+        children: []
+      - name: file_name
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.__source_metadata.file_name
+        tags: []
+        children: []
+      - name: file_path
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.__source_metadata.file_path
+        tags: []
+        children: []
+      - name: file_size
+        dataType: BIGINT
+        dataTypeDisplay: bigint
+        fullyQualifiedName: Athena_PP.default.acme_nexus_raw.analytics_clickstream_struct_test.__source_metadata.file_size
+        tags: []
+        children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: f355c9aa-1f9f-487f-a1e8-af2559b2ea02
+  type: databaseSchema
+  name: acme_nexus_raw
+  fullyQualifiedName: Athena_PP.default.acme_nexus_raw
+  description: Raw data layer for Acme Nexus - external tables pointing to S3
+  displayName: acme_nexus_raw
+  deleted: false
+database:
+  id: 1f9e8725-ac02-4b40-b103-6a84ec108c9a
+  type: database
+  name: default
+  fullyQualifiedName: Athena_PP.default
+  displayName: default
+  deleted: false
+service:
+  id: 525e7fc2-e8fa-4f4a-8a34-e69cf0eaf803
+  type: databaseService
+  name: Athena_PP
+  fullyQualifiedName: Athena_PP
+  description: ""
+  displayName: Athena_PP
+  deleted: false
+serviceType: Athena
+locationPath: s3://om-sample-demo/demo-struct
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 576bfb0d29683812d405c8212b6e2b55
+processedLineage: false
+entityStatus: Unprocessed
