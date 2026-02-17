@@ -1,0 +1,31 @@
+name: sagemaker_sample_db
+fullyQualifiedName: Athena_PP.default.sagemaker_sample_db
+dataProducts: []
+owners: []
+service:
+  id: 525e7fc2-e8fa-4f4a-8a34-e69cf0eaf803
+  type: databaseService
+  name: Athena_PP
+  fullyQualifiedName: Athena_PP
+  description: ""
+  displayName: Athena_PP
+  deleted: false
+serviceType: Athena
+database:
+  id: 1f9e8725-ac02-4b40-b103-6a84ec108c9a
+  type: database
+  name: default
+  fullyQualifiedName: Athena_PP.default
+  displayName: default
+  deleted: false
+tables:
+  - id: f5b293c2-9f9c-4e06-9afb-1c7b19d6d66f
+    type: table
+    name: churn
+    fullyQualifiedName: Athena_PP.default.sagemaker_sample_db.churn
+    displayName: churn
+    deleted: false
+tags: []
+domains: []
+sourceHash: d2b97323d7e8378511f785a11b44ac4a
+entityStatus: Unprocessed
