@@ -1,0 +1,26 @@
+name: dummy_db_001
+fullyQualifiedName: athena pablo test.default.dummy_db_001
+description: Dummy database 1 for metadata ingestion testing
+dataProducts: []
+owners: []
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+tables: []
+tags: []
+domains: []
+sourceHash: 2c51f6fb9404ca87e8ded43a1c679f7f
+entityStatus: Unprocessed
