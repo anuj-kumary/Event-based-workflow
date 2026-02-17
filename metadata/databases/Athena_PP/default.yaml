@@ -1,0 +1,38 @@
+name: default
+fullyQualifiedName: Athena_PP.default
+dataProducts: []
+tags: []
+owners: []
+service:
+  id: 525e7fc2-e8fa-4f4a-8a34-e69cf0eaf803
+  type: databaseService
+  name: Athena_PP
+  fullyQualifiedName: Athena_PP
+  description: ""
+  displayName: Athena_PP
+  deleted: false
+serviceType: Athena
+databaseSchemas:
+  - id: f355c9aa-1f9f-487f-a1e8-af2559b2ea02
+    type: databaseSchema
+    name: acme_nexus_raw
+    fullyQualifiedName: Athena_PP.default.acme_nexus_raw
+    description: Raw data layer for Acme Nexus - external tables pointing to S3
+    displayName: acme_nexus_raw
+    deleted: false
+  - id: 7e4cd61c-3c4d-4541-acc8-fbb4ee60c1f9
+    type: databaseSchema
+    name: default
+    fullyQualifiedName: Athena_PP.default.default
+    displayName: default
+    deleted: false
+  - id: bb58297d-beb9-4d45-8177-d0dcb6dcf4d0
+    type: databaseSchema
+    name: sagemaker_sample_db
+    fullyQualifiedName: Athena_PP.default.sagemaker_sample_db
+    displayName: sagemaker_sample_db
+    deleted: false
+default: false
+domains: []
+sourceHash: c7af75a5dc2af8a7ae48106675b454f5
+entityStatus: Unprocessed
