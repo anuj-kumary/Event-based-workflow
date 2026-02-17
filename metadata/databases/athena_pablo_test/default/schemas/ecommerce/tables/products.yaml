@@ -1,0 +1,115 @@
+name: products
+fullyQualifiedName: athena pablo test.default.ecommerce.products
+tableType: External
+columns:
+  - name: product_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.product_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: category
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.category
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: subcategory
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.subcategory
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: price
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.price
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: cost
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.cost
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: margin_percent
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.margin_percent
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: stock_quantity
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: int
+    fullyQualifiedName: athena pablo test.default.ecommerce.products.stock_quantity
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: cbaf740d-ed36-42de-9ac5-2229edb4c938
+  type: databaseSchema
+  name: ecommerce
+  fullyQualifiedName: athena pablo test.default.ecommerce
+  description: Default schema with Parquet files
+  displayName: ecommerce
+  deleted: false
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-athena-654654515160/data/ecommerce/parquet/products
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 51e99d04b77be72db245a19cf470d228
+processedLineage: false
+entityStatus: Unprocessed
