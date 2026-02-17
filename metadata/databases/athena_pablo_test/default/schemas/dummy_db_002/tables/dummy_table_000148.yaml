@@ -1,0 +1,143 @@
+name: dummy_table_000148
+fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148
+description: Dummy table 148 for metadata ingestion testing in database dummy_db_002
+tableType: External
+columns:
+  - name: col_1
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Column 1 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_1
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_2
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: int
+    description: Column 2 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_2
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_3
+    dataType: BIGINT
+    dataLength: 1
+    dataTypeDisplay: bigint
+    description: Column 3 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_3
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_4
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    description: Column 4 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_4
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_5
+    dataType: BOOLEAN
+    dataLength: 1
+    dataTypeDisplay: boolean
+    description: Column 5 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_5
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_6
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    description: Column 6 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_6
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_7
+    dataType: TIMESTAMP
+    dataLength: 1
+    dataTypeDisplay: timestamp
+    description: Column 7 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_7
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_8
+    dataType: DECIMAL
+    dataLength: 1
+    precision: 10
+    scale: 2
+    dataTypeDisplay: "decimal(10,2)"
+    description: Column 8 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_8
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: col_9
+    dataType: ARRAY
+    arrayDataType: STRING
+    dataTypeDisplay: array<string>
+    description: Column 9 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_9
+    tags: []
+    children: []
+    customMetrics: []
+  - name: col_10
+    dataType: MAP
+    dataTypeDisplay: "map<string,string>"
+    description: Column 10 of table 148
+    fullyQualifiedName: athena pablo test.default.dummy_db_002.dummy_table_000148.col_10
+    tags: []
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: 466d1d1a-6b2f-4f0a-9c65-a3a6b0855f73
+  type: databaseSchema
+  name: dummy_db_002
+  fullyQualifiedName: athena pablo test.default.dummy_db_002
+  description: Dummy database 2 for metadata ingestion testing
+  displayName: dummy_db_002
+  deleted: false
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-athena-654654515160/dummy/dummy_table_000148
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 2e138cf9f9f9a03de2b18ca09526e956
+processedLineage: false
+entityStatus: Unprocessed
