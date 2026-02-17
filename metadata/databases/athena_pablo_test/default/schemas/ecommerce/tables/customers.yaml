@@ -1,0 +1,134 @@
+name: customers
+fullyQualifiedName: athena pablo test.default.ecommerce.customers
+description: Customer master data with registration and contact information
+tableType: External
+columns:
+  - name: customer_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Unique customer identifier (UUID format)
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.customer_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: first_name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer first name
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.first_name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: last_name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer last name
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.last_name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: email
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer email address (unique)
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.email
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: country
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer country of residence (ISO code)
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.country
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: city
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer city of residence
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.city
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: registration_date
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    description: Date when customer registered in the system
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.registration_date
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: customer_segment
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: "Customer segmentation: Premium, Standard, or Basic"
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.customer_segment
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: total_lifetime_value
+    dataType: FLOAT
+    dataLength: 1
+    dataTypeDisplay: double
+    description: Total revenue generated from customer (USD)
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers.total_lifetime_value
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: cbaf740d-ed36-42de-9ac5-2229edb4c938
+  type: databaseSchema
+  name: ecommerce
+  fullyQualifiedName: athena pablo test.default.ecommerce
+  description: Default schema with Parquet files
+  displayName: ecommerce
+  deleted: false
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-athena-654654515160/data/ecommerce/parquet/customers
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: 6a80b7a072a1c7526bebd780ea704a89
+processedLineage: false
+entityStatus: Unprocessed
