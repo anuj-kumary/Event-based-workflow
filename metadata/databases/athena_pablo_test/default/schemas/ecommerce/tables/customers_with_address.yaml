@@ -1,0 +1,160 @@
+name: customers_with_address
+fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address
+description: Customer data with STRUCT columns for profiler testing
+tableType: External
+columns:
+  - name: customer_id
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Unique customer identifier
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.customer_id
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: first_name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer first name
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.first_name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: last_name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer last name
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.last_name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: email
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: Customer email address
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.email
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: address
+    dataType: STRUCT
+    dataTypeDisplay: "struct<street:string,city:string,state:string,zip_code:string,geo:struct<lat:double,lon:double>>"
+    description: Customer address with nested geolocation
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address
+    tags: []
+    children:
+      - name: street
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.street
+        tags: []
+        children: []
+      - name: city
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.city
+        tags: []
+        children: []
+      - name: state
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.state
+        tags: []
+        children: []
+      - name: zip_code
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.zip_code
+        tags: []
+        children: []
+      - name: geo
+        dataType: STRUCT
+        dataTypeDisplay: "struct<lat:double,lon:double>"
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.geo
+        tags: []
+        children:
+          - name: lat
+            dataType: DOUBLE
+            dataTypeDisplay: double
+            fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.geo.lat
+            tags: []
+            children: []
+          - name: lon
+            dataType: DOUBLE
+            dataTypeDisplay: double
+            fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.address.geo.lon
+            tags: []
+            children: []
+    customMetrics: []
+  - name: preferences
+    dataType: STRUCT
+    dataTypeDisplay: "struct<newsletter:boolean,language:string,currency:string>"
+    description: Customer preferences
+    fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.preferences
+    tags: []
+    children:
+      - name: newsletter
+        dataType: BOOLEAN
+        dataTypeDisplay: boolean
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.preferences.newsletter
+        tags: []
+        children: []
+      - name: language
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.preferences.language
+        tags: []
+        children: []
+      - name: currency
+        dataType: STRING
+        dataTypeDisplay: string
+        fullyQualifiedName: athena pablo test.default.ecommerce.customers_with_address.preferences.currency
+        tags: []
+        children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: cbaf740d-ed36-42de-9ac5-2229edb4c938
+  type: databaseSchema
+  name: ecommerce
+  fullyQualifiedName: athena pablo test.default.ecommerce
+  description: Default schema with Parquet files
+  displayName: ecommerce
+  deleted: false
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-athena-654654515160/data/ecommerce/parquet/customers_with_address
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: bd32369d639de7b8cff7d847f64fbf95
+processedLineage: false
+entityStatus: Unprocessed
