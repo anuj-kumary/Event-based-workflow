@@ -1,0 +1,130 @@
+name: telemetry_iceberg_imri
+fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri
+tableType: External
+columns:
+  - name: value
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: int
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.value
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: service_type
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.service_type
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: entity_type
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.entity_type
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: cluster_name
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.cluster_name
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: timestamp
+    dataType: BIGINT
+    dataLength: 1
+    dataTypeDisplay: bigint
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.timestamp
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: date
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    description: from deserializer
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.date
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: datetime
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.datetime
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: source_table
+    dataType: STRING
+    dataLength: 1
+    dataTypeDisplay: string
+    fullyQualifiedName: Athena_PP.default.default.telemetry_iceberg_imri.source_table
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners: []
+databaseSchema:
+  id: 7e4cd61c-3c4d-4541-acc8-fbb4ee60c1f9
+  type: databaseSchema
+  name: default
+  fullyQualifiedName: Athena_PP.default.default
+  displayName: default
+  deleted: false
+database:
+  id: 1f9e8725-ac02-4b40-b103-6a84ec108c9a
+  type: database
+  name: default
+  fullyQualifiedName: Athena_PP.default
+  displayName: default
+  deleted: false
+service:
+  id: 525e7fc2-e8fa-4f4a-8a34-e69cf0eaf803
+  type: databaseService
+  name: Athena_PP
+  fullyQualifiedName: Athena_PP
+  description: ""
+  displayName: Athena_PP
+  deleted: false
+serviceType: Athena
+locationPath: s3://collate-landing-zone-beta/iceberg
+tags: []
+joins:
+  startDate: 2026-01-18
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+domains: []
+dataProducts: []
+sourceHash: cf9a1dff641120c28534b2a40ffa10d5
+processedLineage: false
+entityStatus: Unprocessed
