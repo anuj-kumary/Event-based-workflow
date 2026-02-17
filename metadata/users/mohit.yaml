@@ -36,12 +36,6 @@ teams:
       is createdOrganization under which all the other team hierarchy is created</p>
     displayName: Organization
     deleted: false
-defaultPersona:
-  id: d8ac9ead-c9d7-4f0f-a250-7b5482c551c8
-  type: persona
-  name: Data Engineers
-  fullyQualifiedName: Data Engineers
-  displayName: Data Engineers
 personas: []
 owns:
   - id: 379ad910-0673-4a24-8cd3-7744784a76dc
