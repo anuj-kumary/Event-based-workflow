@@ -1,0 +1,62 @@
+name: ecommerce_multiformat
+fullyQualifiedName: athena pablo test.default.ecommerce_multiformat
+description: Multi-format schema for compatibility testing
+dataProducts: []
+owners: []
+service:
+  id: 7b307983-8500-47ee-b04d-68c2e64c278e
+  type: databaseService
+  name: athena pablo test
+  fullyQualifiedName: athena pablo test
+  description: ""
+  displayName: athena pablo test
+  deleted: false
+serviceType: Athena
+database:
+  id: 81546c5f-458f-4fb1-abc1-fa271fa96c1a
+  type: database
+  name: default
+  fullyQualifiedName: athena pablo test.default
+  displayName: default
+  deleted: false
+tables:
+  - id: 2d2a1c8f-7450-4fb6-8841-3f01df7a7554
+    type: table
+    name: customers_csv
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.customers_csv
+    displayName: customers_csv
+    deleted: false
+  - id: fae4934a-2911-443f-94d6-1f86be11fcab
+    type: table
+    name: orders_csv
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_csv
+    displayName: orders_csv
+    deleted: false
+  - id: 94b7c692-14bd-40d3-a478-03b0c40395d8
+    type: table
+    name: orders_iceberg
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_iceberg
+    displayName: orders_iceberg
+    deleted: false
+  - id: c5850a38-36de-448c-9ce4-de126cc0e1f2
+    type: table
+    name: orders_json
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_json
+    displayName: orders_json
+    deleted: false
+  - id: 1b26cb8d-5976-4cc0-b6df-d0a13e48d9f8
+    type: table
+    name: orders_parquet
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.orders_parquet
+    displayName: orders_parquet
+    deleted: false
+  - id: 8f687edd-e878-4347-8934-c8542a96e997
+    type: table
+    name: products_json
+    fullyQualifiedName: athena pablo test.default.ecommerce_multiformat.products_json
+    displayName: products_json
+    deleted: false
+tags: []
+domains: []
+sourceHash: bba97d2b22a4abdc91edadc1d4f63f01
+entityStatus: Unprocessed
