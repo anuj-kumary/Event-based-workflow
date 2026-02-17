@@ -1,0 +1,55 @@
+name: athena pablo test
+fullyQualifiedName: athena pablo test
+serviceType: Athena
+description: ""
+connection:
+  config:
+    type: Athena
+    scheme: awsathena+rest
+    awsConfig:
+      enabled: false
+      awsRegion: eu-west-1
+      assumeRoleArn: arn:aws:iam::654654515160:role/athena-test-role
+      awsAccessKeyId: ASIAZQ3DTE7MEHKWF7BM
+      awsSessionToken: IQoJb3JpZ2luX2VjEID//////////wEaCWV1LXdlc3QtMSJHMEUCICrP2X7hnVVXbi1rvRQpIiDk12L3+pU+63J/C9SpiOuDAiEA/+yaU4jskx83BMvo9SmMgVxoltNuYu3+jAse1rorkQoqmgIISRAAGgw2NTQ2NTQ1MTUxNjAiDDmJ+Wb6K+UgL3zPVir3AV9mItzlXihYPKDtDKnV/yRltgJ0GgGzMTKjD0fJcOtJEXrc5rpFIp+gQiE8hpbXeU0MYAB83jFfEVHRqoBpddNao7XhgTWSjSU0XOGW34rvgJGVaNpgxbXWHlBdsoxCJd432ldLDSUfNh5HmC07fYxWTJ9qs14+rCLSm0TSGMDEz2eDkcj27IJj4uWgbFedU/rURJUES/9sbvYQDF9RUGUw6x0lADtIoRuqohok9amp0hAQ3zENb7QdVfOf4FRMyWXvF/xINbZgk3w14x59w3bdo209SCgCV7y7HzGyOffvpmKFcode8UrCfbraoA+obghYydmGY9swusPQzAY6nQEjXL9hFCCa0SoHv/UoXLdX5J+K9nFBxsSsQsn/rtXPNLaESJnkCw3acrwpCYFzQl6SKqz7oWnmvy2epCpkERh+nHjl0Ny2nsEbPapi/2JXonP6gbTteRaVfAhcGWL/UgO7XdzF8xzYEERzzUqNephsPw3yL0ljeUidO/6271TNInX3tJf9asnDGT9mHutNCvbFL7BduQUwj3atfPjf
+      awsSecretAccessKey: fernet:gAAAAABplCLyoU-uTp1v8V_4Urm6PBp0AdgzaW1orbARKXsrepW6h69aXZomv7Io2ci399ezFnq2Ab4Kv69t_yDxfx6SaLySBwWETcaxfdKQUPVVK3WZ18oGoAC6sv1WV0aaf6e2xXFP
+      assumeRoleSessionName: OpenMetadataSession
+    workgroup: athena-test-workgroup
+    s3StagingDir: s3://collate-athena-654654515160/query-results/
+    supportsDataDiff: true
+    supportsProfiler: true
+    tableFilterPattern:
+      excludes: []
+      includes: []
+    connectionArguments:
+      catalog_name: AwsDataCatalog
+    schemaFilterPattern:
+      excludes: []
+      includes: []
+    supportsQueryComment: true
+    databaseFilterPattern:
+      excludes: []
+      includes: []
+    supportsDBTExtraction: true
+    supportsUsageExtraction: true
+    supportsLineageExtraction: true
+    supportsMetadataExtraction: true
+pipelines:
+  - id: a319991d-59d6-4482-b9f8-63c88e8e8b2b
+    type: ingestionPipeline
+    name: e4e2a244-feec-4290-a456-3e5c69645451
+    fullyQualifiedName: athena pablo test.e4e2a244-feec-4290-a456-3e5c69645451
+    displayName: Metadata Agent
+    deleted: false
+tags: []
+owners:
+  - id: 00d8759c-b7f4-4920-b7aa-77fb8f244934
+    type: user
+    name: pablo.takara
+    fullyQualifiedName: '"pablo.takara"'
+    displayName: Pablo Takara
+    deleted: false
+dataProducts: []
+ingestionRunner:
+  id: 6742f0ef-68bf-4a65-878d-31cb3919c6d5
+  type: ingestionRunner
