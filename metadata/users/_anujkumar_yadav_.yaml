@@ -1,0 +1,90 @@
+name: anujkumar.yadav
+fullyQualifiedName: '"anujkumar.yadav"'
+displayName: Anujkumar Yadav
+email: anujkumar.yadav@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns:
+  - id: f45e2c4a-b8ac-4acf-9893-6bca7d4eb5af
+    type: ingestionPipeline
+    name: 2a34153f-0d6d-420c-9608-5bb121312179
+    fullyQualifiedName: test-1.2a34153f-0d6d-420c-9608-5bb121312179
+    displayName: Metadata Agent
+    deleted: false
+  - id: fa6c7043-c4ca-4f8e-8978-ff06ee5af272
+    type: userQueryRunnerConfig
+    name: anujkumar.yadav
+    fullyQualifiedName: qr_bq.queryRunner.user.353928e3-8c86-423b-93eb-562b3accd828
+    displayName: anujkumar.yadav
+    deleted: false
+  - id: dcb30d86-2816-4520-9a15-41797d7175d7
+    type: glossaryTerm
+    name: ghghghgh
+    fullyQualifiedName: test-periodic-batch-wf.ghghghgh
+    description: <p>bgg</p>
+    displayName: ghghghgh
+    deleted: false
+  - id: bf4fc1b0-d7e5-4da8-96d8-749f2bd5bf2a
+    type: glossaryTerm
+    name: tees
+    fullyQualifiedName: approval rejection test.tees
+    description: <p>sss</p>
+    displayName: tees
+    deleted: false
+  - id: 61101595-8f69-4c62-bbac-9ee414ff7ba2
+    type: databaseService
+    name: test-1
+    fullyQualifiedName: test-1
+    description: ""
+    displayName: test-1
+    deleted: false
+  - id: 0b968ac2-442f-4d8a-854d-3def84659585
+    type: glossaryTerm
+    name: test-git-sync
+    fullyQualifiedName: approval rejection test.test-git-sync
+    description: <p>xcc</p>
+    displayName: test-git-sync
+    deleted: false
+  - id: a49b0529-a47b-4f26-b965-6cbc7ea14150
+    type: glossary
+    name: test-periodic-batch-wf
+    fullyQualifiedName: test-periodic-batch-wf
+    description: <p>sdsddd</p>
+    displayName: test-periodic-batch-wf
+    deleted: false
+follows: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.3
+roles: []
+inheritedRoles: []
+isEmailVerified: true
+domains: []
+lastLoginTime: 1771389438731
+lastActivityTime: 1771389438731
+personaPreferences: []
