@@ -1,0 +1,39 @@
+name: JNClassification
+displayName: ""
+fullyQualifiedName: '`custom`.JNClassification'
+description: <p>Desc</p>
+style: {}
+classification:
+  id: ef2896a7-0cba-4e81-b7a2-b6a4515b6398
+  type: classification
+  name: '`custom`'
+  fullyQualifiedName: '`custom`'
+  description: DATABRICKS TAG CLASSIFICATION
+  displayName: '`custom`'
+  deleted: false
+children: []
+usageCount: 0
+deprecated: false
+provider: user
+disabled: false
+mutuallyExclusive: false
+domains:
+  - id: ef10e521-d8c5-4d84-b039-549e8d1d8aaf
+    type: domain
+    name: Customer Domain
+    fullyQualifiedName: Customer Domain
+    description: <p>Customer Domain</p>
+    displayName: Customer
+dataProducts: []
+owners:
+  - id: 41287584-9a21-4735-b1b5-fdf06d78e316
+    type: user
+    name: james
+    fullyQualifiedName: james
+    displayName: James Nguyen
+    deleted: false
+reviewers: []
+entityStatus: Unprocessed
+recognizers: []
+autoClassificationEnabled: true
+autoClassificationPriority: 44
