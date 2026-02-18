@@ -1,0 +1,104 @@
+name: harshit.shah
+fullyQualifiedName: '"harshit.shah"'
+displayName: Harshit Shah
+email: harshit.shah@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns:
+  - id: fe518e18-6e23-47a8-97d8-f55e65000984
+    type: eventsubscription
+    name: OpenMetadata_alert_i6sRWlwyS
+    fullyQualifiedName: OpenMetadata_alert_i6sRWlwyS
+    displayName: Testing glossary term alerts
+  - id: b811c333-49b3-47de-9715-33ccc2593570
+    type: eventsubscription
+    name: OpenMetadata_alert_jASoRndhD
+    fullyQualifiedName: OpenMetadata_alert_jASoRndhD
+    displayName: Test harshit glossary term alerts
+  - id: 7354e8d4-b61f-4486-8ae1-37adbf979421
+    type: glossary
+    name: Test harshit glossary term
+    fullyQualifiedName: Test harshit glossary term
+    description: <p>Test harshit glossary term Test harshit</p><p></p><p></p>
+    displayName: Test harshit glossary term
+    deleted: false
+  - id: 040e72c4-685c-4f7e-8006-c994589810a5
+    type: glossaryTerm
+    name: Testing
+    fullyQualifiedName: Test harshit glossary term.Testing
+    description: <p>Testing glossary term</p><p></p><p></p><p></p><p></p><p></p><p></p>
+    displayName: Testing
+    deleted: false
+  - id: 4252879f-ede6-4c39-bfc0-7c2f16504fa6
+    type: glossaryTerm
+    name: Testing glossary term testing 1
+    fullyQualifiedName: Test harshit glossary term.Testing.Testing glossary term testing
+      1
+    description: <p>Testing glossary term testing 1</p>
+    displayName: Testing glossary term testing 1
+    deleted: false
+  - id: 292288f1-ad7f-4f9c-b21a-b2c7a8d636f8
+    type: glossaryTerm
+    name: Testing subdomain
+    fullyQualifiedName: Test harshit glossary term.Testing.Testing subdomain
+    description: <p>Testing subdomain</p>
+    displayName: Testing subdomain
+    deleted: false
+  - id: e45c0b89-95fc-4e49-9326-7c67637a889b
+    type: table
+    name: openmetadata-table-2
+    fullyQualifiedName: openmetadata-11.openmetadata-db-0.openmetadata-schema-0.openmetadata-table-2
+    displayName: openmetadata-table-2
+    deleted: false
+follows:
+  - id: c42bca78-aaca-4383-a77a-15177afc7a78
+    type: table
+    name: REF7
+    fullyQualifiedName: snowflake_demo.CUSTOMERS.JAFFLE_SHOP.REF7
+    description: "This table stores customer data, including their lifetime value,\
+      \ order history, and personal details, enabling businesses to analyze customer\
+      \ behavior, tailor marketing strategies, and enhance customer relationship management."
+    displayName: REF7
+    deleted: false
+  - id: a3ccd006-0945-4a41-934a-72cc4561c4ea
+    type: table
+    name: customers
+    fullyQualifiedName: red-test-dc.dev.dbt_jaffle.customers
+    description: Comment Test One
+    displayName: customers
+    deleted: false
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 1.0
+roles: []
+inheritedRoles: []
+isEmailVerified: true
+domains: []
+lastLoginTime: 1771427186844
+lastActivityTime: 1771427186844
+personaPreferences: []
