@@ -1,0 +1,67 @@
+name: adria.estivill
+fullyQualifiedName: '"adria.estivill"'
+displayName: Adria Estivill
+email: adria.estivill@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns:
+  - id: 3ed1dabe-f1b2-4269-8c4f-7d9233c5c07e
+    type: testSuite
+    name: Adria Bundle Suite
+    fullyQualifiedName: Adria Bundle Suite
+    description: ""
+    displayName: Adria Bundle Suite
+    deleted: false
+  - id: b2cfe26a-058c-4e86-b2be-034bf2298ede
+    type: eventsubscription
+    name: OpenMetadata_alert_KPhOGJSWk
+    fullyQualifiedName: OpenMetadata_alert_KPhOGJSWk
+    displayName: Adria Test Suite Alert
+  - id: eafa500f-2823-4d1f-b0ca-015608cf83ed
+    type: eventsubscription
+    name: OpenMetadata_alert_M3oQkg5TF
+    fullyQualifiedName: OpenMetadata_alert_M3oQkg5TF
+    displayName: Test Case Alert
+  - id: b8ef9cc1-8338-4342-b204-9c1d05931738
+    type: glossaryTerm
+    name: new_glossary_term
+    fullyQualifiedName: testing.new_glossary_term
+    description: <p>test</p>
+    displayName: new glossary term
+    deleted: false
+follows: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.3
+roles: []
+inheritedRoles: []
+isEmailVerified: true
+domains: []
+lastLoginTime: 1771406476699
+lastActivityTime: 1771406476699
+personaPreferences: []
