@@ -1,0 +1,68 @@
+name: rimjhim.jain
+fullyQualifiedName: '"rimjhim.jain"'
+description: ""
+displayName: Rimjhim Jain
+email: rimjhim.jain@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns:
+  - id: dcb3bfcf-248c-46bf-a049-e719bcf1152a
+    type: ingestionPipeline
+    name: 2474a05d-2272-4880-9aab-92216c8d15b4
+    fullyQualifiedName: Test_BQ.2474a05d-2272-4880-9aab-92216c8d15b4
+    displayName: Metadata Agent
+    deleted: false
+  - id: f38d98e9-f2f3-4900-b904-bbbb7e09ff47
+    type: databaseService
+    name: Test_BQ
+    fullyQualifiedName: Test_BQ
+    description: ""
+    displayName: Test_BQ
+    deleted: false
+  - id: 3faeacec-d616-489f-b52e-14c9aea416d0
+    type: ingestionPipeline
+    name: acfbe860-f22a-45e1-b5f8-ec0fa6c2e1df
+    fullyQualifiedName: Test_BQ.acfbe860-f22a-45e1-b5f8-ec0fa6c2e1df
+    displayName: Usage Agent
+    deleted: false
+  - id: 9cc1eebe-709e-4abb-a868-d81bab2146fa
+    type: ingestionPipeline
+    name: f341ae54-7498-40b0-85f6-3ab8551ab7ea
+    fullyQualifiedName: Test_BQ.f341ae54-7498-40b0-85f6-3ab8551ab7ea
+    displayName: Lineage Agent
+    deleted: false
+follows: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.2
+roles: []
+inheritedRoles: []
+domains: []
+lastLoginTime: 1771398388927
+lastActivityTime: 1771398388927
+personaPreferences: []
