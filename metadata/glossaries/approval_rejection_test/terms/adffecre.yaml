@@ -13,7 +13,21 @@ glossary:
   displayName: approval rejection test
   deleted: false
 children: []
-relatedTerms: []
+relatedTerms:
+  - id: 5afdba6c-3e03-451a-a3d8-266fea48b354
+    type: glossaryTerm
+    name: dataTerm
+    fullyQualifiedName: '"Bug.Test".dataTerm'
+    description: <p>dataTerm</p>
+    displayName: dataTerm
+    deleted: false
+  - id: e4e9321f-05b7-47c1-9eb6-ccd22bb36571
+    type: glossaryTerm
+    name: dataterm
+    fullyQualifiedName: '"Bug.Test".dataterm'
+    description: <p>dataterm</p>
+    displayName: dataterm
+    deleted: false
 references: []
 impersonatedBy: governance-bot
 reviewers:
@@ -22,6 +36,13 @@ reviewers:
     name: 23saints23
     fullyQualifiedName: 23saints23
     displayName: 23saints23
+    deleted: false
+    inherited: true
+  - id: 71d900d9-048f-49d2-ac94-8449a5eb0419
+    type: user
+    name: karthick.sharan
+    fullyQualifiedName: '"karthick.sharan"'
+    displayName: karthick.sharan
     deleted: false
     inherited: true
 owners:
@@ -37,12 +58,13 @@ incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
     - name: entityStatus
-      oldValue: Draft
-      newValue: In Review
+      oldValue: In Review
+      newValue: Approved
   fieldsDeleted: []
-  previousVersion: 0.1
+  previousVersion: 0.3
   changeSummary: {}
-entityStatus: In Review
+entityStatus: Approved
+provider: user
 mutuallyExclusive: false
 domains:
   - id: 9ebbbfe5-af46-4bc1-a1ff-50c5bc8ea53b
