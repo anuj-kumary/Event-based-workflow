@@ -3,7 +3,8 @@ displayName: ""
 description: <p>acvwdscvsdv</p>
 style: {}
 fullyQualifiedName: approval rejection test.adffecre
-synonyms: []
+synonyms:
+  - kjlhgcfxds
 glossary:
   id: 32eff16a-e9d6-443f-b164-f7bf9fee8c66
   type: glossary
@@ -125,51 +126,11 @@ usageCount: 0
 tags: []
 incrementalChangeDescription:
   fieldsAdded:
-    - name: relatedTerms
-      newValue: "[{\"id\":\"288cfb46-a4c2-45a4-9dc0-321eac165812\",\"type\":\"glossaryTerm\"\
-        ,\"name\":\"test_business_term\",\"fullyQualifiedName\":\"Business Department.test_business_term\"\
-        ,\"description\":\"this is test_business_term\",\"displayName\":\"Test Business\
-        \ Term\",\"deleted\":false},{\"id\":\"ea7c8380-34a9-4ea9-93ea-a812c0e838d6\"\
-        ,\"type\":\"glossaryTerm\",\"name\":\"Finance\",\"fullyQualifiedName\":\"\
-        Business Department.Finance\",\"description\":\"A finance department is the\
-        \ unit of a business responsible for obtaining and handling any monies on\
-        \ behalf of the organization\",\"displayName\":\"Finance\",\"deleted\":false},{\"\
-        id\":\"e866ee75-711a-4649-968d-3ea889bd75b8\",\"type\":\"glossaryTerm\",\"\
-        name\":\"Marketing\",\"fullyQualifiedName\":\"Business Department.Marketing\"\
-        ,\"description\":\"A marketing department is a division within a business\
-        \ that helps to promote its brand, products and services.\",\"displayName\"\
-        :\"Marketing\",\"deleted\":false},{\"id\":\"93e6dbdb-ebf0-4847-9171-45f53c85df57\"\
-        ,\"type\":\"glossaryTerm\",\"name\":\"Testing_approval_workflow\",\"fullyQualifiedName\"\
-        :\"Business Department.Testing_approval_workflow\",\"description\":\"<p>Testing_approval_workflow</p>\"\
-        ,\"displayName\":\"Testing_approval_workflow\",\"deleted\":false},{\"id\"\
-        :\"ed613f0e-124f-4d63-a29e-4b0b2320df04\",\"type\":\"glossaryTerm\",\"name\"\
-        :\"aDhLHtMjhQ\",\"fullyQualifiedName\":\"Business Glossary.aDhLHtMjhQ\",\"\
-        description\":\"Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus\
-        \ et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita  \
-        \     officia est exercitationem dignissimos? Sed illo velit et dolorem debitis\
-        \ non dolore vero non placeat nulla.\",\"displayName\":\"aDhLHtMjhQ\",\"deleted\"\
-        :false},{\"id\":\"b7c74a68-aa9b-404d-86fa-258fb7a748ea\",\"type\":\"glossaryTerm\"\
-        ,\"name\":\"aHgGlFDOZg\",\"fullyQualifiedName\":\"Business Glossary.aHgGlFDOZg\"\
-        ,\"description\":\"Lorem ipsum dolor sit amet. Ut alias ducimus et dolores\
-        \ delectus et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita\
-        \       officia est exercitationem dignissimos? Sed illo velit et dolorem\
-        \ debitis non dolore vero non placeat nulla.\",\"displayName\":\"aHgGlFDOZg\"\
-        ,\"deleted\":false},{\"id\":\"d85dd112-8159-41c9-b8ea-44fdb191a8a8\",\"type\"\
-        :\"glossaryTerm\",\"name\":\"AmsmRzIjkb\",\"fullyQualifiedName\":\"Business\
-        \ Glossary.AmsmRzIjkb\",\"description\":\"Lorem ipsum dolor sit amet. Ut alias\
-        \ ducimus et dolores delectus et distinctio quas vel nulla dolores! Ut molestiae\
-        \ atque qui expedita       officia est exercitationem dignissimos? Sed illo\
-        \ velit et dolorem debitis non dolore vero non placeat nulla.\",\"displayName\"\
-        :\"AmsmRzIjkb\",\"deleted\":false},{\"id\":\"877fbc45-fd01-49e6-8a34-7d01403a3e1c\"\
-        ,\"type\":\"glossaryTerm\",\"name\":\"AmXpeGgMhs\",\"fullyQualifiedName\"\
-        :\"Business Glossary.AmXpeGgMhs\",\"description\":\"Lorem ipsum dolor sit\
-        \ amet. Ut alias ducimus et dolores delectus et distinctio quas vel nulla\
-        \ dolores! Ut molestiae atque qui expedita       officia est exercitationem\
-        \ dignissimos? Sed illo velit et dolorem debitis non dolore vero non placeat\
-        \ nulla.\",\"displayName\":\"AmXpeGgMhs\",\"deleted\":false}]"
+    - name: synonyms
+      newValue: "[\"kjlhgcfxds\"]"
   fieldsUpdated: []
   fieldsDeleted: []
-  previousVersion: 0.3
+  previousVersion: 0.4
   changeSummary: {}
 entityStatus: Approved
 provider: user
