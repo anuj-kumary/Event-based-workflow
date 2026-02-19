@@ -1,0 +1,62 @@
+name: Test Glossary Term test
+fullyQualifiedName: Test Glossary Term test
+serviceType: Snowflake
+description: <p>test</p>
+connection:
+  config:
+    type: Snowflake
+    scheme: snowflake
+    account: dzsdzh
+    username: eysgdewuys
+    warehouse: sdjbcsj
+    creditCost: 3.3
+    includeStages: false
+    includeStreams: false
+    supportsDataDiff: true
+    supportsDatabase: true
+    supportsProfiler: true
+    accountUsageSchema: SNOWFLAKE.ACCOUNT_USAGE
+    tableFilterPattern:
+      excludes: []
+      includes: []
+    schemaFilterPattern:
+      excludes:
+        - ^information_schema$
+      includes: []
+    snowflakeSourceHost: app.snowflake.com
+    supportsQueryComment: true
+    databaseFilterPattern:
+      excludes:
+        - ^snowflake$
+      includes: []
+    supportsDBTExtraction: true
+    supportsSystemProfile: false
+    clientSessionKeepAlive: false
+    includeTransientTables: true
+    supportsUsageExtraction: true
+    supportsLineageExtraction: true
+    supportsMetadataExtraction: true
+    storedProcedureFilterPattern:
+      excludes: []
+      includes: []
+    supportsIncrementalMetadataExtraction: true
+pipelines:
+  - id: 453bcfeb-2ba6-4c39-952e-e14713ae8f37
+    type: ingestionPipeline
+    name: 91156ddc-a6c9-4e0d-b531-095ecd841408
+    fullyQualifiedName: Test Glossary Term test.91156ddc-a6c9-4e0d-b531-095ecd841408
+    displayName: Metadata Agent
+    deleted: false
+tags: []
+owners:
+  - id: 95c692a1-21a6-4e79-ae53-c758293198df
+    type: user
+    name: reethika
+    fullyQualifiedName: reethika
+    description: <p>New Profile Page</p>
+    displayName: 'Admin User '
+    deleted: false
+dataProducts: []
+ingestionRunner:
+  id: 6742f0ef-68bf-4a65-878d-31cb3919c6d5
+  type: ingestionRunner
