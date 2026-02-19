@@ -1,0 +1,43 @@
+name: vishnu.jain
+fullyQualifiedName: '"vishnu.jain"'
+displayName: Vishnu Jain
+email: vishnu.jain@getcollate.io
+isBot: false
+isAdmin: false
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns: []
+follows: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.2
+roles: []
+inheritedRoles: []
+isEmailVerified: true
+domains: []
+lastLoginTime: 1771491958094
+lastActivityTime: 1771491958094
+personaPreferences: []
