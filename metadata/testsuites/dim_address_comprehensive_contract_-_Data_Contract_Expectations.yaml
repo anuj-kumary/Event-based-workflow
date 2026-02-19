@@ -25,10 +25,10 @@ tests:
     displayName: table_column_count_equals
     deleted: false
 pipelines:
-  - id: 7b472ac1-0e55-4b14-b8ff-0ad1b1e6ed33
+  - id: baf5688e-6074-4fc0-8c67-628a96eb2df9
     type: ingestionPipeline
-    name: 2279ee35-ae13-4e45-826c-76e3791c67a2
-    fullyQualifiedName: dim_address_comprehensive_contract - Data Contract Expectations.2279ee35-ae13-4e45-826c-76e3791c67a2
+    name: 9ab173bc-05f5-4663-8590-229bcf12d86e
+    fullyQualifiedName: dim_address_comprehensive_contract - Data Contract Expectations.9ab173bc-05f5-4663-8590-229bcf12d86e
     displayName: dim_address_comprehensive_contract - Data Contract Expectations
     deleted: false
 serviceType: TestSuite
