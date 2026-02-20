@@ -1,0 +1,126 @@
+name: customer_checklist
+fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist'
+description: This table stores tickets sales data. reverse metadata
+tableType: Regular
+columns:
+  - name: id
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: integer
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist.id'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: name
+    dataType: VARCHAR
+    dataLength: 256
+    dataTypeDisplay: character varying(256)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist.name'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: is_customer
+    dataType: BOOLEAN
+    dataLength: 1
+    dataTypeDisplay: boolean
+    description: boolean value if it is customer or not
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist.is_customer'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: age
+    dataType: INT
+    dataLength: 1
+    dataTypeDisplay: integer
+    description: age of customer boolean test
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist.age'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: birthdate
+    dataType: VARCHAR
+    dataLength: 256
+    dataTypeDisplay: character varying(256)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.customer_checklist.birthdate'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+tableConstraints: []
+owners:
+  - id: fb8e44c9-b9c5-45bc-9691-b3343b5d5b7c
+    type: user
+    name: 23saints23
+    fullyQualifiedName: 23saints23
+    displayName: 23saints23
+    deleted: false
+  - id: 1fec0260-5ad5-4d56-9d2c-48104368bc10
+    type: user
+    name: sonika.s
+    fullyQualifiedName: '"sonika.s"'
+    displayName: sonika.s
+    deleted: false
+databaseSchema:
+  id: bc547047-05f7-4746-9ce3-7388fd77ad8c
+  type: databaseSchema
+  name: dbt_jaffle
+  fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle'
+  displayName: dbt_jaffle
+  deleted: false
+database:
+  id: 0a7d8aae-ea17-4dc4-96d0-2d8979ac5963
+  type: database
+  name: dev
+  fullyQualifiedName: '"1.8.7-test".dev'
+  displayName: dev
+  deleted: false
+service:
+  id: b27756b3-8d33-47c6-b2c5-bd2e1fa35831
+  type: databaseService
+  name: 1.8.7-test
+  fullyQualifiedName: '"1.8.7-test"'
+  description: ""
+  displayName: 1.8.7-test
+  deleted: false
+serviceType: Redshift
+tags:
+  - tagFQN: MY_TAG.1
+    name: 1
+    description: SNOWFLAKE TAG VALUE
+    source: Classification
+    labelType: Manual
+    state: Confirmed
+    appliedAt: 1771569341547
+joins:
+  startDate: 2026-01-21
+  dayCount: 30
+  columnJoins: []
+  directTableJoins: []
+customMetrics: []
+incrementalChangeDescription:
+  fieldsAdded:
+    - name: tags
+      newValue: "[{\"tagFQN\":\"MY_TAG.1\",\"name\":\"1\",\"description\":\"SNOWFLAKE\
+        \ TAG VALUE\",\"source\":\"Classification\",\"labelType\":\"Manual\",\"state\"\
+        :\"Confirmed\",\"appliedBy\":\"adria.estivill\"}]"
+  fieldsUpdated: []
+  fieldsDeleted:
+    - name: tags
+      oldValue: "[{\"tagFQN\":\"MY_TAG2ND_2.2nd eight\",\"name\":\"2nd eight\",\"\
+        description\":\"SNOWFLAKE TAG VALUE\",\"source\":\"Classification\",\"labelType\"\
+        :\"Manual\",\"state\":\"Confirmed\",\"appliedAt\":\"2026-01-20T13:07:07.000000Z\"\
+        ,\"appliedBy\":\"adria.estivill\"}]"
+  previousVersion: 0.3
+  changeSummary: {}
+domains: []
+dataProducts: []
+lifeCycle:
+  created:
+    timestamp: 1668000936556
+sourceHash: f873da7aaeb3155fa4c22a654eaff4cc
+processedLineage: false
+entityStatus: Unprocessed
