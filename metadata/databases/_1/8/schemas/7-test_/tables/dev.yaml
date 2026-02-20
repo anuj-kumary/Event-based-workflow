@@ -1,39 +1,66 @@
-name: stg_payments
-fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.stg_payments'
+name: new_view_1
+fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1'
 tableType: View
 columns:
-  - name: payment_id
+  - name: customer_id
     dataType: INT
     dataLength: 1
     dataTypeDisplay: integer
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.stg_payments.payment_id'
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.customer_id'
     tags: []
     constraint: "NULL"
     children: []
     customMetrics: []
-  - name: order_id
-    dataType: INT
+  - name: customer_lifetime_value
+    dataType: BIGINT
     dataLength: 1
-    dataTypeDisplay: integer
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.stg_payments.order_id'
+    dataTypeDisplay: bigint
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.customer_lifetime_value'
     tags: []
     constraint: "NULL"
     children: []
     customMetrics: []
-  - name: payment_method
+  - name: first_name
     dataType: VARCHAR
-    dataLength: 13
-    dataTypeDisplay: character varying(13)
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.stg_payments.payment_method'
+    dataLength: 10
+    dataTypeDisplay: character varying(10)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.first_name'
     tags: []
     constraint: "NULL"
     children: []
     customMetrics: []
-  - name: amount
-    dataType: INT
+  - name: first_order
+    dataType: DATE
     dataLength: 1
-    dataTypeDisplay: integer
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.stg_payments.amount'
+    dataTypeDisplay: date
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.first_order'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: last_name
+    dataType: VARCHAR
+    dataLength: 2
+    dataTypeDisplay: character varying(2)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.last_name'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: most_recent_order
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.most_recent_order'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: number_of_orders
+    dataType: BIGINT
+    dataLength: 1
+    dataTypeDisplay: bigint
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view_1.number_of_orders'
     tags: []
     constraint: "NULL"
     children: []
@@ -75,11 +102,8 @@ service:
   displayName: 1.8.7-test
   deleted: false
 serviceType: Redshift
-schemaDefinition: |-
-  CREATE VIEW dbt_jaffle.stg_payments AS  SELECT renamed.payment_id, renamed.order_id, renamed.payment_method, renamed.amount
-     FROM ( SELECT source.id AS payment_id, source.order_id, source.payment_method, source.amount / 100 AS amount
-             FROM ( SELECT raw_payments.id, raw_payments.order_id, raw_payments.payment_method, raw_payments.amount
-                     FROM dbt_jaffle.raw_payments) source) renamed;
+schemaDefinition: create view dbt_jaffle.new_view_1 as select * from dbt_jaffle.customers_model
+  cm ;
 tags: []
 joins:
   startDate: 2026-01-21
@@ -89,6 +113,6 @@ joins:
 customMetrics: []
 domains: []
 dataProducts: []
-sourceHash: 0f23ec189370d73289b2533a9bbeb622
+sourceHash: 373b6a64699960e6d6f02c30f3fe1e95
 processedLineage: false
 entityStatus: Unprocessed
