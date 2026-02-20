@@ -1,31 +1,66 @@
-name: geometry_table
-fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.geometry_table'
-description: Geometry test changed here
-tableType: Regular
+name: new_view
+fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view'
+tableType: View
 columns:
-  - name: id
+  - name: customer_id
     dataType: INT
     dataLength: 1
     dataTypeDisplay: integer
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.geometry_table.id'
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.customer_id'
     tags: []
     constraint: "NULL"
     children: []
     customMetrics: []
-  - name: geo_col
-    dataType: GEOMETRY
+  - name: customer_lifetime_value
+    dataType: BIGINT
     dataLength: 1
-    dataTypeDisplay: geometry
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.geometry_table.geo_col'
+    dataTypeDisplay: bigint
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.customer_lifetime_value'
     tags: []
     constraint: "NULL"
     children: []
     customMetrics: []
-  - name: hll
-    dataType: HLLSKETCH
+  - name: first_name
+    dataType: VARCHAR
+    dataLength: 20
+    dataTypeDisplay: character varying(20)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.first_name'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: first_order
+    dataType: DATE
     dataLength: 1
-    dataTypeDisplay: hllsketch
-    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.geometry_table.hll'
+    dataTypeDisplay: date
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.first_order'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: last_name
+    dataType: VARCHAR
+    dataLength: 2
+    dataTypeDisplay: character varying(2)
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.last_name'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: most_recent_order
+    dataType: DATE
+    dataLength: 1
+    dataTypeDisplay: date
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.most_recent_order'
+    tags: []
+    constraint: "NULL"
+    children: []
+    customMetrics: []
+  - name: number_of_orders
+    dataType: BIGINT
+    dataLength: 1
+    dataTypeDisplay: bigint
+    fullyQualifiedName: '"1.8.7-test".dev.dbt_jaffle.new_view.number_of_orders'
     tags: []
     constraint: "NULL"
     children: []
@@ -67,6 +102,8 @@ service:
   displayName: 1.8.7-test
   deleted: false
 serviceType: Redshift
+schemaDefinition: "create view dbt_jaffle.new_view as select * from dbt_jaffle.customers\
+  \ c  \n;"
 tags: []
 joins:
   startDate: 2026-01-21
@@ -76,6 +113,6 @@ joins:
 customMetrics: []
 domains: []
 dataProducts: []
-sourceHash: 4dd80b560a3f706547de981092e16d09
+sourceHash: a42d32232dce032a0e45a99c8cd909d1
 processedLineage: false
 entityStatus: Unprocessed
