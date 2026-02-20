@@ -1,8 +1,11 @@
 name: dim_address_clean
 fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean
-description: |-
-  <p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or system tables) to find the most recently created table whose name or schema indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement to fetch the data1
-  </p><div data-type="file-attachment" data-url="https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg" data-filename="" data-mimetype="image" data-uploading="false" data-upload-progress="0" data-is-image="true"></div><p></p>
+description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+  \ system tables) to find the most recently created table whose name or schema indicates\
+  \ it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+  \ to fetch the data1</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+  \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+  0\" data-is-image=\"true\"></div><p></p>"
 tableType: View
 columns:
   - name: address_id
@@ -68,6 +71,30 @@ columns:
         state: Confirmed
         appliedAt: 1770356281487
         appliedBy: karthick.sharan
+      - tagFQN: MY_TAG.3
+        name: 3
+        description: SNOWFLAKE TAG VALUE
+        source: Classification
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212075826
+        appliedBy: karthick.sharan
+      - tagFQN: MY_TAG2.6
+        name: 6
+        description: SNOWFLAKE TAG VALUE
+        source: Classification
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212075826
+        appliedBy: karthick.sharan
+      - tagFQN: MY_TAG2ND.2nd_two
+        name: 2nd_two
+        description: SNOWFLAKE TAG VALUE
+        source: Classification
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212075826
+        appliedBy: karthick.sharan
       - tagFQN: MY_TAG2ND_2.2nd eight
         name: 2nd eight
         description: SNOWFLAKE TAG VALUE
@@ -84,6 +111,15 @@ columns:
         state: Confirmed
         appliedAt: 1767969396000
         appliedBy: admin
+      - tagFQN: ef2c7acc226a41308a19fb1e2908ae03.003c6ed7582b405faaf64284fadbe43c
+        name: 003c6ed7582b405faaf64284fadbe43c
+        displayName: ""
+        description: Fly season baby.
+        source: Glossary
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212076219
+        appliedBy: karthick.sharan
       - tagFQN: ef2c7acc226a41308a19fb1e2908ae03.12c5fac884844f6d831140bcb36b2584.cb3ddbe156ad48de949c43803fb78584.f2c99427c814429c89289213e5616fb5.46ccfb5d5d814d46bf36150d2d4a60b0.00270c8a8db74614bd14679a13abcf9c
         name: 00270c8a8db74614bd14679a13abcf9c
         displayName: ""
@@ -93,6 +129,15 @@ columns:
         state: Confirmed
         appliedAt: 1770356281487
         appliedBy: karthick.sharan
+      - tagFQN: ef2c7acc226a41308a19fb1e2908ae03.df627f77f0224631bbe450dd79e88783.00452cb6feb344b79a22d4adf1f6871b
+        name: 00452cb6feb344b79a22d4adf1f6871b
+        displayName: ""
+        description: Development probably outside.
+        source: Glossary
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212076219
+        appliedBy: karthick.sharan
       - tagFQN: f15cfcb0fb65471eacd432b392d576fe.4f83d26043734e7d880b5bd71271ac1c.4b3f1c2c77ae40d58cd9b14aae605072.321bbeb49bd64e588708f17eca2e5b30.9fb4287e344e4cb6b9e784effc5f52ee.7092c16a4d6941198bc3b76bd97c078b.00119bb059244c029c0ee34e1b5c8945
         name: 00119bb059244c029c0ee34e1b5c8945
         description: Improve parent wind gun.
@@ -100,6 +145,14 @@ columns:
         labelType: Manual
         state: Confirmed
         appliedAt: 1770356281487
+        appliedBy: karthick.sharan
+      - tagFQN: my_tag2nd.2nd_two
+        name: 2nd_two
+        description: SNOWFLAKE TAG VALUE
+        source: Classification
+        labelType: Manual
+        state: Confirmed
+        appliedAt: 1771212075826
         appliedBy: karthick.sharan
       - tagFQN: my_tag2nd_2.2nd eight
         name: 2nd eight
@@ -410,7 +463,7 @@ columns:
     dataLength: 500
     dataTypeDisplay: varchar
     description: <p>Clean address Impact &lt; 1K€</p><p>1K€ &lt; Impact &lt; 100K</p><p>€100K€
-      &lt; Impact &lt; 800K€</p><p>Impact &gt; 800K€<br></p><p></p>
+      &lt; Impact &lt; 800K€</p><p>Impact &gt; 800K€</p>
     fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean.address
     tags:
       - tagFQN: Business Department.test_business_term
@@ -805,7 +858,7 @@ tags:
     appliedAt: 1768343330000
     appliedBy: harsha
 joins:
-  startDate: 2026-01-12
+  startDate: 2026-01-21
   dayCount: 30
   columnJoins:
     - columnName: address_id
@@ -828,44 +881,43 @@ tableProfilerConfig:
   computeColumnMetrics: true
 customMetrics: []
 incrementalChangeDescription:
-  fieldsAdded: []
-  fieldsUpdated:
-    - name: description
-      oldValue: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
-        \ system tables) to find the most recently created table whose name or schema\
-        \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
-        \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"\
-        https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
-        \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
-        0\" data-is-image=\"true\"></div><p></p>"
-      newValue: |-
-        <p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or system tables) to find the most recently created table whose name or schema indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement to fetch the data1
-        </p><div data-type="file-attachment" data-url="https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg" data-filename="" data-mimetype="image" data-uploading="false" data-upload-progress="0" data-is-image="true"></div><p></p>
+  fieldsAdded:
+    - name: extension
+      newValue: "[{\"string\":\"dd\"}]"
+  fieldsUpdated: []
   fieldsDeleted: []
-  previousVersion: 24.9
+  previousVersion: 25.2
   changeSummary:
     owners:
+      changeSource: Manual
       changedBy: mohit
       changedAt: 1764216182535
     description:
+      changeSource: Manual
       changedBy: harsh.v
-      changedAt: 1770794279767
+      changedAt: 1770982189966
     columns.city.description:
+      changeSource: Manual
       changedBy: harsh.v
       changedAt: 1770631194375
     columns.address.description:
+      changeSource: Manual
       changedBy: harsh.v
-      changedAt: 1770628150406
+      changedAt: 1770982189966
     columns.shop_id.description:
+      changeSource: Manual
       changedBy: admin
       changedAt: 1752231141717
     columns.last_name.description:
+      changeSource: Manual
       changedBy: aniket
       changedAt: 1769090267268
     columns.address_id.description:
+      changeSource: Manual
       changedBy: karthick.sharan
       changedAt: 1770356279698
     columns.first_name.description:
+      changeSource: Manual
       changedBy: admin
       changedAt: 1752231141717
 retentionPeriod: 5
@@ -891,6 +943,7 @@ extension:
   enumSingleSelect:
     - 'medium '
   memberid: -3
+  string: dd
   testDuration: 1743506615089
 sourceUrl: http://localhost:8080/dim_address_clean
 domains:
