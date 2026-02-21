@@ -1,0 +1,24 @@
+teamType: Group
+name: test.team-cdddd
+fullyQualifiedName: '"test.team-cdddd"'
+displayName: test.team-cdddd
+description: <p><a target="_blank" rel="noopener noreferrer nofollow" href="http://test.team">test.team</a>-cdddd</p>
+parents:
+  - id: 25b0e60c-bf5c-4f62-9849-6aa7e1617998
+    type: team
+    name: test.department-7ef8ed06
+    fullyQualifiedName: '"test.department-7ef8ed06"'
+    description: <p>test.department-7ef8ed06</p>
+    displayName: test.department-7ef8ed06
+    deleted: false
+children: []
+users: []
+childrenCount: 0
+userCount: 0
+owns: []
+owners: []
+isJoinable: false
+defaultRoles: []
+inheritedRoles: []
+policies: []
+domains: []
