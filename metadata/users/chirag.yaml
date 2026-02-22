@@ -36,12 +36,6 @@ teams:
       is createdOrganization under which all the other team hierarchy is created</p>
     displayName: Organization
     deleted: false
-defaultPersona:
-  id: d8ac9ead-c9d7-4f0f-a250-7b5482c551c8
-  type: persona
-  name: Data Engineers
-  fullyQualifiedName: Data Engineers
-  displayName: Data Engineers
 personas:
   - id: 0fe6c565-1705-42cf-a2e6-89d340d30039
     type: persona
@@ -344,8 +338,7 @@ follows:
     description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
       \ system tables) to find the most recently created table whose name or schema\
       \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
-      \ to fetch the data1.<br></p><div data-type=\"file-attachment\" data-url=\"\
-      https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+      \ to fetch the data1</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
       \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
       0\" data-is-image=\"true\"></div><p></p>"
     displayName: dim_address_clean
