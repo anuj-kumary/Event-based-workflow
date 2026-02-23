@@ -1,0 +1,105 @@
+name: Data Product 1
+fullyQualifiedName: Data Product 1
+displayName: Data Product 1 Name
+description: "<p>The Enterprise data product provides real-time and historical insights\
+  \ into deviations from energy and production targets, including analysis of correlations\
+  \ between energy consumption and vehicle output. It offers both high-level summaries\
+  \ and detailed, shop-floor-level data.</p><p>Registration Points used</p><p>&nbsp;\
+  \ VCCD: Shop A: 18100 ,Shop B: 28000,Shop C: 31110</p><p>&nbsp; VCCH: Shop A: 13000,Shop\
+  \ B: 21900,Shop C: 31000</p><p>It enables early detection of deviations, initiates\
+  \ automated root cause analysis, and supports corrective actions to prevent recurrence.\
+  \ Additionally, it streamlines deviation logging and facilitates timely alerts for\
+  \ rapid response.</p><p>The product enhances operational efficiency by enabling\
+  \ quicker resolution of issues, providing predictive insights to mitigate future\
+  \ risks, and improving visibility into performance metrics. Automated alerting further\
+  \ supports swift, informed decision-making.</p><p>It offers a comprehensive, purpose-built\
+  \ solution that integrates monitoring, prediction, root cause analysis, and alerting.\
+  \ Its ability to deliver both strategic overviews and granular insights makes it\
+  \ a valuable tool for continuous improvement in energy and production operations.</p><p>Access\
+  \ Information</p><p>How to get access to this data product</p><p>AD Group</p><p>Service\
+  \ Now Request</p><p>Comment</p><p>9413-APP-DATA-MANUFACTURING-ENVIRONMENT-MANUFACTURING</p><p>Access\
+  \ Data - Employee Self-Service Portal</p><p>Terms &amp; Conditions</p><p>The CAR_PRODUCTION_THROUGHPUT\
+  \ is not confidential due to its nature as aggregated, system-generated data that\
+  \ reflects car output volumes at predefined production registration points (e.g.,\
+  \ VCCD and VCCH shops). This dataset contains no strategic forecasting, financial\
+  \ impact analysis, or proprietary process details that would compromise competitive\
+  \ advantage. Additionally, it does not include any personally identifiable information\
+  \ or employee-specific metrics. Its primary purpose is operational monitoring, automated\
+  \ alerting, and performance optimization across production sites, and it is standardized\
+  \ across plants for consistent internal reporting.</p><p>Note: Confidentiality is\
+  \ measured on a scale from 0 - 3 (Public, Proprietary, Confidential &amp; Secret)\
+  \ Personal data is measured on a scale from 0 -3 (None, Non sensitive personal data,\
+  \ personal data &amp; sensitive personal data)</p><p>Access management result</p><p>Schema</p><p>Confidentiality</p><p>Personal\
+  \ Data</p><p>Implication</p><p>Responsible</p><p>Date</p><p>Test-Schema</p><p>Confidential</p><p>Non-personal</p><p>Restrictive\
+  \ AD group</p><p>John Doe</p><p>2025-02-14</p><p>Planned Updates</p><p>Add planned\
+  \ update information</p><p>Date</p><p>Description</p><p>Status</p><p>2025-02-14</p><p>Test</p><p>Complete</p><p>Change\
+  \ Log</p><p>Add previous changes</p><p>Date</p><p>Description</p><p>Status</p><p>2025-02-14</p><p>Test</p><p>Complete</p><p>&nbsp;</p><p></p>"
+style:
+  color: "#b38300"
+  iconURL: 'https://cdn-icons-png.flaticon.com/512/4059/4059596.png '
+owners:
+  - id: fcc81c9c-1ca2-4ab6-a44f-722c436c7aa8
+    type: user
+    name: rupesh
+    fullyQualifiedName: rupesh
+    description: |-
+      Amundsen is one of the OSS Data Catalogs that was developed by Lyft and was open-sourced in October 2019. It quickly became popular for solving data discovery and data governance challenges. However, in recent years, Amundsen’s development and growth have slowed down considerably. Without an active community and no clear roadmap to address the emerging needs, the users of Amundsen are looking for alternatives in the OSS space.
+
+      OpenMetadata is redefining the modern metadata platform with a bold vision. We have built a centralized metadata repository based on metadata specifications and APIs from the ground up. It is the foundation for innovation with several applications, such as Discovery, Collaboration, Governance, Data Quality, and Data Insights going beyond passive Data Catalogs. Learn more about OpenMetadata’s journey so far here.
+    displayName: Rupesh Chavan
+    deleted: false
+experts: []
+reviewers: []
+domains:
+  - id: 6dec5ead-5cdd-4f43-b085-54de6b3f8107
+    type: domain
+    name: Finance
+    fullyQualifiedName: Finance
+    description: "Finance, this is a test"
+    displayName: Finance
+lifecycleStage: DEVELOPMENT
+tags: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: description
+      oldValue: Data Product 1 Description here
+      newValue: "<p>The Enterprise data product provides real-time and historical\
+        \ insights into deviations from energy and production targets, including analysis\
+        \ of correlations between energy consumption and vehicle output. It offers\
+        \ both high-level summaries and detailed, shop-floor-level data.</p><p>Registration\
+        \ Points used</p><p>&nbsp; VCCD: Shop A: 18100 ,Shop B: 28000,Shop C: 31110</p><p>&nbsp;\
+        \ VCCH: Shop A: 13000,Shop B: 21900,Shop C: 31000</p><p>It enables early detection\
+        \ of deviations, initiates automated root cause analysis, and supports corrective\
+        \ actions to prevent recurrence. Additionally, it streamlines deviation logging\
+        \ and facilitates timely alerts for rapid response.</p><p>The product enhances\
+        \ operational efficiency by enabling quicker resolution of issues, providing\
+        \ predictive insights to mitigate future risks, and improving visibility into\
+        \ performance metrics. Automated alerting further supports swift, informed\
+        \ decision-making.</p><p>It offers a comprehensive, purpose-built solution\
+        \ that integrates monitoring, prediction, root cause analysis, and alerting.\
+        \ Its ability to deliver both strategic overviews and granular insights makes\
+        \ it a valuable tool for continuous improvement in energy and production operations.</p><p>Access\
+        \ Information</p><p>How to get access to this data product</p><p>AD Group</p><p>Service\
+        \ Now Request</p><p>Comment</p><p>9413-APP-DATA-MANUFACTURING-ENVIRONMENT-MANUFACTURING</p><p>Access\
+        \ Data - Employee Self-Service Portal</p><p>Terms &amp; Conditions</p><p>The\
+        \ CAR_PRODUCTION_THROUGHPUT is not confidential due to its nature as aggregated,\
+        \ system-generated data that reflects car output volumes at predefined production\
+        \ registration points (e.g., VCCD and VCCH shops). This dataset contains no\
+        \ strategic forecasting, financial impact analysis, or proprietary process\
+        \ details that would compromise competitive advantage. Additionally, it does\
+        \ not include any personally identifiable information or employee-specific\
+        \ metrics. Its primary purpose is operational monitoring, automated alerting,\
+        \ and performance optimization across production sites, and it is standardized\
+        \ across plants for consistent internal reporting.</p><p>Note: Confidentiality\
+        \ is measured on a scale from 0 - 3 (Public, Proprietary, Confidential &amp;\
+        \ Secret) Personal data is measured on a scale from 0 -3 (None, Non sensitive\
+        \ personal data, personal data &amp; sensitive personal data)</p><p>Access\
+        \ management result</p><p>Schema</p><p>Confidentiality</p><p>Personal Data</p><p>Implication</p><p>Responsible</p><p>Date</p><p>Test-Schema</p><p>Confidential</p><p>Non-personal</p><p>Restrictive\
+        \ AD group</p><p>John Doe</p><p>2025-02-14</p><p>Planned Updates</p><p>Add\
+        \ planned update information</p><p>Date</p><p>Description</p><p>Status</p><p>2025-02-14</p><p>Test</p><p>Complete</p><p>Change\
+        \ Log</p><p>Add previous changes</p><p>Date</p><p>Description</p><p>Status</p><p>2025-02-14</p><p>Test</p><p>Complete</p><p>&nbsp;</p><p></p>"
+  fieldsDeleted: []
+  previousVersion: 0.4
+  changeSummary: {}
+entityStatus: Approved
