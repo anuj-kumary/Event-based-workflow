@@ -1,14 +1,13 @@
 name: Article_306WkbLV
 fullyQualifiedName: Article_306WkbLV
 displayName: Testing creating an article
-description: ""
+description: <p></p><p></p>
 incrementalChangeDescription:
-  fieldsAdded:
-    - name: reviewers
-      newValue: "[{\"id\":\"71117be9-c30d-46f7-ba7b-d63a8ed9b31d\",\"type\":\"user\"\
-        ,\"name\":\"prajwal\",\"fullyQualifiedName\":\"prajwal\",\"displayName\":\"\
-        prajwal\",\"deleted\":false}]"
-  fieldsUpdated: []
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: description
+      oldValue: ""
+      newValue: <p></p><p></p>
   fieldsDeleted: []
   previousVersion: 0.2
   changeSummary: {}
