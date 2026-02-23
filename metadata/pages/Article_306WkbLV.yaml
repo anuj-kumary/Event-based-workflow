@@ -1,7 +1,16 @@
 name: Article_306WkbLV
 fullyQualifiedName: Article_306WkbLV
-displayName: ""
+displayName: Testing creating an article
 description: ""
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: displayName
+      oldValue: ""
+      newValue: Testing creating an article
+  fieldsDeleted: []
+  previousVersion: 0.1
+  changeSummary: {}
 owners:
   - id: 1a294825-39c1-4eca-809e-29f3b9e55731
     type: user
@@ -38,7 +47,14 @@ relatedEntities:
       is createdOrganization under which all the other team hierarchy is created</p>
     displayName: Organization
     deleted: false
-editors: []
+editors:
+  - id: 1a294825-39c1-4eca-809e-29f3b9e55731
+    type: user
+    name: koelli.mungee
+    fullyQualifiedName: '"koelli.mungee"'
+    description: ""
+    displayName: Koelli Mungee
+    deleted: false
 children: []
 dataProducts: []
 attachments: []
