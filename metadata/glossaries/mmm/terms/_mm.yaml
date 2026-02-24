@@ -1,0 +1,33 @@
+name: ",mm"
+displayName: ""
+description: <p>mm</p>
+style: {}
+fullyQualifiedName: "mmm.,mm"
+synonyms: []
+glossary:
+  id: fab9f2d9-1cfe-455d-9848-c05dfc3fd2eb
+  type: glossary
+  name: mmm
+  fullyQualifiedName: mmm
+  description: <p>m</p>
+  displayName: mmm
+  deleted: false
+children: []
+relatedTerms: []
+references: []
+reviewers: []
+owners:
+  - id: 353928e3-8c86-423b-93eb-562b3accd828
+    type: user
+    name: anujkumar.yadav
+    fullyQualifiedName: '"anujkumar.yadav"'
+    displayName: Anujkumar Yadav
+    deleted: false
+usageCount: 0
+tags: []
+entityStatus: Approved
+provider: user
+mutuallyExclusive: false
+domains: []
+dataProducts: []
+childrenCount: 0
