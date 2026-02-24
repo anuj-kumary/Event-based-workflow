@@ -73,9 +73,9 @@ columns:
     dataType: BIGINT
     dataLength: 1
     dataTypeDisplay: bigint
-    description: The franchiseID column is used to identify the specific franchise
+    description: <p>The franchiseID column is used to identify the specific franchise
       associated with the customer review. It helps in categorizing reviews based
-      on different franchise locations.
+      on different franchise locations. update</p>
     fullyQualifiedName: Databricks 1.samples.bakehouse.media_customer_reviews.franchiseID
     tags:
       - tagFQN: aaaabc.xyz
@@ -219,55 +219,15 @@ testSuite:
 incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
-    - name: description
-      oldValue: "<p>This table stores customer reviews for various franchises, capturing\
-        \ insights through review content and timestamps, enabling businesses to analyze\
-        \ customer feedback and improve their services.</p><p></p><p>uPDATE DESCRIPTION</p><p>update</p><div\
-        \ data-type=\"file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/5a25ef8f-be0d-47e4-8e82-9ce7359c01c2/download?direct=true\"\
-        \ data-filename=\"sample-png-files-sample_640x426.png\" data-filesize=\"534283\"\
-        \ data-mimetype=\"image/png\" data-uploading=\"false\" data-upload-progress=\"\
-        100\" data-is-image=\"true\" data-alt=\"sample-png-files-sample_640x426.png\"\
-        ></div><p></p><div data-type=\"file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/ce379bd2-6c20-4a00-bf8f-7c81511cea98/download?direct=true\"\
-        \ data-filename=\"SCR-20250306-sepf (1).png\" data-filesize=\"1234927\" data-mimetype=\"\
-        image/png\" data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"\
-        true\" data-alt=\"SCR-20250306-sepf (1).png\"></div><p></p><div data-type=\"\
-        file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/22301b1f-7b7f-48cc-8b35-e14c0eda2713/download?direct=true\"\
-        \ data-filename=\"585-KB.png\" data-filesize=\"599762\" data-mimetype=\"image/png\"\
-        \ data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"true\"\
-        \ data-alt=\"585-KB.png\"></div><div data-type=\"file-attachment\" data-url=\"\
-        http://sandbox-beta.open-metadata.org/api/v1/attachments/23f4fc63-4cdb-4345-be29-4a5552c5871b/download?direct=true\"\
-        \ data-filename=\"SCR-20250316-pqpw.png\" data-filesize=\"22967\" data-mimetype=\"\
-        image/png\" data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"\
-        true\" data-alt=\"SCR-20250316-pqpw.png\"></div><p></p><div data-type=\"file-attachment\"\
-        \ data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/6889e8b8-0e79-49c4-b4a9-280065809d20/download?direct=true\"\
-        \ data-filename=\"585-KB.png\" data-filesize=\"599762\" data-mimetype=\"image/png\"\
-        \ data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"true\"\
-        \ data-alt=\"585-KB.png\"></div><p></p>"
-      newValue: "<p>This table stores customer reviews for various franchises, capturing\
-        \ insights through review content and timestamps, enabling businesses to analyze\
-        \ customer feedback and improve their services.</p><p></p><p>update new description</p><div\
-        \ data-type=\"file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/5a25ef8f-be0d-47e4-8e82-9ce7359c01c2/download?direct=true\"\
-        \ data-filename=\"sample-png-files-sample_640x426.png\" data-filesize=\"534283\"\
-        \ data-mimetype=\"image/png\" data-uploading=\"false\" data-upload-progress=\"\
-        100\" data-is-image=\"true\" data-alt=\"sample-png-files-sample_640x426.png\"\
-        ></div><p></p><div data-type=\"file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/ce379bd2-6c20-4a00-bf8f-7c81511cea98/download?direct=true\"\
-        \ data-filename=\"SCR-20250306-sepf (1).png\" data-filesize=\"1234927\" data-mimetype=\"\
-        image/png\" data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"\
-        true\" data-alt=\"SCR-20250306-sepf (1).png\"></div><p></p><div data-type=\"\
-        file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/22301b1f-7b7f-48cc-8b35-e14c0eda2713/download?direct=true\"\
-        \ data-filename=\"585-KB.png\" data-filesize=\"599762\" data-mimetype=\"image/png\"\
-        \ data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"true\"\
-        \ data-alt=\"585-KB.png\"></div><div data-type=\"file-attachment\" data-url=\"\
-        http://sandbox-beta.open-metadata.org/api/v1/attachments/23f4fc63-4cdb-4345-be29-4a5552c5871b/download?direct=true\"\
-        \ data-filename=\"SCR-20250316-pqpw.png\" data-filesize=\"22967\" data-mimetype=\"\
-        image/png\" data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"\
-        true\" data-alt=\"SCR-20250316-pqpw.png\"></div><p></p><div data-type=\"file-attachment\"\
-        \ data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/6889e8b8-0e79-49c4-b4a9-280065809d20/download?direct=true\"\
-        \ data-filename=\"585-KB.png\" data-filesize=\"599762\" data-mimetype=\"image/png\"\
-        \ data-uploading=\"false\" data-upload-progress=\"100\" data-is-image=\"true\"\
-        \ data-alt=\"585-KB.png\"></div><p></p>"
+    - name: columns.franchiseID.description
+      oldValue: The franchiseID column is used to identify the specific franchise
+        associated with the customer review. It helps in categorizing reviews based
+        on different franchise locations.
+      newValue: <p>The franchiseID column is used to identify the specific franchise
+        associated with the customer review. It helps in categorizing reviews based
+        on different franchise locations. update</p>
   fieldsDeleted: []
-  previousVersion: 2.2
+  previousVersion: 2.3
   changeSummary:
     owners:
       changeSource: Manual
@@ -286,9 +246,9 @@ incrementalChangeDescription:
       changedBy: joseph
       changedAt: 1744146539421
     columns.franchiseID.description:
-      changeSource: Suggested
-      changedBy: joseph
-      changedAt: 1744146539421
+      changeSource: Manual
+      changedBy: dhruv.p
+      changedAt: 1771941391888
     columns.review_date.description:
       changeSource: Suggested
       changedBy: joseph
