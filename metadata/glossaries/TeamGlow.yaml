@@ -1,0 +1,25 @@
+name: TeamGlow
+fullyQualifiedName: TeamGlow
+description: <p>TeamGLow</p>
+reviewers:
+  - id: 1d17752e-dc86-4185-9173-a32a7e94a159
+    type: team
+    name: Accounting
+    fullyQualifiedName: Accounting
+    description: ""
+    displayName: Accounting
+    deleted: false
+owners:
+  - id: 0fe10121-536f-4310-b759-352bbcd631af
+    type: user
+    name: ram.balaji
+    fullyQualifiedName: '"ram.balaji"'
+    displayName: Ram Narayan Balaji
+    deleted: false
+usageCount: 0
+tags: []
+termCount: 1
+provider: user
+mutuallyExclusive: false
+dataProducts: []
+entityStatus: Unprocessed
