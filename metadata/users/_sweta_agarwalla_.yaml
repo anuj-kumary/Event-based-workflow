@@ -1,0 +1,154 @@
+name: sweta.agarwalla
+fullyQualifiedName: '"sweta.agarwalla"'
+description: ""
+displayName: Sweta Agarwalla
+email: sweta.agarwalla@getcollate.io
+isBot: false
+isAdmin: true
+allowImpersonation: false
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas: []
+owns:
+  - id: 9372eae9-f1b1-4dc9-aedd-6907b887a5ba
+    type: ingestionPipeline
+    name: 0b9ce355-e2ef-4574-9793-d3798ed16815
+    fullyQualifiedName: new test.0b9ce355-e2ef-4574-9793-d3798ed16815
+    displayName: Metadata Agent
+    deleted: false
+  - id: c7ea1fc1-a0ca-4429-a014-1d4d3b0e4e8a
+    type: ingestionPipeline
+    name: 2c87a366-3f8c-4c8b-a87c-e964d2c27859
+    fullyQualifiedName: test 123.2c87a366-3f8c-4c8b-a87c-e964d2c27859
+    displayName: Metadata Agent
+    deleted: false
+  - id: ca928f4b-8bd5-4cff-9178-801ced285d50
+    type: ingestionPipeline
+    name: 866294b8-7ab4-46df-87de-fe16f15da555
+    fullyQualifiedName: testing new.866294b8-7ab4-46df-87de-fe16f15da555
+    displayName: Metadata Agent
+    deleted: false
+  - id: 0b50f3d1-d906-4027-b687-f533b19aadce
+    type: metric
+    name: Gross Profit Margin
+    fullyQualifiedName: Gross Profit Margin
+    displayName: Gross Profit Margin
+    deleted: false
+  - id: 1e45d26a-1522-400e-9e08-fd990a7c6610
+    type: table
+    name: USERS
+    fullyQualifiedName: snowflake-reverse-metadata.USER_DATA.PUBLIC.USERS
+    description: <p>Descriptions get updated on the source database system</p>
+    displayName: USERS
+    deleted: false
+  - id: 771ee706-06dd-48a9-a047-9c070d02d7a1
+    type: databaseService
+    name: a new service added
+    fullyQualifiedName: a new service added
+    description: ""
+    displayName: a new service added
+    deleted: false
+  - id: a95e5ab7-5342-40ac-bde2-f135578c898f
+    type: table
+    name: activity_report
+    fullyQualifiedName: Athena Test.default.analytics.activity_report
+    description: Updated table description
+    displayName: activity_report
+    deleted: false
+  - id: 976703fb-d56d-44fd-9f62-d608126b720a
+    type: ingestionPipeline
+    name: ee632fbb-72bd-4097-9f36-693f863f84f6
+    fullyQualifiedName: testing_new.ee632fbb-72bd-4097-9f36-693f863f84f6
+    displayName: Metadata Agent
+    deleted: false
+  - id: 6ef964b1-edb7-4d7c-85f1-51845197206c
+    type: mlmodel
+    name: eta_predictions
+    fullyQualifiedName: mlflow_svc.eta_predictions
+    description: ETA Predictions Model
+    displayName: ETA Predictions
+    deleted: false
+  - id: c2b71575-7500-40ea-b032-930751f05bad
+    type: apiService
+    name: new test
+    fullyQualifiedName: new test
+    description: ""
+    displayName: new test
+    deleted: false
+  - id: 8fcf0cca-2d90-4afa-b172-dcc5cda449d9
+    type: databaseSchema
+    name: openmetadata-schema-1
+    fullyQualifiedName: openmetadata-0.openmetadata-db-0.openmetadata-schema-1
+    displayName: openmetadata-schema-1
+    deleted: false
+  - id: 012baf06-0145-4715-ab95-9ec76e30bf20
+    type: table
+    name: openmetadata-table-2851
+    fullyQualifiedName: openmetadata-0.openmetadata-db-0.openmetadata-schema-2.openmetadata-table-2851
+    description: <p>test description</p>
+    displayName: openmetadata-table-2851
+    deleted: false
+  - id: 7b22cb4c-e1ef-484b-b253-da4d75c4cdb6
+    type: apiCollection
+    name: tables
+    fullyQualifiedName: ometa_api_service.tables
+    displayName: tables
+    deleted: false
+  - id: 56395bc8-1906-4f39-b790-d453f4f3854d
+    type: databaseService
+    name: test 123
+    fullyQualifiedName: test 123
+    description: ""
+    displayName: test 123
+    deleted: false
+  - id: 599f554e-7ef9-4a83-95dc-a6b94f8676ab
+    type: databaseService
+    name: testing new
+    fullyQualifiedName: testing new
+    description: ""
+    displayName: testing new
+    deleted: false
+  - id: 98c3f16b-3fe3-4955-b6f7-e07cfd651f10
+    type: databaseService
+    name: testing_new
+    fullyQualifiedName: testing_new
+    description: ""
+    displayName: testing_new
+    deleted: false
+  - id: 658a9db0-cb27-494b-9933-37f268f002f4
+    type: apiCollection
+    name: users
+    fullyQualifiedName: ometa_api_service.users
+    displayName: users
+    deleted: false
+follows: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.8
+roles: []
+inheritedRoles: []
+domains: []
+lastLoginTime: 1771989787603
+lastActivityTime: 1771989787603
+personaPreferences: []
