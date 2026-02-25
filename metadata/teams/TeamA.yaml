@@ -25,75 +25,9 @@ parents:
     displayName: Organization
     deleted: false
 children: []
-users:
-  - id: 258e2c23-cb03-4dee-a42f-f36e3c5cb436
-    type: user
-    name: 1380armita
-    fullyQualifiedName: 1380armita
-    displayName: Armita Jalaliun
-    deleted: false
-  - id: fb8e44c9-b9c5-45bc-9691-b3343b5d5b7c
-    type: user
-    name: 23saints23
-    fullyQualifiedName: 23saints23
-    displayName: 23saints23
-    deleted: false
-  - id: 4614b5b7-7acc-4b93-96a5-3913903851f8
-    type: user
-    name: aanqueti18
-    fullyQualifiedName: aanqueti18
-    displayName: aanqueti18
-    deleted: false
-  - id: 50bb97a5-cf0c-4273-930e-b3e802b52ee1
-    type: user
-    name: aaron.singh2
-    fullyQualifiedName: '"aaron.singh2"'
-    displayName: Aaron Singh
-    deleted: false
-  - id: 46176ec0-595d-412e-a1f1-f207da730868
-    type: user
-    name: aaron.warren5
-    fullyQualifiedName: '"aaron.warren5"'
-    displayName: Aaron Warren
-    deleted: false
-  - id: 9519cbe9-2a57-49d4-9d36-13476954d6e8
-    type: user
-    name: aaron00
-    fullyQualifiedName: aaron00
-    displayName: Megan Richards
-    deleted: false
-  - id: b13148ab-7057-45a9-a428-e90c06f29638
-    type: user
-    name: aaron14
-    fullyQualifiedName: aaron14
-    displayName: Tiffany Short
-    deleted: false
-  - id: 8c7bc67c-8a0e-4df6-a4a9-8fa6d7a8dabc
-    type: user
-    name: aaron52
-    fullyQualifiedName: aaron52
-    displayName: Maria Meyers
-    deleted: false
-  - id: 36c7768d-63bd-4d4c-a15b-db983abaa229
-    type: user
-    name: aaron83
-    fullyQualifiedName: aaron83
-    displayName: Beverly Meza
-    deleted: false
-  - id: 46eb2468-a20e-4aab-bbc1-7bacd9ad0cd9
-    type: user
-    name: aaron98
-    fullyQualifiedName: aaron98
-    displayName: David Walters
-    deleted: false
-  - id: 8bbd0ec5-5225-4748-83e7-0e87e38ec865
-    type: user
-    name: aaron_johnson0
-    fullyQualifiedName: aaron_johnson0
-    displayName: Aaron Johnson
-    deleted: false
+users: []
 childrenCount: 0
-userCount: 11
+userCount: 0
 owns:
   - id: ff929830-e0e3-4091-9918-258c8ddbd94e
     type: glossaryTerm
