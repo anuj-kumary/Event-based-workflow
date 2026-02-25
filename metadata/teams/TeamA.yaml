@@ -1,0 +1,2197 @@
+teamType: Group
+name: TeamA
+fullyQualifiedName: TeamA
+displayName: ""
+description: ""
+parents:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+children: []
+users:
+  - id: 258e2c23-cb03-4dee-a42f-f36e3c5cb436
+    type: user
+    name: 1380armita
+    fullyQualifiedName: 1380armita
+    displayName: Armita Jalaliun
+    deleted: false
+  - id: fb8e44c9-b9c5-45bc-9691-b3343b5d5b7c
+    type: user
+    name: 23saints23
+    fullyQualifiedName: 23saints23
+    displayName: 23saints23
+    deleted: false
+  - id: 4614b5b7-7acc-4b93-96a5-3913903851f8
+    type: user
+    name: aanqueti18
+    fullyQualifiedName: aanqueti18
+    displayName: aanqueti18
+    deleted: false
+  - id: 50bb97a5-cf0c-4273-930e-b3e802b52ee1
+    type: user
+    name: aaron.singh2
+    fullyQualifiedName: '"aaron.singh2"'
+    displayName: Aaron Singh
+    deleted: false
+  - id: 46176ec0-595d-412e-a1f1-f207da730868
+    type: user
+    name: aaron.warren5
+    fullyQualifiedName: '"aaron.warren5"'
+    displayName: Aaron Warren
+    deleted: false
+  - id: 9519cbe9-2a57-49d4-9d36-13476954d6e8
+    type: user
+    name: aaron00
+    fullyQualifiedName: aaron00
+    displayName: Megan Richards
+    deleted: false
+  - id: b13148ab-7057-45a9-a428-e90c06f29638
+    type: user
+    name: aaron14
+    fullyQualifiedName: aaron14
+    displayName: Tiffany Short
+    deleted: false
+  - id: 8c7bc67c-8a0e-4df6-a4a9-8fa6d7a8dabc
+    type: user
+    name: aaron52
+    fullyQualifiedName: aaron52
+    displayName: Maria Meyers
+    deleted: false
+  - id: 36c7768d-63bd-4d4c-a15b-db983abaa229
+    type: user
+    name: aaron83
+    fullyQualifiedName: aaron83
+    displayName: Beverly Meza
+    deleted: false
+  - id: 46eb2468-a20e-4aab-bbc1-7bacd9ad0cd9
+    type: user
+    name: aaron98
+    fullyQualifiedName: aaron98
+    displayName: David Walters
+    deleted: false
+  - id: 8bbd0ec5-5225-4748-83e7-0e87e38ec865
+    type: user
+    name: aaron_johnson0
+    fullyQualifiedName: aaron_johnson0
+    displayName: Aaron Johnson
+    deleted: false
+childrenCount: 0
+userCount: 11
+owns:
+  - id: ff929830-e0e3-4091-9918-258c8ddbd94e
+    type: glossaryTerm
+    name: AOvWRiNjKZ
+    fullyQualifiedName: Business Glossary.AOvWRiNjKZ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: AOvWRiNjKZ
+    deleted: false
+  - id: 51b50652-e20c-42cb-8b16-87f3e9187153
+    type: glossaryTerm
+    name: AQGucbcRGJ
+    fullyQualifiedName: Business Glossary.AQGucbcRGJ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: AQGucbcRGJ
+    deleted: false
+  - id: 877fbc45-fd01-49e6-8a34-7d01403a3e1c
+    type: glossaryTerm
+    name: AmXpeGgMhs
+    fullyQualifiedName: Business Glossary.AmXpeGgMhs
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: AmXpeGgMhs
+    deleted: false
+  - id: d85dd112-8159-41c9-b8ea-44fdb191a8a8
+    type: glossaryTerm
+    name: AmsmRzIjkb
+    fullyQualifiedName: Business Glossary.AmsmRzIjkb
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: AmsmRzIjkb
+    deleted: false
+  - id: 96ad70aa-ea35-44cf-8a97-90f3c335ab5b
+    type: glossaryTerm
+    name: BXXVjTlfmC
+    fullyQualifiedName: Business Glossary.BXXVjTlfmC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: BXXVjTlfmC
+    deleted: false
+  - id: 8a90d481-8b48-49a5-9e90-d0fa5725720f
+    type: glossaryTerm
+    name: BqbhqpbweS
+    fullyQualifiedName: Business Glossary.BqbhqpbweS
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: BqbhqpbweS
+    deleted: false
+  - id: eb9e6418-5790-4a43-a0a0-5cfe041f41a1
+    type: glossary
+    name: Bug.Test
+    fullyQualifiedName: '"Bug.Test"'
+    description: <p>Bug.Test...update desc test.</p><p></p><ul class="om-list-disc"><li
+      class="om-leading-normal"><p>Hello</p></li><li class="om-leading-normal"><p>Tes</p></li><li
+      class="om-leading-normal"><p>Bullets</p></li><li class="om-leading-normal"><p>Bullet1</p></li><li
+      class="om-leading-normal"><p>Bullet2</p></li><li class="om-leading-normal"><p>Bullet3</p></li></ul><p></p>
+    displayName: Bug_Test
+    deleted: false
+  - id: 0a33f723-f73d-499e-82bb-4832cc9314aa
+    type: glossary
+    name: Business Glossary
+    fullyQualifiedName: Business Glossary
+    description: "<h2>What is Lorem Ipsum?</h2><p><strong>Lorem Ipsum</strong> is\
+      \ simply dummy text of the printing and typesetting industry. Lorem Ipsum has\
+      \ been the industry's standard dummy text ever since the 1500s, when an unknown\
+      \ printer took a galley of type and scrambled it to make a type specimen book.\
+      \ It has survived not only five centuries, but also the leap into electronic\
+      \ typesetting, remaining essentially unchanged. It was popularised in the 1960s\
+      \ with the release of Letraset sheets containing Lorem Ipsum passages, and more\
+      \ recently with desktop publishing software like Aldus PageMaker including versions\
+      \ of Lorem Ipsum.</p><h2>Why do we use it?</h2><p>It is a long established fact\
+      \ that a reader will be distracted by the readable content of a page when looking\
+      \ at its layout. The point of using Lorem Ipsum is that it has a more-or-less\
+      \ normal distribution of letters, as opposed to using 'Content here, content\
+      \ here', making it look like readable English. Many desktop publishing packages\
+      \ and web page editors now use Lorem Ipsum as their default model text, and\
+      \ a search for 'lorem ipsum' will uncover many web sites still in their infancy.\
+      \ Various versions have evolved over the years, sometimes by accident, sometimes\
+      \ on purpose (injected humour and the like).</p><p><br></p><h2>Where does it\
+      \ come from?</h2><p>Contrary to popular belief, Lorem Ipsum is not simply random\
+      \ text. It has roots in a piece of classical Latin literature from 45 BC, making\
+      \ it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney\
+      \ College in Virginia, looked up one of the more obscure Latin words, consectetur,\
+      \ from a Lorem Ipsum passage, and going through the cites of the word in classical\
+      \ literature, discovered the undoubtable source. Lorem Ipsum comes from sections\
+      \ 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of\
+      \ Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the\
+      \ theory of ethics, very popular during the Renaissance. The first line of Lorem\
+      \ Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.</p><p>The\
+      \ standard chunk of Lorem Ipsum used since the 1500s is reproduced below for\
+      \ those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et\
+      \ Malorum\" by Cicero are also reproduced in their exact original form, accompanied\
+      \ by English versions from the 1914 translation by H. Rackham.</p><h2>Where\
+      \ can I get some?</h2><p>There are many variations of passages of Lorem Ipsum\
+      \ available, but the majority have suffered alteration in some form, by injected\
+      \ humour, or randomised words which don't look even slightly believable. If\
+      \ you are going to use a passage of Lorem Ipsum, you need to be sure there isn't\
+      \ anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators\
+      \ on the Internet tend to repeat predefined chunks as necessary, making this\
+      \ the first true generator on the Internet. It uses a dictionary of over 200\
+      \ Latin words, combined with a handful of model sentence structures, to generate\
+      \ Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore\
+      \ always free from repetition, injected humour, or non-characteristic words\
+      \ etc.</p>"
+    displayName: Business Glossary
+    deleted: false
+  - id: 1adfa3d3-b69d-4cc8-9f86-379991df098a
+    type: glossaryTerm
+    name: DMFYdgIIlM
+    fullyQualifiedName: Business Glossary.DMFYdgIIlM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: DMFYdgIIlM
+    deleted: false
+  - id: 87c00c16-f99e-4a14-85f6-f415df2d972d
+    type: domain
+    name: Data set
+    fullyQualifiedName: testing / domain do not use it.Data set
+    description: <p>desc</p>
+    displayName: Sherry
+  - id: 4f28bb76-ab5a-49f2-a3d1-4f5e1b28a007
+    type: glossaryTerm
+    name: DhZdjaGMBx
+    fullyQualifiedName: Business Glossary.nFfGTwQyWp.DhZdjaGMBx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: DhZdjaGMBx
+    deleted: false
+  - id: 326ada93-6237-4223-a792-2365e38de9f1
+    type: glossaryTerm
+    name: DjWOeGOluV
+    fullyQualifiedName: Business Glossary.eTGMYAyXui.vzYSdwUnUx.OwUKBYgqIC.sWyiNiUOtL.zBJBomYTLp.DjWOeGOluV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: DjWOeGOluV
+    deleted: false
+  - id: cecef33a-c6b7-4c46-88be-8a8379e28069
+    type: glossaryTerm
+    name: DvPFaXMrGj
+    fullyQualifiedName: Business Glossary.DvPFaXMrGj
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: DvPFaXMrGj
+    deleted: false
+  - id: e80b072b-c016-411a-a2a9-ffe6c908012c
+    type: glossaryTerm
+    name: DvRLGlCRsj
+    fullyQualifiedName: Business Glossary.DvRLGlCRsj
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: DvRLGlCRsj
+    deleted: false
+  - id: 2cadef65-f694-4f66-bf54-b795b02945ff
+    type: glossaryTerm
+    name: EJfGLtRpMY
+    fullyQualifiedName: Business Glossary.AmsmRzIjkb.EJfGLtRpMY
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: EJfGLtRpMY
+    deleted: false
+  - id: d5f3a173-4b2f-430e-8317-2dd0a1bb3258
+    type: glossaryTerm
+    name: EUBYJJZXUi
+    fullyQualifiedName: Business Glossary.EUBYJJZXUi
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: EUBYJJZXUi
+    deleted: false
+  - id: 76c042d2-742d-4ad1-b2aa-f886633f902e
+    type: glossaryTerm
+    name: EmNqOtXYOX
+    fullyQualifiedName: Business Glossary.EmNqOtXYOX
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: EmNqOtXYOX
+    deleted: false
+  - id: a0fcc8cd-16ec-40ed-90f5-40169db7852e
+    type: glossaryTerm
+    name: EqqQDOubmm
+    fullyQualifiedName: Business Glossary.vCOTuefvfV.EqqQDOubmm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: EqqQDOubmm
+    deleted: false
+  - id: 46903b26-7473-4d2e-96da-4c81a2911fd4
+    type: glossaryTerm
+    name: EwoyHBQREI
+    fullyQualifiedName: Business Glossary.EwoyHBQREI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: EwoyHBQREI
+    deleted: false
+  - id: 97acf624-edd4-49fc-a196-02d064585850
+    type: glossaryTerm
+    name: FHwBAVrSlU
+    fullyQualifiedName: Business Glossary.GwOcFhtLgp.FHwBAVrSlU
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FHwBAVrSlU
+    deleted: false
+  - id: d4a89f73-045c-4be3-858b-97fc441fab68
+    type: glossaryTerm
+    name: FSkRcZcpZm
+    fullyQualifiedName: Business Glossary.FSkRcZcpZm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FSkRcZcpZm
+    deleted: false
+  - id: cb0c7af3-0f51-41d8-8550-c3cd6fad1676
+    type: glossaryTerm
+    name: FVTNfTesxF
+    fullyQualifiedName: Business Glossary.FVTNfTesxF
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FVTNfTesxF
+    deleted: false
+  - id: fc77f158-f0f0-4da5-9896-13288f9140c1
+    type: glossaryTerm
+    name: FVxaCYRvik
+    fullyQualifiedName: Business Glossary.ZFzcxoWCEd.FVxaCYRvik
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FVxaCYRvik
+    deleted: false
+  - id: 1520f67b-689b-4298-90a5-c98cde872863
+    type: glossaryTerm
+    name: FbqAaFIPSK
+    fullyQualifiedName: Business Glossary.gjYFSeWqcB.FbqAaFIPSK
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FbqAaFIPSK
+    deleted: false
+  - id: 00f5d138-5171-4c41-a236-b79bbf499ec6
+    type: glossaryTerm
+    name: FcRqYCDiaZ
+    fullyQualifiedName: Business Glossary.FcRqYCDiaZ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FcRqYCDiaZ
+    deleted: false
+  - id: 0984f1e5-0736-4573-bd9c-c221dc3715c9
+    type: glossaryTerm
+    name: FtmCJIhbTD
+    fullyQualifiedName: Business Glossary.FtmCJIhbTD
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FtmCJIhbTD
+    deleted: false
+  - id: 830a98ee-3aaa-4c84-a414-c975d93a4ed8
+    type: glossaryTerm
+    name: FvAklnvwCe
+    fullyQualifiedName: Business Glossary.FvAklnvwCe
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: FvAklnvwCe
+    deleted: false
+  - id: 9af3f7f6-6978-4f9e-b2e0-0ac00d96354c
+    type: glossaryTerm
+    name: GLSElklsoH
+    fullyQualifiedName: Business Glossary.GLSElklsoH
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: GLSElklsoH
+    deleted: false
+  - id: b4e75f6f-b1c4-409c-8120-b2a089d7eef4
+    type: glossaryTerm
+    name: GTMbxCZVvZ
+    fullyQualifiedName: Business Glossary.GTMbxCZVvZ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: GTMbxCZVvZ
+    deleted: false
+  - id: 3ae17d97-f0f2-4933-927b-ca49943fa48c
+    type: glossaryTerm
+    name: GwIpAsCBwM
+    fullyQualifiedName: Business Glossary.eWKuCUZinH.GwIpAsCBwM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: GwIpAsCBwM
+    deleted: false
+  - id: 5a7b1eee-6114-4038-9a88-1e72caa9e6b2
+    type: glossaryTerm
+    name: GwOcFhtLgp
+    fullyQualifiedName: Business Glossary.GwOcFhtLgp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: GwOcFhtLgp
+    deleted: false
+  - id: 49011bd7-d6b2-4ab0-9831-e966ac2dd4c4
+    type: glossaryTerm
+    name: HVBshuIwrP
+    fullyQualifiedName: Business Glossary.HVBshuIwrP
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: HVBshuIwrP
+    deleted: false
+  - id: 86cb6546-0e67-4734-b5a8-297057953e10
+    type: glossaryTerm
+    name: HsQyXiDDHL
+    fullyQualifiedName: Business Glossary.guLrfvgctC.HsQyXiDDHL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: HsQyXiDDHL
+    deleted: false
+  - id: e0468f70-cfd5-4005-a10b-7c9e65546e49
+    type: databaseSchema
+    name: INFORMATION_SCHEMA
+    fullyQualifiedName: Snowflake_test_hr.SNOWFLAKE_SAMPLE_DATA.INFORMATION_SCHEMA
+    description: Views describing the contents of schemas in this database
+    displayName: INFORMATION_SCHEMA
+    deleted: false
+  - id: bbb7b1d6-efd7-4600-a7fc-cfccd704a4fa
+    type: glossaryTerm
+    name: IZjJhVeOpo
+    fullyQualifiedName: Business Glossary.YTysjpmmAt.IZjJhVeOpo
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: IZjJhVeOpo
+    deleted: false
+  - id: c1ab39c2-63a2-4298-b7a9-f932e895614d
+    type: glossaryTerm
+    name: IzJehLqTTV
+    fullyQualifiedName: Business Glossary.IzJehLqTTV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: IzJehLqTTV
+    deleted: false
+  - id: 4f8ee669-4dca-41e7-b0f4-d03557ebf116
+    type: glossaryTerm
+    name: JOwtqvwpaI
+    fullyQualifiedName: Business Glossary.JOwtqvwpaI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: JOwtqvwpaI
+    deleted: false
+  - id: 3a604038-04aa-4ec3-80c0-06f9c65607ab
+    type: glossaryTerm
+    name: JRjrFBZwGJ
+    fullyQualifiedName: Business Glossary.IzJehLqTTV.JRjrFBZwGJ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: JRjrFBZwGJ
+    deleted: false
+  - id: d9d62e7f-3837-40a4-b643-0ffcba85e9c5
+    type: glossaryTerm
+    name: JckjJzpguK
+    fullyQualifiedName: Business Glossary.QXlFUelpgt.JckjJzpguK
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: JckjJzpguK
+    deleted: false
+  - id: d8aacfb0-e3af-48be-86ee-ca54cdf6d87f
+    type: glossaryTerm
+    name: JmCKiENIlI
+    fullyQualifiedName: Business Glossary.AmXpeGgMhs.JmCKiENIlI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: JmCKiENIlI
+    deleted: false
+  - id: 863dd7b6-8e04-4d67-9dd9-83ea56136260
+    type: glossaryTerm
+    name: JqOugPUiJR
+    fullyQualifiedName: Business Glossary.JqOugPUiJR
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: JqOugPUiJR
+    deleted: false
+  - id: e99344f4-d6cc-4c19-bd1e-c96047f11b0d
+    type: glossaryTerm
+    name: KuhLbtWabK
+    fullyQualifiedName: Business Glossary.KuhLbtWabK
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: KuhLbtWabK
+    deleted: false
+  - id: b5bd6648-389d-444a-a006-ea9716d6e5ce
+    type: glossaryTerm
+    name: KvFqOrFhWX
+    fullyQualifiedName: Business Glossary.KvFqOrFhWX
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: KvFqOrFhWX
+    deleted: false
+  - id: 2f2e458c-6833-40a8-a538-88604ba50a2f
+    type: glossaryTerm
+    name: LAOupIVWPC
+    fullyQualifiedName: Business Glossary.iobIbdNMzp.UmVgxNELVu.LAOupIVWPC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LAOupIVWPC
+    deleted: false
+  - id: 7cf6bb41-738e-47cc-a715-b0eb8a919f3c
+    type: glossaryTerm
+    name: LXbpBqioNu
+    fullyQualifiedName: Business Glossary.LXbpBqioNu
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LXbpBqioNu
+    deleted: false
+  - id: dc412abb-e350-4c31-98c8-df9d51398618
+    type: glossaryTerm
+    name: LbqzEjZOBU
+    fullyQualifiedName: Business Glossary.KuhLbtWabK.LbqzEjZOBU
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LbqzEjZOBU
+    deleted: false
+  - id: e8eebcdb-33c2-4455-99b2-a57efb7ed4b5
+    type: glossaryTerm
+    name: LsOWHefDei
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc.LsOWHefDei
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LsOWHefDei
+    deleted: false
+  - id: affc57b6-dc1e-42ca-9493-913c44793097
+    type: glossaryTerm
+    name: LwPWqOOXZR
+    fullyQualifiedName: Business Glossary.LwPWqOOXZR
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LwPWqOOXZR
+    deleted: false
+  - id: 1982230c-2974-4e66-a1e2-5b85c7aa7097
+    type: glossaryTerm
+    name: LxmsrMIfxi
+    fullyQualifiedName: Business Glossary.LxmsrMIfxi
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: LxmsrMIfxi
+    deleted: false
+  - id: 2dd1be0e-c3a0-4f04-87da-c4aebeea9a1d
+    type: glossaryTerm
+    name: MGBQVtTRrN
+    fullyQualifiedName: Business Glossary.MGBQVtTRrN
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: MGBQVtTRrN
+    deleted: false
+  - id: e3ca7ee3-ef84-43d2-b0f9-e7f9ba2e66c3
+    type: glossaryTerm
+    name: MIPvkQQuWq
+    fullyQualifiedName: Business Glossary.MIPvkQQuWq
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: MIPvkQQuWq
+    deleted: false
+  - id: d78ac426-1440-4747-89d1-599b17972afc
+    type: glossaryTerm
+    name: MIVGEuQWUo
+    fullyQualifiedName: Business Glossary.MIVGEuQWUo
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: MIVGEuQWUo
+    deleted: false
+  - id: 37172940-f101-4e70-b3fb-60e4b238fbf0
+    type: glossaryTerm
+    name: MKxGxcDgZQ
+    fullyQualifiedName: Business Glossary.eYVBVYbXwx.MKxGxcDgZQ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: MKxGxcDgZQ
+    deleted: false
+  - id: 6c615562-8400-4642-9184-7bdaa3fb4a06
+    type: glossaryTerm
+    name: MtOrYjVuGH
+    fullyQualifiedName: Business Glossary.MtOrYjVuGH
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: MtOrYjVuGH
+    deleted: false
+  - id: 07a4d592-bdc6-44d4-9497-f2f73924e8ac
+    type: glossaryTerm
+    name: NFUJFbknem
+    fullyQualifiedName: Business Glossary.lhbUMWkedO.NFUJFbknem
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: NFUJFbknem
+    deleted: false
+  - id: 405f2770-f300-460d-a136-526afc86ae01
+    type: glossaryTerm
+    name: NIFycaNorF
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.rkSQQpIDhn.seKNSEIloO.NIFycaNorF
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: NIFycaNorF
+    deleted: false
+  - id: 720d3975-dc8d-4530-89bc-230ddb0bf0e7
+    type: glossaryTerm
+    name: NOaUwtLJYB
+    fullyQualifiedName: Business Glossary.NOaUwtLJYB
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: NOaUwtLJYB
+    deleted: false
+  - id: 1665e3cd-170c-442a-88c3-9bde6c666e80
+    type: glossaryTerm
+    name: NxunRbLhiu
+    fullyQualifiedName: Business Glossary.bVFLrOslKo.NxunRbLhiu
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: NxunRbLhiu
+    deleted: false
+  - id: ab4128aa-d0c6-4458-8db8-6258d8763408
+    type: glossaryTerm
+    name: ODPnypcyru
+    fullyQualifiedName: Business Glossary.nFfGTwQyWp.DhZdjaGMBx.ODPnypcyru
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ODPnypcyru
+    deleted: false
+  - id: b9e2b68e-4fbe-455a-bfc5-c98faf0f83f6
+    type: glossaryTerm
+    name: OIKXnBywed
+    fullyQualifiedName: Business Glossary.OIKXnBywed
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OIKXnBywed
+    deleted: false
+  - id: 436ea021-b3f1-46d0-a6fc-75d3512edc98
+    type: glossaryTerm
+    name: OOenEjIeFQ
+    fullyQualifiedName: Business Glossary.OOenEjIeFQ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OOenEjIeFQ
+    deleted: false
+  - id: 6870ab35-c43e-4c35-a6a6-8a86cfe3731d
+    type: glossaryTerm
+    name: OTynrQlopR
+    fullyQualifiedName: Business Glossary.PictDwJkaX.OTynrQlopR
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OTynrQlopR
+    deleted: false
+  - id: 8d7d323b-be99-44e0-8972-65ac044635dc
+    type: glossaryTerm
+    name: OlXawSfmaB
+    fullyQualifiedName: Business Glossary.OlXawSfmaB
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OlXawSfmaB
+    deleted: false
+  - id: b3b44940-8bff-44f7-842d-066fb6082669
+    type: glossaryTerm
+    name: OwUKBYgqIC
+    fullyQualifiedName: Business Glossary.eTGMYAyXui.vzYSdwUnUx.OwUKBYgqIC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OwUKBYgqIC
+    deleted: false
+  - id: 04df11d2-081c-4c19-9cc7-16e46d5cdc1a
+    type: glossaryTerm
+    name: OxyThTQprQ
+    fullyQualifiedName: Business Glossary.OxyThTQprQ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OxyThTQprQ
+    deleted: false
+  - id: 89d28d96-2036-4482-af3e-e6bf59111119
+    type: glossaryTerm
+    name: OzyCEmlZRT
+    fullyQualifiedName: Business Glossary.OzyCEmlZRT
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: OzyCEmlZRT
+    deleted: false
+  - id: fc4f3de7-844a-432a-8d59-93627759987b
+    type: glossaryTerm
+    name: PhefhOvEfV
+    fullyQualifiedName: Business Glossary.YTysjpmmAt.IZjJhVeOpo.UTmyvyIERx.PhefhOvEfV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: PhefhOvEfV
+    deleted: false
+  - id: 6fd737e3-3fcf-45b2-8698-621ae39ea2ef
+    type: glossaryTerm
+    name: PictDwJkaX
+    fullyQualifiedName: Business Glossary.PictDwJkaX
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: PictDwJkaX
+    deleted: false
+  - id: 8cbd6115-3ba4-4c21-a54e-921946219401
+    type: glossaryTerm
+    name: QDgiwjRpJD
+    fullyQualifiedName: Business Glossary.QDgiwjRpJD
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QDgiwjRpJD
+    deleted: false
+  - id: 3a274b98-25f5-4f4d-b7d7-4d9899bcb884
+    type: glossaryTerm
+    name: QICYvHmOeI
+    fullyQualifiedName: Business Glossary.OIKXnBywed.QICYvHmOeI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QICYvHmOeI
+    deleted: false
+  - id: 9200e82b-0e0f-469e-b8c6-55f34372e4b4
+    type: glossaryTerm
+    name: QSxXNAzuaG
+    fullyQualifiedName: Business Glossary.QSxXNAzuaG
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QSxXNAzuaG
+    deleted: false
+  - id: 68bca2c9-e67d-476a-abb7-9b48993d79b6
+    type: glossaryTerm
+    name: QXlFUelpgt
+    fullyQualifiedName: Business Glossary.QXlFUelpgt
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QXlFUelpgt
+    deleted: false
+  - id: 2beb9e38-b948-4d6b-b1eb-a2cfb5f53b2b
+    type: glossaryTerm
+    name: QdCqAWNkNb
+    fullyQualifiedName: Business Glossary.QdCqAWNkNb
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QdCqAWNkNb
+    deleted: false
+  - id: 1656f642-f77f-4717-90a2-7fb127ab3f60
+    type: glossaryTerm
+    name: QhJsgTIptn
+    fullyQualifiedName: Business Glossary.eYVBVYbXwx.QhJsgTIptn
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QhJsgTIptn
+    deleted: false
+  - id: d8af3682-6762-4478-9c7a-e0ba977ca62c
+    type: glossaryTerm
+    name: QmrHBDPeSl
+    fullyQualifiedName: Business Glossary.MGBQVtTRrN.QmrHBDPeSl
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: QmrHBDPeSl
+    deleted: false
+  - id: 838c4bc7-288e-4b37-bf8a-2525839a7de3
+    type: glossaryTerm
+    name: RXXfHKXDQG
+    fullyQualifiedName: Business Glossary.oHMBtahLDV.RXXfHKXDQG
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: RXXfHKXDQG
+    deleted: false
+  - id: 2583b732-640f-4e2b-b49d-86a3c8caed9a
+    type: glossaryTerm
+    name: RmkZVkTiaM
+    fullyQualifiedName: Business Glossary.OIKXnBywed.QICYvHmOeI.RmkZVkTiaM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: RmkZVkTiaM
+    deleted: false
+  - id: 6766e663-cab4-4148-a059-47ff80ed9af4
+    type: glossaryTerm
+    name: SIXKOZcDNC
+    fullyQualifiedName: Business Glossary.SIXKOZcDNC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: SIXKOZcDNC
+    deleted: false
+  - id: 978516fd-bfed-42bd-a324-e970c90fa108
+    type: glossaryTerm
+    name: SRFXIPKQGl
+    fullyQualifiedName: Business Glossary.SRFXIPKQGl
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: SRFXIPKQGl
+    deleted: false
+  - id: f921af15-40fe-4a53-a8a3-20d05a29eff6
+    type: glossaryTerm
+    name: SXoenPkZUI
+    fullyQualifiedName: Business Glossary.giCEZmzIUj.SXoenPkZUI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: SXoenPkZUI
+    deleted: false
+  - id: 7478cda8-e0eb-48f8-846c-f15991083020
+    type: glossaryTerm
+    name: TUmjshlZXe
+    fullyQualifiedName: Business Glossary.TUmjshlZXe
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: TUmjshlZXe
+    deleted: false
+  - id: f49ed954-07fe-48b1-9db1-eaa3ed076419
+    type: glossaryTerm
+    name: TgOSDvFPEd
+    fullyQualifiedName: Business Glossary.NOaUwtLJYB.aCVmPnZbam.TgOSDvFPEd
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: TgOSDvFPEd
+    deleted: false
+  - id: 96aa626a-166f-430f-8169-3c59aac55bca
+    type: glossaryTerm
+    name: TghZVKuRKt
+    fullyQualifiedName: Business Glossary.TghZVKuRKt
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: TghZVKuRKt
+    deleted: false
+  - id: fa7caef0-2245-4a9a-8a99-ed6693026f52
+    type: glossaryTerm
+    name: TiYDvMKDWs
+    fullyQualifiedName: Business Glossary.TiYDvMKDWs
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: TiYDvMKDWs
+    deleted: false
+  - id: 6f82f815-d08f-41ad-a612-e215c90b5e41
+    type: glossaryTerm
+    name: TziiOVEIxf
+    fullyQualifiedName: Business Glossary.TziiOVEIxf
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: TziiOVEIxf
+    deleted: false
+  - id: 15e6efc6-0ef4-48d7-8fd5-c61da2a5aeca
+    type: glossaryTerm
+    name: UBJEFfzOIp
+    fullyQualifiedName: Business Glossary.UBJEFfzOIp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: UBJEFfzOIp
+    deleted: false
+  - id: 1bd0fb0a-782a-4224-9c97-41e08dffebf2
+    type: glossaryTerm
+    name: URPYNysfWo
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU.ePFxjeHMJE.URPYNysfWo
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: URPYNysfWo
+    deleted: false
+  - id: 2ed47970-5e9f-4d1c-8590-6c4df746b7d5
+    type: glossaryTerm
+    name: UTmyvyIERx
+    fullyQualifiedName: Business Glossary.YTysjpmmAt.IZjJhVeOpo.UTmyvyIERx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: UTmyvyIERx
+    deleted: false
+  - id: e3b81ba3-f12b-42f8-97cd-aa6c30778dac
+    type: glossaryTerm
+    name: UlTpoJQfHr
+    fullyQualifiedName: Business Glossary.dEzKMcEKUS.UlTpoJQfHr
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: UlTpoJQfHr
+    deleted: false
+  - id: acb33928-a74a-4d03-bce1-785c80b12ea3
+    type: glossaryTerm
+    name: UmVgxNELVu
+    fullyQualifiedName: Business Glossary.iobIbdNMzp.UmVgxNELVu
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: UmVgxNELVu
+    deleted: false
+  - id: d192c760-8674-4c24-9b17-c117b4532bbe
+    type: glossaryTerm
+    name: VJwJJDYIMC
+    fullyQualifiedName: Business Glossary.VJwJJDYIMC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: VJwJJDYIMC
+    deleted: false
+  - id: 60e6f37c-ad96-411b-bfa8-bb4a4cf155a6
+    type: glossaryTerm
+    name: WAZvgoykFi
+    fullyQualifiedName: Business Glossary.WDcXWwSiEO.WAZvgoykFi
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WAZvgoykFi
+    deleted: false
+  - id: f358685f-c4be-4bab-92df-2c2dd99e12cd
+    type: glossaryTerm
+    name: WDcXWwSiEO
+    fullyQualifiedName: Business Glossary.WDcXWwSiEO
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WDcXWwSiEO
+    deleted: false
+  - id: ff786156-49cb-47fd-bfd7-2672e4f77c2b
+    type: glossaryTerm
+    name: WfmjbLFeDV
+    fullyQualifiedName: Business Glossary.IzJehLqTTV.WfmjbLFeDV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WfmjbLFeDV
+    deleted: false
+  - id: 0d1bcabe-a3c2-41c1-b0d5-c1d149ffa7a8
+    type: glossaryTerm
+    name: WpUsoRBsZm
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU.ePFxjeHMJE.URPYNysfWo.ynLLOUGiSr.uNPwtcHzfq.WpUsoRBsZm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WpUsoRBsZm
+    deleted: false
+  - id: 6741de66-35fc-47bd-9295-4d1ec4a6184f
+    type: glossaryTerm
+    name: WrgnhXwkko
+    fullyQualifiedName: Business Glossary.AQGucbcRGJ.dmHnLzxDOQ.WrgnhXwkko
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WrgnhXwkko
+    deleted: false
+  - id: b645ca94-dab8-43de-b0a3-348ef66c5c51
+    type: glossaryTerm
+    name: WvfptVOznx
+    fullyQualifiedName: Business Glossary.WvfptVOznx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: WvfptVOznx
+    deleted: false
+  - id: 3cf4e90e-ec85-4746-b4a3-3fddd4bb0144
+    type: glossaryTerm
+    name: XVuKlsTgWC
+    fullyQualifiedName: Business Glossary.XVuKlsTgWC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: XVuKlsTgWC
+    deleted: false
+  - id: 2dd940f5-e47d-4646-b32c-0189f3980190
+    type: glossaryTerm
+    name: XsjSIIPDWx
+    fullyQualifiedName: Business Glossary.OIKXnBywed.QICYvHmOeI.RmkZVkTiaM.ikqqThGvCY.oqkQKvaWFF.XsjSIIPDWx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: XsjSIIPDWx
+    deleted: false
+  - id: ab28644a-753c-4639-97ab-711c1edd3e84
+    type: glossaryTerm
+    name: XxKEdzfnzb
+    fullyQualifiedName: Business Glossary.XxKEdzfnzb
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: XxKEdzfnzb
+    deleted: false
+  - id: 6e7d6c24-0b61-4ead-bcac-5efc57902cdb
+    type: glossaryTerm
+    name: YMUKAEVQtm
+    fullyQualifiedName: Business Glossary.YMUKAEVQtm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: YMUKAEVQtm
+    deleted: false
+  - id: 083847cd-8d22-46f8-85a0-c2ffb14b56c9
+    type: glossaryTerm
+    name: YTysjpmmAt
+    fullyQualifiedName: Business Glossary.YTysjpmmAt
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: YTysjpmmAt
+    deleted: false
+  - id: 18a47379-efca-40ae-b8a6-12bce714ca6a
+    type: glossaryTerm
+    name: YaeRqaURMC
+    fullyQualifiedName: Business Glossary.TiYDvMKDWs.YaeRqaURMC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: YaeRqaURMC
+    deleted: false
+  - id: 8962e5df-f9fc-422a-94e6-75b2cc452816
+    type: glossaryTerm
+    name: YcltRhYPdp
+    fullyQualifiedName: Business Glossary.oHMBtahLDV.RXXfHKXDQG.YcltRhYPdp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: YcltRhYPdp
+    deleted: false
+  - id: e20c0877-0432-487f-bb3f-d7b5dfde325e
+    type: glossaryTerm
+    name: YlnAvPPfzp
+    fullyQualifiedName: Business Glossary.YlnAvPPfzp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: YlnAvPPfzp
+    deleted: false
+  - id: 37866bb9-9fd0-408a-85d0-27e8133912f1
+    type: glossaryTerm
+    name: ZFzcxoWCEd
+    fullyQualifiedName: Business Glossary.ZFzcxoWCEd
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ZFzcxoWCEd
+    deleted: false
+  - id: f578912a-fe9c-416d-b875-ff2711c0678e
+    type: glossaryTerm
+    name: ZobxvziSYm
+    fullyQualifiedName: Business Glossary.AmXpeGgMhs.JmCKiENIlI.wzZWUUGADR.ZobxvziSYm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ZobxvziSYm
+    deleted: false
+  - id: 0ca810c9-0416-4fc8-a060-aa4a2e32b680
+    type: glossaryTerm
+    name: ZtRrQaMiBz
+    fullyQualifiedName: Business Glossary.QDgiwjRpJD.ZtRrQaMiBz
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ZtRrQaMiBz
+    deleted: false
+  - id: 3a519331-1e5f-427b-b0bc-c30bf14bea09
+    type: glossaryTerm
+    name: aCVmPnZbam
+    fullyQualifiedName: Business Glossary.NOaUwtLJYB.aCVmPnZbam
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: aCVmPnZbam
+    deleted: false
+  - id: ed613f0e-124f-4d63-a29e-4b0b2320df04
+    type: glossaryTerm
+    name: aDhLHtMjhQ
+    fullyQualifiedName: Business Glossary.aDhLHtMjhQ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: aDhLHtMjhQ
+    deleted: false
+  - id: b7c74a68-aa9b-404d-86fa-258fb7a748ea
+    type: glossaryTerm
+    name: aHgGlFDOZg
+    fullyQualifiedName: Business Glossary.aHgGlFDOZg
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: aHgGlFDOZg
+    deleted: false
+  - id: a6eea344-383c-4a52-bdd4-fcebd30fb23f
+    type: glossaryTerm
+    name: asSoJbkzNC
+    fullyQualifiedName: Business Glossary.asSoJbkzNC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: asSoJbkzNC
+    deleted: false
+  - id: ac64b9fe-3c4f-487a-9eab-939dabb1644b
+    type: glossaryTerm
+    name: bKOabfepYh
+    fullyQualifiedName: Business Glossary.JOwtqvwpaI.bKOabfepYh
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: bKOabfepYh
+    deleted: false
+  - id: 7efca33b-2fce-4d28-b53c-f9d23ed7a6a5
+    type: glossaryTerm
+    name: bKrJqvntab
+    fullyQualifiedName: Business Glossary.bKrJqvntab
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: bKrJqvntab
+    deleted: false
+  - id: 2edc059b-d907-4ade-9050-c45c4d7c0335
+    type: glossaryTerm
+    name: bVFLrOslKo
+    fullyQualifiedName: Business Glossary.bVFLrOslKo
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: bVFLrOslKo
+    deleted: false
+  - id: bc97ab4f-6861-48e5-805b-01fd551c1ed8
+    type: glossaryTerm
+    name: bsqcjsSNhc
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: bsqcjsSNhc
+    deleted: false
+  - id: f42b2225-a723-428f-a5ba-66159e0fd674
+    type: glossaryTerm
+    name: cCZorTOWzH
+    fullyQualifiedName: Business Glossary.cCZorTOWzH
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: cCZorTOWzH
+    deleted: false
+  - id: bf1192a8-1968-4406-a17f-0f48f9c3d25e
+    type: glossaryTerm
+    name: cCwSpPwmPx
+    fullyQualifiedName: Business Glossary.AQGucbcRGJ.cCwSpPwmPx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: cCwSpPwmPx
+    deleted: false
+  - id: 0ac064bd-a66c-4ee5-aba8-d5d7b96dc3b8
+    type: glossaryTerm
+    name: cHiHitHggA
+    fullyQualifiedName: Business Glossary.eWKuCUZinH.GwIpAsCBwM.sjmgCxblcW.cHiHitHggA
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: cHiHitHggA
+    deleted: false
+  - id: 84bdcc9a-dcfb-40f6-9150-0d76639e805e
+    type: glossaryTerm
+    name: cjiSsBsWiC
+    fullyQualifiedName: Business Glossary.YlnAvPPfzp.dFJXWkhBmL.cjiSsBsWiC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: cjiSsBsWiC
+    deleted: false
+  - id: 8a22c728-0c3a-42e5-af9a-7f33ee73f7da
+    type: glossaryTerm
+    name: dEzKMcEKUS
+    fullyQualifiedName: Business Glossary.dEzKMcEKUS
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: dEzKMcEKUS
+    deleted: false
+  - id: 46f4d594-451b-4b92-9660-cdbb3ccf9975
+    type: glossaryTerm
+    name: dFJXWkhBmL
+    fullyQualifiedName: Business Glossary.YlnAvPPfzp.dFJXWkhBmL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: dFJXWkhBmL
+    deleted: false
+  - id: 3fe3674d-8809-4ce0-b545-d4476042c8bd
+    type: glossaryTerm
+    name: dLEghFdeWT
+    fullyQualifiedName: Business Glossary.eyOTPLlwva.dLEghFdeWT
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: dLEghFdeWT
+    deleted: false
+  - id: 0201b379-66ec-4255-9dad-d3536ba19dc1
+    type: glossaryTerm
+    name: dmHnLzxDOQ
+    fullyQualifiedName: Business Glossary.AQGucbcRGJ.dmHnLzxDOQ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: dmHnLzxDOQ
+    deleted: false
+  - id: 3a2ae9e4-80fa-44a7-8ca8-9cae837c2a9a
+    type: glossaryTerm
+    name: dzqrgfoccl
+    fullyQualifiedName: Business Glossary.dzqrgfoccl
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: dzqrgfoccl
+    deleted: false
+  - id: 57d62166-ae8e-4c2d-bfc0-fcf7e56bbf68
+    type: glossaryTerm
+    name: eBskhUNvgl
+    fullyQualifiedName: Business Glossary.eBskhUNvgl
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eBskhUNvgl
+    deleted: false
+  - id: 63154740-d81b-45e4-a991-1ffa77db3252
+    type: glossaryTerm
+    name: eJtTvpyNyC
+    fullyQualifiedName: Business Glossary.QdCqAWNkNb.eJtTvpyNyC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eJtTvpyNyC
+    deleted: false
+  - id: e6e85411-adbe-4569-89b9-fcf719d6a3df
+    type: glossaryTerm
+    name: ePFxjeHMJE
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU.ePFxjeHMJE
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ePFxjeHMJE
+    deleted: false
+  - id: 77e24c24-7792-4fbc-acbf-235f20fb625d
+    type: glossaryTerm
+    name: eTGMYAyXui
+    fullyQualifiedName: Business Glossary.eTGMYAyXui
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eTGMYAyXui
+    deleted: false
+  - id: f11d0ab4-a686-4959-b56c-c7075cef35aa
+    type: glossaryTerm
+    name: eWKuCUZinH
+    fullyQualifiedName: Business Glossary.eWKuCUZinH
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eWKuCUZinH
+    deleted: false
+  - id: fae670fe-1898-49db-b0aa-a3fbcf69d3d6
+    type: glossaryTerm
+    name: eYVBVYbXwx
+    fullyQualifiedName: Business Glossary.eYVBVYbXwx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eYVBVYbXwx
+    deleted: false
+  - id: 116c4011-6663-467b-be08-6200aeaf6564
+    type: glossaryTerm
+    name: eyOTPLlwva
+    fullyQualifiedName: Business Glossary.eyOTPLlwva
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: eyOTPLlwva
+    deleted: false
+  - id: f5c6b38e-9971-4bf8-ba2b-ac6746f28f23
+    type: glossaryTerm
+    name: fHLDnoxRMo
+    fullyQualifiedName: Business Glossary.eYVBVYbXwx.MKxGxcDgZQ.fHLDnoxRMo
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: fHLDnoxRMo
+    deleted: false
+  - id: 77c9ff6e-0974-40a5-a417-47409db9a292
+    type: glossaryTerm
+    name: fNDOmaNFrL
+    fullyQualifiedName: Business Glossary.fNDOmaNFrL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: fNDOmaNFrL
+    deleted: false
+  - id: f601c4d0-4079-4be9-9c4d-c5fbf1b23efc
+    type: glossaryTerm
+    name: fkfFJKzFoA
+    fullyQualifiedName: Business Glossary.iobIbdNMzp.fkfFJKzFoA
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: fkfFJKzFoA
+    deleted: false
+  - id: 3aa285c8-8088-47ab-b88f-9c084d41759c
+    type: glossaryTerm
+    name: fpZqeCSqZq
+    fullyQualifiedName: Business Glossary.fpZqeCSqZq
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: fpZqeCSqZq
+    deleted: false
+  - id: 8bc2350a-679c-4f6a-a2d3-e182345b8e7c
+    type: glossaryTerm
+    name: gaEZiWtSOg
+    fullyQualifiedName: Business Glossary.gaEZiWtSOg
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: gaEZiWtSOg
+    deleted: false
+  - id: f8e9000b-6fe7-4629-b5a1-d991b3a59c16
+    type: glossaryTerm
+    name: giCEZmzIUj
+    fullyQualifiedName: Business Glossary.giCEZmzIUj
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: giCEZmzIUj
+    deleted: false
+  - id: d0924d15-7103-4bb7-8734-23942ba11967
+    type: glossaryTerm
+    name: gjYFSeWqcB
+    fullyQualifiedName: Business Glossary.gjYFSeWqcB
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: gjYFSeWqcB
+    deleted: false
+  - id: 40875499-c4b2-4f7d-8bc5-de6fdb90f408
+    type: glossaryTerm
+    name: guLrfvgctC
+    fullyQualifiedName: Business Glossary.guLrfvgctC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: guLrfvgctC
+    deleted: false
+  - id: f75654d7-c2da-41e6-803a-c9e52b5705b8
+    type: glossaryTerm
+    name: gzEKYUiQCM
+    fullyQualifiedName: Business Glossary.tnjlsYfUcP.xbFntjNgKm.iMFsIcQmuZ.gzEKYUiQCM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: gzEKYUiQCM
+    deleted: false
+  - id: 4d66d6cc-4994-41ca-b38c-78df504e9b18
+    type: glossaryTerm
+    name: gzxoWhaOYz
+    fullyQualifiedName: Business Glossary.gzxoWhaOYz
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: gzxoWhaOYz
+    deleted: false
+  - id: e737c610-c487-434a-8173-4d3ec2348549
+    type: glossaryTerm
+    name: hNFVUoxpuq
+    fullyQualifiedName: Business Glossary.asSoJbkzNC.hNFVUoxpuq
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: hNFVUoxpuq
+    deleted: false
+  - id: 8fbfa9d3-1b54-400d-b09c-03697f059fb5
+    type: glossaryTerm
+    name: hriAbLieBZ
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: hriAbLieBZ
+    deleted: false
+  - id: 20025ae6-e6e9-4fd2-9537-ce7ab6b0f293
+    type: glossaryTerm
+    name: iHdiznWNFf
+    fullyQualifiedName: Business Glossary.iHdiznWNFf
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: iHdiznWNFf
+    deleted: false
+  - id: e73f08a0-9aa8-40be-b88e-99418264150b
+    type: glossaryTerm
+    name: iMFsIcQmuZ
+    fullyQualifiedName: Business Glossary.tnjlsYfUcP.xbFntjNgKm.iMFsIcQmuZ
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: iMFsIcQmuZ
+    deleted: false
+  - id: 8c37431e-eef2-4cb0-bb0a-669907e1f3df
+    type: glossaryTerm
+    name: iTVWQooalw
+    fullyQualifiedName: Business Glossary.iTVWQooalw
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: iTVWQooalw
+    deleted: false
+  - id: 42b85c30-a379-45cd-befb-64e1740dc95f
+    type: glossaryTerm
+    name: ijNCyFtFnF
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc.vlrrdEWYwc.ijNCyFtFnF
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ijNCyFtFnF
+    deleted: false
+  - id: 866f7825-7bd9-42bb-9a47-d7d626814dae
+    type: glossaryTerm
+    name: ikqqThGvCY
+    fullyQualifiedName: Business Glossary.OIKXnBywed.QICYvHmOeI.RmkZVkTiaM.ikqqThGvCY
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ikqqThGvCY
+    deleted: false
+  - id: d76d88e7-8765-4fc9-a474-d5750ab18e00
+    type: glossaryTerm
+    name: iobIbdNMzp
+    fullyQualifiedName: Business Glossary.iobIbdNMzp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: iobIbdNMzp
+    deleted: false
+  - id: 17f1a26f-c573-454e-8612-51b7fac1e530
+    type: glossaryTerm
+    name: ixswrQtTer
+    fullyQualifiedName: Business Glossary.ixswrQtTer
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ixswrQtTer
+    deleted: false
+  - id: 4494e5ff-1ed0-469b-81fc-dfb30bcfd49e
+    type: glossaryTerm
+    name: jtJkmKfXQL
+    fullyQualifiedName: Business Glossary.jtJkmKfXQL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: jtJkmKfXQL
+    deleted: false
+  - id: 9a1d5b61-8bba-491d-aa9a-0ed5391f0592
+    type: glossaryTerm
+    name: jxIeFhJyPE
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.jxIeFhJyPE
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: jxIeFhJyPE
+    deleted: false
+  - id: 74727e47-c256-43c1-a118-96aef10eeb20
+    type: glossaryTerm
+    name: jxWMFuPBup
+    fullyQualifiedName: Business Glossary.MGBQVtTRrN.vRQhwEjydN.jxWMFuPBup
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: jxWMFuPBup
+    deleted: false
+  - id: cf1ce1dc-275d-4817-acee-103083f361a6
+    type: glossaryTerm
+    name: lARHmAriAM
+    fullyQualifiedName: Business Glossary.lARHmAriAM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lARHmAriAM
+    deleted: false
+  - id: 9fe02c53-80e8-4668-afda-1db382206a66
+    type: glossaryTerm
+    name: lMZwpnPwoH
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.jxIeFhJyPE.lMZwpnPwoH
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lMZwpnPwoH
+    deleted: false
+  - id: e1367353-21fa-4acb-8a9b-caca222781fe
+    type: glossaryTerm
+    name: lNYCDskSiI
+    fullyQualifiedName: Business Glossary.SRFXIPKQGl.lNYCDskSiI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lNYCDskSiI
+    deleted: false
+  - id: f4d8e495-29f8-4d5d-ba8e-c7dbe426c7ee
+    type: glossaryTerm
+    name: lUFYqFebAn
+    fullyQualifiedName: Business Glossary.lUFYqFebAn
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lUFYqFebAn
+    deleted: false
+  - id: 55166b36-8ae9-4bea-bd4a-a74daa15283b
+    type: glossaryTerm
+    name: lhbUMWkedO
+    fullyQualifiedName: Business Glossary.lhbUMWkedO
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lhbUMWkedO
+    deleted: false
+  - id: 63f6c9d3-e7f1-4cac-abe8-7317a72e28b2
+    type: glossaryTerm
+    name: lmBfTyahcu
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc.vlrrdEWYwc.ijNCyFtFnF.lmBfTyahcu
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lmBfTyahcu
+    deleted: false
+  - id: 6bbf9bba-f3ee-41de-b660-830f1103a705
+    type: glossaryTerm
+    name: lsXZbDNGIU
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: lsXZbDNGIU
+    deleted: false
+  - id: ff0af338-b4ce-4b15-90d2-b967c0325557
+    type: glossaryTerm
+    name: ltlRlBVMEY
+    fullyQualifiedName: Business Glossary.ltlRlBVMEY
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ltlRlBVMEY
+    deleted: false
+  - id: a2ed649d-76d2-48e0-99d7-e61e4f070d0e
+    type: glossaryTerm
+    name: mPfaWXkGBk
+    fullyQualifiedName: Business Glossary.mPfaWXkGBk
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: mPfaWXkGBk
+    deleted: false
+  - id: 8ea67cd5-898d-4c89-a9b4-7e2145994c11
+    type: glossaryTerm
+    name: mYczUsBLkL
+    fullyQualifiedName: Business Glossary.mYczUsBLkL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: mYczUsBLkL
+    deleted: false
+  - id: 0e667bf4-7fb8-435f-bc5d-08a42ba0a842
+    type: glossaryTerm
+    name: mZgJvzUtwe
+    fullyQualifiedName: Business Glossary.SIXKOZcDNC.mZgJvzUtwe
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: mZgJvzUtwe
+    deleted: false
+  - id: 456eed5f-7889-4a3c-b570-e111974cea5c
+    type: glossaryTerm
+    name: mieRvXMCIe
+    fullyQualifiedName: Business Glossary.mieRvXMCIe
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: mieRvXMCIe
+    deleted: false
+  - id: a7e664fb-37cf-4fe3-98a2-fd6ef3959093
+    type: glossaryTerm
+    name: mkfDoeeqnL
+    fullyQualifiedName: Business Glossary.mkfDoeeqnL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: mkfDoeeqnL
+    deleted: false
+  - id: d965d73e-4685-442f-9795-2ca0c96b50ef
+    type: glossaryTerm
+    name: nFfGTwQyWp
+    fullyQualifiedName: Business Glossary.nFfGTwQyWp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: nFfGTwQyWp
+    deleted: false
+  - id: 2f3ab484-e41b-4dbc-adb9-06c0f2023f44
+    type: glossaryTerm
+    name: oHMBtahLDV
+    fullyQualifiedName: Business Glossary.oHMBtahLDV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: oHMBtahLDV
+    deleted: false
+  - id: 4d24268b-454a-4349-b97c-fcd887beeca5
+    type: glossaryTerm
+    name: oHXctUMtpg
+    fullyQualifiedName: Business Glossary.gaEZiWtSOg.oHXctUMtpg
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: oHXctUMtpg
+    deleted: false
+  - id: 09aebbd7-9bdb-45eb-9cc4-14c69e7c5c52
+    type: glossaryTerm
+    name: oTzXnUEccO
+    fullyQualifiedName: Business Glossary.oTzXnUEccO
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: oTzXnUEccO
+    deleted: false
+  - id: ba9165be-7616-48d4-a98c-eafbc7a8f79f
+    type: glossaryTerm
+    name: oqkQKvaWFF
+    fullyQualifiedName: Business Glossary.OIKXnBywed.QICYvHmOeI.RmkZVkTiaM.ikqqThGvCY.oqkQKvaWFF
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: oqkQKvaWFF
+    deleted: false
+  - id: b01df960-2ca1-456f-a06d-80140784bcd0
+    type: glossaryTerm
+    name: orXXxUFQbC
+    fullyQualifiedName: Business Glossary.QdCqAWNkNb.eJtTvpyNyC.orXXxUFQbC
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: orXXxUFQbC
+    deleted: false
+  - id: 5ae4e63e-16b0-45e6-b21e-68604230c356
+    type: glossaryTerm
+    name: pAYgOOhrTv
+    fullyQualifiedName: Business Glossary.FvAklnvwCe.pAYgOOhrTv
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: pAYgOOhrTv
+    deleted: false
+  - id: 8efc0832-3068-4324-9df3-806e4bf8b506
+    type: glossaryTerm
+    name: qPjESKilWM
+    fullyQualifiedName: Business Glossary.YMUKAEVQtm.qPjESKilWM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: qPjESKilWM
+    deleted: false
+  - id: e73e5114-316c-41ee-93c3-1f11980a91ea
+    type: glossaryTerm
+    name: qyuEcxBigc
+    fullyQualifiedName: Business Glossary.qyuEcxBigc
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: qyuEcxBigc
+    deleted: false
+  - id: 2bae5f65-0e58-4d47-b7b0-aac67a0e5d6c
+    type: glossaryTerm
+    name: rXmGkbMmDc
+    fullyQualifiedName: Business Glossary.TiYDvMKDWs.rXmGkbMmDc
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: rXmGkbMmDc
+    deleted: false
+  - id: fe9f8085-517f-4a4f-86a9-45caa0b6ade8
+    type: glossaryTerm
+    name: rkSQQpIDhn
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.rkSQQpIDhn
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: rkSQQpIDhn
+    deleted: false
+  - id: 62925348-e233-42b5-b17f-51abe27cb081
+    type: glossaryTerm
+    name: sCSdzeVoiT
+    fullyQualifiedName: Business Glossary.sCSdzeVoiT
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: sCSdzeVoiT
+    deleted: false
+  - id: 3a06a42e-98ea-4e89-b899-e3d0aef4f0ef
+    type: glossaryTerm
+    name: sWyiNiUOtL
+    fullyQualifiedName: Business Glossary.eTGMYAyXui.vzYSdwUnUx.OwUKBYgqIC.sWyiNiUOtL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: sWyiNiUOtL
+    deleted: false
+  - id: c578bdd8-3263-43d0-86e0-8ea72e08a7ef
+    type: glossaryTerm
+    name: seKNSEIloO
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.rkSQQpIDhn.seKNSEIloO
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: seKNSEIloO
+    deleted: false
+  - id: 78ba252e-91c9-4127-90f9-043bc753a946
+    type: glossaryTerm
+    name: sjmgCxblcW
+    fullyQualifiedName: Business Glossary.eWKuCUZinH.GwIpAsCBwM.sjmgCxblcW
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: sjmgCxblcW
+    deleted: false
+  - id: d52564b8-9050-4712-a6c5-69df25a4468d
+    type: glossaryTerm
+    name: stxEZdypdP
+    fullyQualifiedName: Business Glossary.eBskhUNvgl.stxEZdypdP
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: stxEZdypdP
+    deleted: false
+  - id: cf0cc9a6-587f-4a55-a947-6c2fd95ff5e6
+    type: glossaryTerm
+    name: tPCREuBqkl
+    fullyQualifiedName: Business Glossary.tPCREuBqkl
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: tPCREuBqkl
+    deleted: false
+  - id: 16b22121-d9b7-4c9d-aa0e-9b0117b26aa9
+    type: glossaryTerm
+    name: tnjlsYfUcP
+    fullyQualifiedName: Business Glossary.tnjlsYfUcP
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: tnjlsYfUcP
+    deleted: false
+  - id: c82a192c-e0d0-43af-88b2-70a7b0b97998
+    type: glossaryTerm
+    name: uEijKnLWDn
+    fullyQualifiedName: Business Glossary.uEijKnLWDn
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: uEijKnLWDn
+    deleted: false
+  - id: a1464c92-f187-44a6-bae7-35471d7bca99
+    type: glossaryTerm
+    name: uNPwtcHzfq
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU.ePFxjeHMJE.URPYNysfWo.ynLLOUGiSr.uNPwtcHzfq
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: uNPwtcHzfq
+    deleted: false
+  - id: 0cf7c20b-3e7d-4f08-b8e1-762aac5bae83
+    type: glossaryTerm
+    name: uSHINftmTL
+    fullyQualifiedName: Business Glossary.uSHINftmTL
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: uSHINftmTL
+    deleted: false
+  - id: 7808a5d2-ca12-4cdb-baf1-c5dca519837f
+    type: glossaryTerm
+    name: vCOTuefvfV
+    fullyQualifiedName: Business Glossary.vCOTuefvfV
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vCOTuefvfV
+    deleted: false
+  - id: a640752f-3cbd-4645-a9be-c9b39f8a1aa0
+    type: glossaryTerm
+    name: vRQhwEjydN
+    fullyQualifiedName: Business Glossary.MGBQVtTRrN.vRQhwEjydN
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vRQhwEjydN
+    deleted: false
+  - id: 8b8d2249-a26b-4577-abf7-237407bd5c17
+    type: glossaryTerm
+    name: vYwyEwDMxI
+    fullyQualifiedName: Business Glossary.PictDwJkaX.vYwyEwDMxI
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vYwyEwDMxI
+    deleted: false
+  - id: 5dde81cf-d569-44d4-baf5-4691939f480a
+    type: glossaryTerm
+    name: vbxWHEeqOA
+    fullyQualifiedName: Business Glossary.TiYDvMKDWs.rXmGkbMmDc.vbxWHEeqOA
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vbxWHEeqOA
+    deleted: false
+  - id: c97e874b-d7fe-436d-9870-1158fa1a6a92
+    type: glossaryTerm
+    name: vlrrdEWYwc
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc.vlrrdEWYwc
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vlrrdEWYwc
+    deleted: false
+  - id: 057b0e52-5638-4df0-aa0b-f8975f224870
+    type: glossaryTerm
+    name: vuNSZzrvoK
+    fullyQualifiedName: Business Glossary.vuNSZzrvoK
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vuNSZzrvoK
+    deleted: false
+  - id: 5156a5a2-8629-400e-9460-1796f4cc69d6
+    type: glossaryTerm
+    name: vzYSdwUnUx
+    fullyQualifiedName: Business Glossary.eTGMYAyXui.vzYSdwUnUx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: vzYSdwUnUx
+    deleted: false
+  - id: c9ad1fad-2e84-4ad0-b635-7b2e11b33d21
+    type: glossaryTerm
+    name: wQFITbVUUM
+    fullyQualifiedName: Business Glossary.bsqcjsSNhc.LsOWHefDei.wQFITbVUUM
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: wQFITbVUUM
+    deleted: false
+  - id: 033bde9d-14ad-43a0-a015-b559a17b2655
+    type: glossaryTerm
+    name: wzZWUUGADR
+    fullyQualifiedName: Business Glossary.AmXpeGgMhs.JmCKiENIlI.wzZWUUGADR
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: wzZWUUGADR
+    deleted: false
+  - id: f91b36b6-cce7-451d-a66d-81b6dd8bd742
+    type: glossaryTerm
+    name: xWgvZnqtlx
+    fullyQualifiedName: Business Glossary.xWgvZnqtlx
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: xWgvZnqtlx
+    deleted: false
+  - id: 09677206-954b-4728-a01a-c63ad69de599
+    type: glossaryTerm
+    name: xbFntjNgKm
+    fullyQualifiedName: Business Glossary.tnjlsYfUcP.xbFntjNgKm
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: xbFntjNgKm
+    deleted: false
+  - id: adffe22a-b52b-4b05-8a56-86c8f30ad54c
+    type: glossaryTerm
+    name: xoSvLTLOZP
+    fullyQualifiedName: Business Glossary.bVFLrOslKo.NxunRbLhiu.xoSvLTLOZP
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: xoSvLTLOZP
+    deleted: false
+  - id: 867f108b-733f-4afc-ad0e-df134ac41532
+    type: glossaryTerm
+    name: ynLLOUGiSr
+    fullyQualifiedName: Business Glossary.lsXZbDNGIU.ePFxjeHMJE.URPYNysfWo.ynLLOUGiSr
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: ynLLOUGiSr
+    deleted: false
+  - id: 6e140bf9-0c3a-4dc9-a731-6df262cc1eb8
+    type: glossaryTerm
+    name: zBJBomYTLp
+    fullyQualifiedName: Business Glossary.eTGMYAyXui.vzYSdwUnUx.OwUKBYgqIC.sWyiNiUOtL.zBJBomYTLp
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: zBJBomYTLp
+    deleted: false
+  - id: 2fd64318-2cd8-4d92-a607-dabbd042eefc
+    type: glossaryTerm
+    name: zhuufVMltO
+    fullyQualifiedName: Business Glossary.dzqrgfoccl.hriAbLieBZ.jxIeFhJyPE.lMZwpnPwoH.zhuufVMltO
+    description: Lorem ipsum dolor sit amet. Ut alias ducimus et dolores delectus
+      et distinctio quas vel nulla dolores! Ut molestiae atque qui expedita       officia
+      est exercitationem dignissimos? Sed illo velit et dolorem debitis non dolore
+      vero non placeat nulla.
+    displayName: zhuufVMltO
+    deleted: false
+owners: []
+isJoinable: true
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated: []
+  fieldsDeleted:
+    - name: domains
+      oldValue: "[{\"id\":\"52fc9c67-78b7-42bf-8147-69278853c230\",\"type\":\"domain\"\
+        ,\"name\":\"Design\",\"fullyQualifiedName\":\"Design\",\"description\":\"\
+        <p>Here' the description for Product Design</p>\",\"displayName\":\"Product\
+        \ Design \"},{\"id\":\"46a38dc6-805a-42bf-90ce-bbf641e75f35\",\"type\":\"\
+        domain\",\"name\":\"Domain Pere\",\"fullyQualifiedName\":\"Domain Pere\",\"\
+        description\":\"asd\",\"displayName\":\"Domain Pere\"},{\"id\":\"85e932a2-e842-4a68-8db7-abf5f78bbcbd\"\
+        ,\"type\":\"domain\",\"name\":\"Domain Test\",\"fullyQualifiedName\":\"Domain\
+        \ Test\",\"description\":\"<p>Domain Test</p>\",\"displayName\":\"Domain Test\"\
+        },{\"id\":\"e0c57bf5-9e9c-4757-9a2b-3303af44361e\",\"type\":\"domain\",\"\
+        name\":\"Sub Domain Pere\",\"fullyQualifiedName\":\"Domain Pere.Sub Domain\
+        \ Pere\",\"description\":\"asd\",\"displayName\":\"Sub Domain Pere\"},{\"\
+        id\":\"c5953260-03a0-47dc-a602-7431689b0a3e\",\"type\":\"domain\",\"name\"\
+        :\"testing-rbac-sub-domain\",\"fullyQualifiedName\":\"Design.testing-rbac-sub-domain\"\
+        ,\"description\":\"Testing RBAC SUB DOMAIN\",\"displayName\":\"Testing RBAC\
+        \ SUB DOMAIN\"}]"
+    - name: users
+      oldValue: "[{\"id\":\"091672b2-b0e8-477a-9813-7bd1a4c2dffa\",\"type\":\"user\"\
+        ,\"name\":\"bulflag\",\"fullyQualifiedName\":\"bulflag\",\"displayName\":\"\
+        bulflag\",\"deleted\":false},{\"id\":\"decd8b29-08c3-4d45-82aa-d124dd2083bf\"\
+        ,\"type\":\"user\",\"name\":\"chrismartinuxin\",\"fullyQualifiedName\":\"\
+        chrismartinuxin\",\"displayName\":\"Chris Martin\",\"deleted\":false},{\"\
+        id\":\"22960105-736b-4e97-8848-ba97ff929976\",\"type\":\"user\",\"name\":\"\
+        dashamilenkkaya\",\"fullyQualifiedName\":\"dashamilenkkaya\",\"displayName\"\
+        :\"dashamilenkkaya\",\"deleted\":false},{\"id\":\"2afb3fcd-e075-4b6c-ae17-f883356cea12\"\
+        ,\"type\":\"user\",\"name\":\"sherin.s\",\"fullyQualifiedName\":\"\\\"sherin.s\\\
+        \"\",\"displayName\":\"sherin.s\",\"deleted\":false}]"
+  previousVersion: 0.8
+  changeSummary: {}
+defaultRoles: []
+inheritedRoles: []
+policies: []
+domains: []
