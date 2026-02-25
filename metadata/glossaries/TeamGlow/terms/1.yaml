@@ -1,0 +1,51 @@
+name: 1
+displayName: ""
+description: <p>1</p>
+style: {}
+fullyQualifiedName: TeamGlow.1
+synonyms: []
+glossary:
+  id: f33e685e-38ac-4802-af7f-59ae6e13dc83
+  type: glossary
+  name: TeamGlow
+  fullyQualifiedName: TeamGlow
+  description: <p>TeamGLow</p>
+  displayName: TeamGlow
+  deleted: false
+children: []
+relatedTerms: []
+references: []
+impersonatedBy: governance-bot
+reviewers:
+  - id: 1d17752e-dc86-4185-9173-a32a7e94a159
+    type: team
+    name: Accounting
+    fullyQualifiedName: Accounting
+    description: ""
+    displayName: Accounting
+    deleted: false
+    inherited: true
+owners:
+  - id: 0fe10121-536f-4310-b759-352bbcd631af
+    type: user
+    name: ram.balaji
+    fullyQualifiedName: '"ram.balaji"'
+    displayName: Ram Narayan Balaji
+    deleted: false
+usageCount: 0
+tags: []
+incrementalChangeDescription:
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: entityStatus
+      oldValue: Draft
+      newValue: In Review
+  fieldsDeleted: []
+  previousVersion: 0.1
+  changeSummary: {}
+entityStatus: In Review
+provider: user
+mutuallyExclusive: false
+domains: []
+dataProducts: []
+childrenCount: 0
