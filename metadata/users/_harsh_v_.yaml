@@ -1,0 +1,107 @@
+name: harsh.v
+fullyQualifiedName: '"harsh.v"'
+displayName: Harsh Vador
+email: harsh.v@deuexsolutions.com
+isBot: false
+isAdmin: false
+allowImpersonation: false
+profile:
+  images:
+    image: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s96-c
+    image24: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s24-c
+    image32: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s32-c
+    image48: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s48-c
+    image72: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s72-c
+    image192: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s192-c
+    image512: https://lh3.googleusercontent.com/a/ACg8ocIFc8HFnOPoKVAC0HJMHoHzSTAlA0Fjm-agWJdoLePOjg=s512-c
+teams:
+  - id: 9efbccd7-3d0b-485d-89c4-ac0f8fc80da5
+    type: team
+    name: Organization
+    fullyQualifiedName: Organization
+    description: <p>Organization under which all the other team hierarchy is created
+      Organization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is createdOrganization
+      under which all the other team hierarchy is createdOrganization under which
+      all the other team hierarchy is createdOrganization under which all the other
+      team hierarchy is createdOrganization under which all the other team hierarchy
+      is createdOrganization under which all the other team hierarchy is created</p>
+    displayName: Organization
+    deleted: false
+personas:
+  - id: 2eaa7092-d961-4d07-87e0-9ad4ac6a00c3
+    type: persona
+    name: asfd
+    fullyQualifiedName: asfd
+    description: ""
+    displayName: Pranita Testing
+owns:
+  - id: 5cd26047-0e2f-44f8-9612-c43b7e0c1fdb
+    type: glossaryTerm
+    name: Bug.Testing%done
+    fullyQualifiedName: '"Bug.Test"."Bug.Testing%done"'
+    description: Bug.Testing%done
+    displayName: Bug.Testing%done
+    deleted: false
+  - id: 8eff4195-5ad7-42de-9eaf-387918fa4c9c
+    type: tag
+    name: xyzZ
+    fullyQualifiedName: '`custom`.xyzZ'
+    description: <p>DATABRICKS TAG TEST</p>
+    displayName: xyzZ
+    deleted: false
+follows:
+  - id: a11898ae-fef4-4805-8e67-8e4f736c5990
+    type: table
+    name: dim_address_clean
+    fullyQualifiedName: sample_data.ecommerce_db.shopify.dim_address_clean
+    description: "<p>Query the database's metadata (like&nbsp;INFORMATION_SCHEMA.TABLES&nbsp;or\
+      \ system tables) to find the most recently created table whose name or schema\
+      \ indicates it contains customer infoOnce you have the table name, use a standard&nbsp;SELECT&nbsp;statement\
+      \ to fetch the data1</p><div data-type=\"file-attachment\" data-url=\"https://cdn-ds.com/blogs-media/sites/540/2019/06/19204149/2020-Porsche-911-Carrera-S-A_o.jpg\"\
+      \ data-filename=\"\" data-mimetype=\"image\" data-uploading=\"false\" data-upload-progress=\"\
+      0\" data-is-image=\"true\"></div><p></p>"
+    displayName: dim_address_clean
+    deleted: false
+  - id: bc00e114-04a8-4f2c-acca-127cdcdb0832
+    type: domain
+    name: test1
+    fullyQualifiedName: Customer Domain.test1
+    description: <p>gh</p>
+    displayName: test1
+incrementalChangeDescription:
+  fieldsAdded:
+    - name: domains
+      newValue: "[{\"id\":\"46a38dc6-805a-42bf-90ce-bbf641e75f35\",\"type\":\"domain\"\
+        ,\"name\":\"Domain Pere\",\"fullyQualifiedName\":\"Domain Pere\",\"description\"\
+        :\"asd\",\"displayName\":\"Domain Pere\"}]"
+  fieldsUpdated: []
+  fieldsDeleted: []
+  previousVersion: 0.7
+  changeSummary: {}
+roles:
+  - id: 23b655f2-6e56-49c0-8811-c0f65ee76fe9
+    type: role
+    name: dashboard viewall deny
+    fullyQualifiedName: dashboard viewall deny
+    description: ""
+    displayName: dashboard viewall deny
+    deleted: false
+inheritedRoles: []
+domains:
+  - id: 46a38dc6-805a-42bf-90ce-bbf641e75f35
+    type: domain
+    name: Domain Pere
+    fullyQualifiedName: Domain Pere
+    description: asd
+    displayName: Domain Pere
+lastLoginTime: 1772003296079
+lastActivityTime: 1772003296079
+personaPreferences: []
