@@ -37,14 +37,25 @@ owns:
     deleted: false
 follows: []
 incrementalChangeDescription:
-  fieldsAdded: []
+  fieldsAdded:
+    - name: domains
+      newValue: "[{\"id\":\"46a38dc6-805a-42bf-90ce-bbf641e75f35\",\"type\":\"domain\"\
+        ,\"name\":\"Domain Pere\",\"fullyQualifiedName\":\"Domain Pere\",\"description\"\
+        :\"asd\",\"displayName\":\"Domain Pere\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 0.5
+  changeSummary: {}
 roles: []
 inheritedRoles: []
 isEmailVerified: true
-domains: []
-lastLoginTime: 1771820539145
-lastActivityTime: 1771820539145
+domains:
+  - id: 46a38dc6-805a-42bf-90ce-bbf641e75f35
+    type: domain
+    name: Domain Pere
+    fullyQualifiedName: Domain Pere
+    description: asd
+    displayName: Domain Pere
+lastLoginTime: 1772002931617
+lastActivityTime: 1772002931617
 personaPreferences: []
