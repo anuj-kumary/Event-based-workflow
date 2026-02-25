@@ -25,9 +25,15 @@ parents:
     displayName: Organization
     deleted: false
 children: []
-users: []
+users:
+  - id: f7971c49-bca7-48fb-bb1a-821a1e2c5802
+    type: user
+    name: prajwal161998
+    fullyQualifiedName: prajwal161998
+    displayName: prajwal161998
+    deleted: false
 childrenCount: 0
-userCount: 0
+userCount: 1
 owns:
   - id: ff929830-e0e3-4091-9918-258c8ddbd94e
     type: glossaryTerm
