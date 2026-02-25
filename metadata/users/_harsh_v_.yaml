@@ -78,21 +78,27 @@ follows:
     displayName: test1
 incrementalChangeDescription:
   fieldsAdded:
-    - name: domains
-      newValue: "[{\"id\":\"46a38dc6-805a-42bf-90ce-bbf641e75f35\",\"type\":\"domain\"\
-        ,\"name\":\"Domain Pere\",\"fullyQualifiedName\":\"Domain Pere\",\"description\"\
-        :\"asd\",\"displayName\":\"Domain Pere\"}]"
+    - name: roles
+      newValue: "[{\"id\":\"a280ec43-1664-4185-9796-8accffea64c8\",\"type\":\"role\"\
+        ,\"name\":\"DataConsumer\",\"fullyQualifiedName\":\"DataConsumer\",\"displayName\"\
+        :\"Data Consumer\",\"deleted\":false}]"
   fieldsUpdated: []
-  fieldsDeleted: []
-  previousVersion: 0.7
+  fieldsDeleted:
+    - name: roles
+      oldValue: "[{\"id\":\"23b655f2-6e56-49c0-8811-c0f65ee76fe9\",\"type\":\"role\"\
+        ,\"name\":\"dashboard viewall deny\",\"fullyQualifiedName\":\"dashboard viewall\
+        \ deny\",\"description\":\"\",\"displayName\":\"dashboard viewall deny\",\"\
+        deleted\":false}]"
+  previousVersion: 0.8
   changeSummary: {}
 roles:
-  - id: 23b655f2-6e56-49c0-8811-c0f65ee76fe9
+  - id: a280ec43-1664-4185-9796-8accffea64c8
     type: role
-    name: dashboard viewall deny
-    fullyQualifiedName: dashboard viewall deny
-    description: ""
-    displayName: dashboard viewall deny
+    name: DataConsumer
+    fullyQualifiedName: DataConsumer
+    description: Users with Data Consumer role use different data assets for their
+      day to day work.
+    displayName: Data Consumer
     deleted: false
 inheritedRoles: []
 domains:
