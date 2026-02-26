@@ -534,7 +534,7 @@ follows:
     fullyQualifiedName: Databricks 1.samples.bakehouse.media_customer_reviews
     description: "<p>This table stores customer reviews for various franchises, capturing\
       \ insights through review content and timestamps, enabling businesses to analyze\
-      \ customer feedback and improve their services.</p><p></p><p>uPDATE DESCRIPTION</p><p>update</p><div\
+      \ customer feedback and improve their services.</p><p></p><p>update new description</p><div\
       \ data-type=\"file-attachment\" data-url=\"http://sandbox-beta.open-metadata.org/api/v1/attachments/5a25ef8f-be0d-47e4-8e82-9ce7359c01c2/download?direct=true\"\
       \ data-filename=\"sample-png-files-sample_640x426.png\" data-filesize=\"534283\"\
       \ data-mimetype=\"image/png\" data-uploading=\"false\" data-upload-progress=\"\
