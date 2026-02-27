@@ -882,16 +882,11 @@ tableProfilerConfig:
 customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
-    - name: domains
-      newValue: "[{\"id\":\"ef10e521-d8c5-4d84-b039-549e8d1d8aaf\",\"type\":\"domain\"\
-        ,\"name\":\"Customer Domain\",\"fullyQualifiedName\":\"Customer Domain\",\"\
-        description\":\"<p>Customer Domain</p>\",\"displayName\":\"Customer\"},{\"\
-        id\":\"607e76d0-fe8a-4cac-aae7-6a4bd0f77d53\",\"type\":\"domain\",\"name\"\
-        :\"D1\",\"fullyQualifiedName\":\"D1\",\"description\":\"<p>Test</p>\",\"displayName\"\
-        :\"D1\"}]"
+    - name: extension
+      newValue: "[{\"asd\":[\"324\"]}]"
   fieldsUpdated: []
   fieldsDeleted: []
-  previousVersion: 25.5
+  previousVersion: 25.7
   changeSummary:
     owners:
       changeSource: Manual
@@ -934,12 +929,12 @@ extension:
       deleted: false
       displayName: Andrew Short
       fullyQualifiedName: andrew_short2
-    - id: 2f70dc00-6053-46d2-97c4-80fcb3d6195f
-      name: guerreromaureen
+    - id: 50bb97a5-cf0c-4273-930e-b3e802b52ee1
+      name: aaron.singh2
       type: user
       deleted: false
-      displayName: Kelly Smith
-      fullyQualifiedName: guerreromaureen
+      displayName: Aaron Singh
+      fullyQualifiedName: '"aaron.singh2"'
     - id: 46176ec0-595d-412e-a1f1-f207da730868
       name: aaron.warren5
       type: user
@@ -958,6 +953,8 @@ extension:
       deleted: false
       displayName: aashit.kothari
       fullyQualifiedName: '"aashit.kothari"'
+  asd:
+    - 324
   columnCP: mohitTest
   completeNess:
     rows:
