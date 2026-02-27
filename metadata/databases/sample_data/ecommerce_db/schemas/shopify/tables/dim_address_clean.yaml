@@ -858,7 +858,7 @@ tags:
     appliedAt: 1768343330000
     appliedBy: harsha
 joins:
-  startDate: 2026-01-21
+  startDate: 2026-01-28
   dayCount: 30
   columnJoins:
     - columnName: address_id
@@ -883,10 +883,11 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"string\":\"dd\"}]"
+      newValue: "[{\"completeNess\":{\"rows\":[{\"sample\":\"tetetefaf\"}],\"columns\"\
+        :[\"sample\"]}}]"
   fieldsUpdated: []
   fieldsDeleted: []
-  previousVersion: 25.2
+  previousVersion: 25.3
   changeSummary:
     owners:
       changeSource: Manual
@@ -936,6 +937,11 @@ extension:
       displayName: Kelly Smith
       fullyQualifiedName: guerreromaureen
   columnCP: mohitTest
+  completeNess:
+    rows:
+      - sample: tetetefaf
+    columns:
+      - sample
   duration: sales value increase
   email: admin@openmetadata.org
   enumCustomProperty:
