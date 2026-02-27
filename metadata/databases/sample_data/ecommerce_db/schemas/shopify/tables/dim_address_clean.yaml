@@ -883,7 +883,10 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"sqlQuery\":\"SELECT *\"}]"
+      newValue: "[{\"testTeam\":{\"id\":\"1d17752e-dc86-4185-9173-a32a7e94a159\",\"\
+        type\":\"team\",\"deleted\":false,\"description\":\"\",\"displayName\":\"\
+        Accounting\",\"fullyQualifiedName\":\"Accounting\",\"name\":\"Accounting\"\
+        }}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -988,6 +991,14 @@ extension:
   sqlQuery: SELECT *
   string: dd
   testDuration: 1743506615089
+  testTeam:
+    id: 1d17752e-dc86-4185-9173-a32a7e94a159
+    name: Accounting
+    type: team
+    deleted: false
+    description: ""
+    displayName: Accounting
+    fullyQualifiedName: Accounting
 sourceUrl: http://localhost:8080/dim_address_clean
 domains:
   - id: ef10e521-d8c5-4d84-b039-549e8d1d8aaf
