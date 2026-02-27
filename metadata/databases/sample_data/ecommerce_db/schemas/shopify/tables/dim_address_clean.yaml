@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"markdown\":\"<p>teststtt</p>\"}]"
+      newValue: "[{\"sqlQuery\":\"SELECT *\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -985,6 +985,7 @@ extension:
     displayName: ETA Predictions
     fullyQualifiedName: mlflow_svc.eta_predictions
   number: 5
+  sqlQuery: SELECT *
   string: dd
   testDuration: 1743506615089
 sourceUrl: http://localhost:8080/dim_address_clean
