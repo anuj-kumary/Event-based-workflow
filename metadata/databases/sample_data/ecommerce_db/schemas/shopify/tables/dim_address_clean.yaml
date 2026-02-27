@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"newproperty\":\"33\"}]"
+      newValue: "[{\"testcustom\":[\"1.0\",\"2.0\"]}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -989,6 +989,9 @@ extension:
   number: 5
   sqlQuery: SELECT *
   string: dd
+  testcustom:
+    - 1.0
+    - 2.0
   testDuration: 1743506615089
   testTeam:
     id: 1d17752e-dc86-4185-9173-a32a7e94a159
