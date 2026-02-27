@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"timeInterval\":{\"start\":1123322231123,\"end\":1231231223412}}]"
+      newValue: "[{\"name\":\"asddasdasaasdasd\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -985,6 +985,7 @@ extension:
     description: ETA Predictions Model
     displayName: ETA Predictions
     fullyQualifiedName: mlflow_svc.eta_predictions
+  name: asddasdasaasdasd
   newproperty: 33
   number: 5
   sqlQuery: SELECT *
