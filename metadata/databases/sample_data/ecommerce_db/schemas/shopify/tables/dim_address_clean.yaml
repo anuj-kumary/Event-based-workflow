@@ -881,13 +881,16 @@ tableProfilerConfig:
   computeColumnMetrics: true
 customMetrics: []
 incrementalChangeDescription:
-  fieldsAdded:
-    - name: extension
-      newValue: "[{\"completeNess\":{\"rows\":[{\"sample\":\"tetetefaf\"}],\"columns\"\
-        :[\"sample\"]}}]"
-  fieldsUpdated: []
+  fieldsAdded: []
+  fieldsUpdated:
+    - name: extension.completeNess
+      oldValue: "{\"rows\":[{\"sample\":\"tetetefaf\"}],\"columns\":[\"sample\"]}"
+      newValue: "{\"rows\":[{\"sample\":\"tetetefaf\"},{\"sample\":\"dasdadsd\"},{\"\
+        sample\":\"dasdasdasd\"},{\"sample\":\"asdasdassdad\"},{\"sample\":\"dasdasdasd\"\
+        },{\"sample\":\"dasdasdasdsa\"},{\"sample\":\"asdasdasdasdasds\"}],\"columns\"\
+        :[\"sample\"]}"
   fieldsDeleted: []
-  previousVersion: 25.3
+  previousVersion: 25.4
   changeSummary:
     owners:
       changeSource: Manual
@@ -940,6 +943,12 @@ extension:
   completeNess:
     rows:
       - sample: tetetefaf
+      - sample: dasdadsd
+      - sample: dasdasdasd
+      - sample: asdasdassdad
+      - sample: dasdasdasd
+      - sample: dasdasdasdsa
+      - sample: asdasdasdasdasds
     columns:
       - sample
   duration: sales value increase
