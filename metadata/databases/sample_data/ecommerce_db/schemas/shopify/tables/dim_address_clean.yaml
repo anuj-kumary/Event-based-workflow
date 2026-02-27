@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"testcustom\":[\"1.0\",\"2.0\"]}]"
+      newValue: "[{\"timestamp\":2211211221234}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -1001,6 +1001,7 @@ extension:
     description: ""
     displayName: Accounting
     fullyQualifiedName: Accounting
+  timestamp: 2211211221234
 sourceUrl: http://localhost:8080/dim_address_clean
 domains:
   - id: ef10e521-d8c5-4d84-b039-549e8d1d8aaf
