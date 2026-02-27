@@ -883,12 +883,21 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
-    - name: extension.completeNess
-      oldValue: "{\"rows\":[{\"sample\":\"tetetefaf\"}],\"columns\":[\"sample\"]}"
-      newValue: "{\"rows\":[{\"sample\":\"tetetefaf\"},{\"sample\":\"dasdadsd\"},{\"\
-        sample\":\"dasdasdasd\"},{\"sample\":\"asdasdassdad\"},{\"sample\":\"dasdasdasd\"\
-        },{\"sample\":\"dasdasdasdsa\"},{\"sample\":\"asdasdasdasdasds\"}],\"columns\"\
-        :[\"sample\"]}"
+    - name: extension.aanew
+      oldValue: "[{\"id\":\"1fa4f15e-700d-48f5-b661-8129cf7dae7a\",\"name\":\"andrew_short2\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Andrew Short\",\"fullyQualifiedName\"\
+        :\"andrew_short2\"},{\"id\":\"2f70dc00-6053-46d2-97c4-80fcb3d6195f\",\"name\"\
+        :\"guerreromaureen\",\"type\":\"user\",\"deleted\":false,\"displayName\":\"\
+        Kelly Smith\",\"fullyQualifiedName\":\"guerreromaureen\"}]"
+      newValue: "[{\"id\":\"1fa4f15e-700d-48f5-b661-8129cf7dae7a\",\"name\":\"andrew_short2\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Andrew Short\",\"fullyQualifiedName\"\
+        :\"andrew_short2\"},{\"id\":\"2f70dc00-6053-46d2-97c4-80fcb3d6195f\",\"name\"\
+        :\"guerreromaureen\",\"type\":\"user\",\"deleted\":false,\"displayName\":\"\
+        Kelly Smith\",\"fullyQualifiedName\":\"guerreromaureen\"},{\"id\":\"46176ec0-595d-412e-a1f1-f207da730868\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron Warren\",\"fullyQualifiedName\"\
+        :\"\\\"aaron.warren5\\\"\",\"name\":\"aaron.warren5\"},{\"id\":\"8bbd0ec5-5225-4748-83e7-0e87e38ec865\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron Johnson\",\"\
+        fullyQualifiedName\":\"aaron_johnson0\",\"name\":\"aaron_johnson0\"}]"
   fieldsDeleted: []
   previousVersion: 25.4
   changeSummary:
@@ -939,6 +948,18 @@ extension:
       deleted: false
       displayName: Kelly Smith
       fullyQualifiedName: guerreromaureen
+    - id: 46176ec0-595d-412e-a1f1-f207da730868
+      name: aaron.warren5
+      type: user
+      deleted: false
+      displayName: Aaron Warren
+      fullyQualifiedName: '"aaron.warren5"'
+    - id: 8bbd0ec5-5225-4748-83e7-0e87e38ec865
+      name: aaron_johnson0
+      type: user
+      deleted: false
+      displayName: Aaron Johnson
+      fullyQualifiedName: aaron_johnson0
   columnCP: mohitTest
   completeNess:
     rows:
