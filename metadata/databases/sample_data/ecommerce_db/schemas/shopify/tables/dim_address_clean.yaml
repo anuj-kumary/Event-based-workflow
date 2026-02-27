@@ -883,10 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"mlModel\":{\"id\":\"6ef964b1-edb7-4d7c-85f1-51845197206c\",\"\
-        type\":\"mlmodel\",\"deleted\":false,\"description\":\"ETA Predictions Model\"\
-        ,\"displayName\":\"ETA Predictions\",\"fullyQualifiedName\":\"mlflow_svc.eta_predictions\"\
-        ,\"name\":\"eta_predictions\"}}]"
+      newValue: "[{\"number\":5}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -986,6 +983,7 @@ extension:
     description: ETA Predictions Model
     displayName: ETA Predictions
     fullyQualifiedName: mlflow_svc.eta_predictions
+  number: 5
   string: dd
   testDuration: 1743506615089
 sourceUrl: http://localhost:8080/dim_address_clean
