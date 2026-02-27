@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"number\":5}]"
+      newValue: "[{\"markdown\":\"<p>teststtt</p>\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -974,6 +974,7 @@ extension:
   enumSingleSelect:
     - 'medium '
   integer: 2
+  markdown: <p>teststtt</p>
   memberid: -3
   mlModel:
     id: 6ef964b1-edb7-4d7c-85f1-51845197206c
