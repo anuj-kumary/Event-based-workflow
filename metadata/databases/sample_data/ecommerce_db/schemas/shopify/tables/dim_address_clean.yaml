@@ -883,10 +883,24 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
-    - name: extension.sqlQuery
-      oldValue: '"SELECT *\nSELECT *SELECT *\nSELECT *\nSELECT *SELECT *\nSELECT *SELECT
-        *\n\n\nSELECT *SELECT *SELECT *\n\nSELECT *\nSELECT *SELECT *\n"'
-      newValue: '"SELECT *\nSELECT *SELECT *"'
+    - name: extension.aanew
+      oldValue: "[{\"id\":\"1fa4f15e-700d-48f5-b661-8129cf7dae7a\",\"name\":\"andrew_short2\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Andrew Short\",\"fullyQualifiedName\"\
+        :\"andrew_short2\"},{\"id\":\"50bb97a5-cf0c-4273-930e-b3e802b52ee1\",\"name\"\
+        :\"aaron.singh2\",\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron\
+        \ Singh\",\"fullyQualifiedName\":\"\\\"aaron.singh2\\\"\"}]"
+      newValue: "[{\"id\":\"1fa4f15e-700d-48f5-b661-8129cf7dae7a\",\"name\":\"andrew_short2\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Andrew Short\",\"fullyQualifiedName\"\
+        :\"andrew_short2\"},{\"id\":\"50bb97a5-cf0c-4273-930e-b3e802b52ee1\",\"name\"\
+        :\"aaron.singh2\",\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron\
+        \ Singh\",\"fullyQualifiedName\":\"\\\"aaron.singh2\\\"\"},{\"id\":\"46176ec0-595d-412e-a1f1-f207da730868\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron Warren\",\"fullyQualifiedName\"\
+        :\"\\\"aaron.warren5\\\"\",\"name\":\"aaron.warren5\"},{\"id\":\"8bbd0ec5-5225-4748-83e7-0e87e38ec865\"\
+        ,\"type\":\"user\",\"deleted\":false,\"displayName\":\"Aaron Johnson\",\"\
+        fullyQualifiedName\":\"aaron_johnson0\",\"name\":\"aaron_johnson0\"},{\"id\"\
+        :\"9480535c-7b74-4c3e-890a-354161f6aa29\",\"type\":\"user\",\"deleted\":false,\"\
+        displayName\":\"aashit.kothari\",\"fullyQualifiedName\":\"\\\"aashit.kothari\\\
+        \"\",\"name\":\"aashit.kothari\"}]"
   fieldsDeleted: []
   previousVersion: 25.8
   changeSummary:
@@ -937,6 +951,24 @@ extension:
       deleted: false
       displayName: Aaron Singh
       fullyQualifiedName: '"aaron.singh2"'
+    - id: 46176ec0-595d-412e-a1f1-f207da730868
+      name: aaron.warren5
+      type: user
+      deleted: false
+      displayName: Aaron Warren
+      fullyQualifiedName: '"aaron.warren5"'
+    - id: 8bbd0ec5-5225-4748-83e7-0e87e38ec865
+      name: aaron_johnson0
+      type: user
+      deleted: false
+      displayName: Aaron Johnson
+      fullyQualifiedName: aaron_johnson0
+    - id: 9480535c-7b74-4c3e-890a-354161f6aa29
+      name: aashit.kothari
+      type: user
+      deleted: false
+      displayName: aashit.kothari
+      fullyQualifiedName: '"aashit.kothari"'
   asd:
     - 324
   chiragtest: test@test.com
