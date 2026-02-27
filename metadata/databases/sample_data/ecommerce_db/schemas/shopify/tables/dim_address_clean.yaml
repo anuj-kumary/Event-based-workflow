@@ -884,9 +884,9 @@ incrementalChangeDescription:
   fieldsAdded: []
   fieldsUpdated:
     - name: extension.sqlQuery
-      oldValue: '"SELECT *"'
-      newValue: '"SELECT *\nSELECT *SELECT *\nSELECT *\nSELECT *SELECT *\nSELECT *SELECT
+      oldValue: '"SELECT *\nSELECT *SELECT *\nSELECT *\nSELECT *SELECT *\nSELECT *SELECT
         *\n\n\nSELECT *SELECT *SELECT *\n\nSELECT *\nSELECT *SELECT *\n"'
+      newValue: '"SELECT *\nSELECT *SELECT *"'
   fieldsDeleted: []
   previousVersion: 25.8
   changeSummary:
@@ -972,16 +972,7 @@ extension:
   name: asddasdasaasdasd
   newproperty: 33
   number: 5
-  sqlQuery: |
-    SELECT *
-    SELECT *SELECT *
-    SELECT *
-    SELECT *SELECT *
-    SELECT *SELECT *
-
-
-    SELECT *SELECT *SELECT *
-
+  sqlQuery: |-
     SELECT *
     SELECT *SELECT *
   string: dd
