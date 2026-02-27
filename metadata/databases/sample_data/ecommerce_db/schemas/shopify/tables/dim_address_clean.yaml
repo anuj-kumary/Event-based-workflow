@@ -883,7 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"timestamp\":2211211221234}]"
+      newValue: "[{\"timeline\":\"13-02-2026 13:01:05\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -1001,6 +1001,7 @@ extension:
     description: ""
     displayName: Accounting
     fullyQualifiedName: Accounting
+  timeline: 13-02-2026 13:01:05
   timestamp: 2211211221234
 sourceUrl: http://localhost:8080/dim_address_clean
 domains:
