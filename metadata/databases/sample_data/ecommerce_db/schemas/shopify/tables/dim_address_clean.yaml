@@ -883,10 +883,7 @@ customMetrics: []
 incrementalChangeDescription:
   fieldsAdded:
     - name: extension
-      newValue: "[{\"testTeam\":{\"id\":\"1d17752e-dc86-4185-9173-a32a7e94a159\",\"\
-        type\":\"team\",\"deleted\":false,\"description\":\"\",\"displayName\":\"\
-        Accounting\",\"fullyQualifiedName\":\"Accounting\",\"name\":\"Accounting\"\
-        }}]"
+      newValue: "[{\"chiragtest\":\"test@test.com\"}]"
   fieldsUpdated: []
   fieldsDeleted: []
   previousVersion: 25.8
@@ -958,6 +955,7 @@ extension:
       fullyQualifiedName: '"aashit.kothari"'
   asd:
     - 324
+  chiragtest: test@test.com
   columnCP: mohitTest
   completeNess:
     rows:
